@@ -1,0 +1,23 @@
+institutes:
+  - name: IATE
+    employees:
+        - email: ilya.shabelnik@mytona.com
+          fio:
+            firstName: Сергей
+            secondName: Петров
+            middleName: Аркадьевич
+  - name: СГТУ
+    employees:
+      - email: shaidurov.ilha@yandex.ru
+        fio:
+          firstName: Ilya
+          secondName: Shaidurov
+          middleName: Valera
+
+  - name: СТГУ им. Гагарина Ю.А.
+    employees:
+      - email: shaitantip@mail.ru
+        fio:
+          firstName: Иван
+          secondName: Иванов
+          middleName: Петрович
