@@ -1,9 +1,6 @@
 package com.example.email.service;
 
-import com.example.email.model.Employee;
-import com.example.email.model.Fio;
-import com.example.email.model.Institute;
-import com.example.email.model.InstituteStore;
+import com.example.email.model.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -14,6 +11,8 @@ import java.util.List;
 public class EmailService {
     private final static String regFio = "${Fio}";
     private final static String regInstitute = "${InstituteName}";
+
+    private final static String regDeclination = "${Declination}";
     @Autowired
     private SendService sendService;
     @Autowired
@@ -37,7 +36,8 @@ public class EmailService {
         Fio fio = employee.getFio();
         String emailAddress = employee.getEmail();
         String topicForSend = getCorrectTopic(topic, instituteName);
-        String messageForSend = getCorrectMessage(message, instituteName, fio.toString());
+        String declinationName = employee.getDeclination();
+        String messageForSend = getCorrectMessage(message, instituteName, fio.toString(), declinationName);
         sendService.sendEmail(emailAddress, topicForSend, messageForSend);
     }
 
@@ -48,10 +48,10 @@ public class EmailService {
         return topic.replace(regInstitute, instituteName);
     }
 
-    private String getCorrectMessage(String message, String instituteName, String fio) {
-        if (!message.contains(regInstitute) || !message.contains(regFio)) {
+    private String getCorrectMessage(String message, String instituteName, String fio, String declination) {
+        if (!message.contains(regInstitute) || !message.contains(regFio) || !message.contains(regDeclination)) {
             throw new UnsupportedOperationException("Не найден шаблон в сообщении для института!");
         }
-        return message.replace(regInstitute, instituteName).replace(regFio, fio);
+        return message.replace(regInstitute, instituteName).replace(regFio, fio).replace(regDeclination, declination);
     }
 }

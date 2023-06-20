@@ -11,4 +11,5 @@ public class Employee {
 
     private Fio fio;
     private String email;
+    private String declination;
 }
