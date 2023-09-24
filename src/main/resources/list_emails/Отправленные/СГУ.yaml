@@ -1,0 +1,540 @@
+institutes:
+  - name: СГУ
+    employees:
+      - email: vetrogon@sevsu.ru
+        fio:
+          firstName: Александр
+          secondName: Ветрогон
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: nichkova@sevsu.ru
+        fio:
+          firstName: Лариса
+          secondName: Ничкова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: AYTarakhovskiy@sevsu.ru
+        fio:
+          firstName: Алексей
+          secondName: Тараховский
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: VIShevchenko@sevsu.ru
+        fio:
+          firstName: Виктория
+          secondName: Шевченко
+          middleName: Игоревна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: IPShumejko@sevsu.ru
+        fio:
+          firstName: Ирина
+          secondName: Шумейко
+          middleName: Петровна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: bryukhovetskiy@sevsu.ru
+        fio:
+          firstName: Алексей
+          secondName: Брюховецкий
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: m.i.ozhiganova@sevsu.ru
+        fio:
+          firstName: Марина
+          secondName: Ожиганова
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: KVPerepadya@sevsu.ru
+        fio:
+          firstName: Константин
+          secondName: Перепадя
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: GVLekarev@sevsu.ru
+        fio:
+          firstName: Геннадий
+          secondName: Лекарев
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: KUFedorovsky@sevsu.ru
+        fio:
+          firstName: Константин
+          secondName: Федоровский
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: SAPodporin@sevsu.ru
+        fio:
+          firstName: Алим
+          secondName: Аблаев
+          middleName: Рустемович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: SAKoneva@sevsu.ru
+        fio:
+          firstName: Светлана
+          secondName: Конева
+          middleName: Андреевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: AGBaranov@sevsu.ru
+        fio:
+          firstName: Алексей
+          secondName: Баранов
+          middleName: Геннадиевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: BABukach@sevsu.ru
+        fio:
+          firstName: Борис
+          secondName: Букач
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: odincova@sevsu.ru
+        fio:
+          firstName: Татьяна
+          secondName: Одинцова
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: EVChaykina@sevsu.ru
+        fio:
+          firstName: Елена
+          secondName: Чайкина
+          middleName: Васильевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: VEKhrabrova@sevsu.ru
+        fio:
+          firstName: Валерия
+          secondName: Храброва
+          middleName: Евгеньевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: IVSultanova@sevsu.ru
+        fio:
+          firstName: Ирина
+          secondName: Султанова
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: NLBezhanova@sevsu.ru
+        fio:
+          firstName: Наталия
+          secondName: Бежанова
+          middleName: Леонидовна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: n.n.murovanaja@sevsu.ru
+        fio:
+          firstName: Нонна
+          secondName: Мурованая
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: k.b.matuzaev@sevsu.ru
+        fio:
+          firstName: Кирилл
+          secondName: Матузаев
+          middleName: Борисович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: VEGubin@sevsu.ru
+        fio:
+          firstName: Владимир
+          secondName: Губин
+          middleName: Евгеньевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: a.a.skidan@sevsu.ru
+        fio:
+          firstName: Александр
+          secondName: Скидан
+          middleName: Антонович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: BAYakimovich@sevsu.ru
+        fio:
+          firstName: Борис
+          secondName: Якимович
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: VMZavyalov@sevsu.ru
+        fio:
+          firstName: Валерий
+          secondName: Завьялов
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: EAMacduch@sevsu.ru
+        fio:
+          firstName: Екатерина
+          secondName: Магдыч
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: GVKucherik@sevsu.ru
+        fio:
+          firstName: Галина
+          secondName: Кучерик
+          middleName: Валентиновна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: OSStatsenko@sevsu.ru
+        fio:
+          firstName: Оксана
+          secondName: Стаценко
+          middleName: Станиславовна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: SAVasilyev@sevsu.ru
+        fio:
+          firstName: Станислав
+          secondName: Васильвев
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: evskrebets@sevsu.ru
+        fio:
+          firstName: Елена
+          secondName: Скребец
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: SVOchkurenko@sevsu.ru
+        fio:
+          firstName: Сергей
+          secondName: Очкуренко
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: AVPoshivailova@sevsu.ru
+        fio:
+          firstName: Анна
+          secondName: Пошивайлова
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: PPYermolov@sevsu.ru
+        fio:
+          firstName: Павел
+          secondName: Ермолов
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: VVKuvshinov@sevsu.ru
+        fio:
+          firstName: Павел
+          secondName: Кузнецов
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: sypetrova@sevsu.ru
+        fio:
+          firstName: Светлана
+          secondName: Петрова
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: ILAfonin@sevsu.ru
+        fio:
+          firstName: Игорь
+          secondName: Афонин
+          middleName: Леонидович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: YPMikhaylyuk@sevsu.ru
+        fio:
+          firstName: Юрий
+          secondName: Михайлюк
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: kabanov@sevsu.ru
+        fio:
+          firstName: Алексей
+          secondName: Кабанов
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: savochkin@sevsu.ru
+        fio:
+          firstName: Александр
+          secondName: Савочкин
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: DMTatarkov@sevsu.ru
+        fio:
+          firstName: Дмитрий
+          secondName: Татарков
+          middleName: Борисович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: e.e.bojtsova@sevsu.ru
+        fio:
+          firstName: Елена
+          secondName: Бойцова
+          middleName: Евгеньевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: AIBoyarkin@sevsu.ru
+        fio:
+          firstName: Аркадий
+          secondName: Бояркин
+          middleName: Ильич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: NSRudenko@sevsu.ru
+        fio:
+          firstName: Наталья
+          secondName: Руденко
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: AAIrhin@sevsu.ru
+        fio:
+          firstName: Александр
+          secondName: Ирхин
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: gvkosov@sevsu.ru
+        fio:
+          firstName: Геннадий
+          secondName: Косов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: tnkorzh@sevsu.ru
+        fio:
+          firstName: Татьяна
+          secondName: Корж
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: AVMiroshnichenko@sevsu.ru
+        fio:
+          firstName: Анна
+          secondName: Мирошниченко
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: OVYarmak@sevsu.ru
+        fio:
+          firstName: Ольга
+          secondName: Ярмак
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: i.a.tjalleva@sevsu.ru
+        fio:
+          firstName: Ирина
+          secondName: Тяллева
+          middleName: Алексеевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: l.a.morja@sevsu.ru
+        fio:
+          firstName: Лилия
+          secondName: Моря
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: NVGnilomedova@sevsu.ru
+        fio:
+          firstName: Нонна
+          secondName: Гниломедова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: eekrasilnikova@sevsu.ru
+        fio:
+          firstName: Элина
+          secondName: Красильникова
+          middleName: Эдуардовна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: rapatskij@sevsu.ru
+        fio:
+          firstName: Юрий
+          secondName: Рапацкий
+          middleName: Леонидович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: SVTarasenko@sevsu.ru
+        fio:
+          firstName: Сергей
+          secondName: Тарасенко
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: gnrotanov@sevsu.ru
+        fio:
+          firstName: Геннадий
+          secondName: Ротанов
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: OSZavyalova@sevsu.ru
+        fio:
+          firstName: Оксана
+          secondName: Завьялова
+          middleName: Стефановна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: TIAndreenko@sevsu.ru
+        fio:
+          firstName: Татьяна
+          secondName: Андреенко
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: СГУ
+    employees:
+      - email: SOPapkov@sevsu.ru
+        fio:
+          firstName: Станислав
+          secondName: Папков
+          middleName: Олегович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: AMChuharev@sevsu.ru
+        fio:
+          firstName: Александр
+          secondName: Чухарев
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: СГУ
+    employees:
+      - email: abpolonskiy@sevsu.ru
+        fio:
+          firstName: Александр
+          secondName: Полонский
+          middleName: Борисович
+        declination: Уважаемый

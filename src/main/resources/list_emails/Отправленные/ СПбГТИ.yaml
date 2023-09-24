@@ -1,0 +1,638 @@
+- name: СПбГТИ
+  employees:
+    - email: zarembo@technolog.edu.ru
+      fio:
+        firstName: Виктор
+        secondName: Иосифович
+        middleName: Зарембо
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: inorganic_chemistry_dept@technolog.edu.ru
+      fio:
+        firstName: Владимир
+        secondName: Иванович
+        middleName: Башмаков
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: postnov_ay@technolog.edu.ru
+      fio:
+        firstName: Аркадий
+        secondName: Юрьевич
+        middleName: Постнов
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: dev@technolog.edu.ru
+      fio:
+        firstName: Вячеслав
+        secondName: Николаевич
+        middleName: Нараев
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: phti@technolog.edu.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Валентинович
+        middleName: Агафонов
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: physical_chemistry_dept@technolog.edu.ru
+      fio:
+        firstName: Светлана
+        secondName: Георгиевна
+        middleName: Изотова
+      declination: Уважаемая
+
+- name: СПбГТИ
+  employees:
+    - email: malygin@technolog.edu.ru
+      fio:
+        firstName: Анатолий
+        secondName: Алексеевич
+        middleName: Малыгин
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: panteleev@technolog.edu.ru
+      fio:
+        firstName: Игорь
+        secondName: Борисович
+        middleName: Пантелеев
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: mlpetrov@technolog.edu.ru
+      fio:
+        firstName: Михаил
+        secondName: Львович
+        middleName: Петров
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: sladkovskiy@technolog.edu.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Андреевич
+        middleName: Сладковский
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: shamtsyan@technolog.edu.ru
+      fio:
+        firstName: Марк
+        secondName: Маркович
+        middleName: Шамцян
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: petrochemical_dept@technolog.edu.ru
+      fio:
+        firstName: Сергей
+        secondName: Вячеславович
+        middleName: Дронов
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: sorption_dept@technolog.edu.ru
+      fio:
+        firstName: Вячеслав
+        secondName: Викторович
+        middleName: Самонин
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: sramsh@technolog.edu.ru
+      fio:
+        firstName: Станислав
+        secondName: Михайлович
+        middleName: Рамш
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: rubber_dept@technolog.edu.ru
+      fio:
+        firstName: Димитрий
+        secondName: Андреевич
+        middleName: де Векки
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: bioactive_dept@technolog.edu.ru
+      fio:
+        firstName: Виктор
+        secondName: Иосифович
+        middleName: Крутиков
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: engineering_design_dept@technolog.edu.ru
+      fio:
+        firstName: Марина
+        secondName: Александровна
+        middleName: Яблокова
+      declination: Уважаемая
+
+- name: СПбГТИ
+  employees:
+    - email: theoretical_mechanics_dept@technolog.edu.ru
+      fio:
+        firstName: Николай
+        secondName: Александрович
+        middleName: Марцулевич
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: center-orpp@technolog.edu.ru
+      fio:
+        firstName: Владислав
+        secondName: Павлович
+        middleName: Бритов
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: ohba@technolog.edu.ru
+      fio:
+        firstName: Руфат
+        secondName: Шовкетович
+        middleName: Абиев
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: prapp@technolog.edu.ru
+      fio:
+        firstName: Олег
+        secondName: Михайлович
+        middleName: Флисюк
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: materials_science_dept@technolog.edu.ru
+      fio:
+        firstName: Максим
+        secondName: Максимович
+        middleName: Сычёв
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: aphp@technolog.edu.ru
+      fio:
+        firstName: Леон
+        secondName: Абрамович
+        middleName: Русинов
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: maths_dept@technolog.edu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Васильевна
+        middleName: Слободинская
+      declination: Уважаемая
+
+- name: СПбГТИ
+  employees:
+    - email: cad_dept@technolog.edu.ru
+      fio:
+        firstName: Александр
+        secondName: Азерович
+        middleName: Мусаев
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: hprocess@technolog.edu.ru
+      fio:
+        firstName: Борис
+        secondName: Дмитриевич
+        middleName: Павлов
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: ingdefence@technolog.edu.ru
+      fio:
+        firstName: Григорий
+        secondName: Константинович
+        middleName: Ивахнюк
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: radioecology_dept@technolog.edu.ru
+      fio:
+        firstName: Алексей
+        secondName: Вадимович
+        middleName: Румянцев
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: physics_dept@technolog.edu.ru
+      fio:
+        firstName: Александр
+        secondName: Васильевич
+        middleName: Беляков
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: yudin@technolog.edu.ru
+      fio:
+        firstName: Игорь
+        secondName: Викторович
+        middleName: Юдин
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: blokhin@technolog.edu.ru
+      fio:
+        firstName: Александр
+        secondName: Андреевич
+        middleName: Блохин
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: nitrogen_dept@technolog.edu.ru
+      fio:
+        firstName: Александр
+        secondName: Александрович
+        middleName: Кирюшкин
+      declination: Уважаемый
+
+- name: СПбГТИ
+  employees:
+    - email: high_molecular_compounds_dept@technolog.edu.ru
+      fio:
+        firstName: Михаил
+        secondName: Алексеевич
+        middleName: Ищенко
+      declination: Уважаемый
+
+- name: СЮА
+  employees:
+    - email: tigip@jurac.ru
+      fio:
+        firstName: Светлана
+        secondName: Викторовна
+        middleName: Павлова
+      declination: Уважаемая
+
+- name: СЮА
+  employees:
+    - email: kmp@jurac.ru
+      fio:
+        firstName: Сергей
+        secondName: Алексеевич
+        middleName: Высоцкий
+      declination: Уважаемый
+
+- name: СЮА
+  employees:
+    - email: gpravo@jurac.ru
+      fio:
+        firstName: Анна
+        secondName: Евгеньевна
+        middleName: Толстова
+      declination: Уважаемая
+
+- name: СЮА
+  employees:
+    - email: akademkafedragpp@mail.ru
+      fio:
+        firstName: Елена
+        secondName: Сергеевна
+        middleName: Попова
+      declination: Уважаемая
+
+- name: СЮА
+  employees:
+    - email: psh@jurac.ru
+      fio:
+        firstName: Александр
+        secondName: Васильевич
+        middleName: Долматов
+      declination: Уважаемый
+
+- name: СЮА
+  employees:
+    - email: kriminalist@jurac.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Викторович
+        middleName: Ушатов
+      declination: Уважаемый
+
+- name: МБИ
+  employees:
+    - email: bbift@ibispb.ru
+      fio:
+        firstName: Светлана
+        secondName: Самойлова
+        middleName: Яна Владимировна
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: mitina@ibispb.ru
+      fio:
+        firstName: Юлия
+        secondName: Сергеевна
+        middleName: Бахтина
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: MEcon-Man@ibispb.ru
+      fio:
+        firstName: Марина
+        secondName: Ивановна
+        middleName: Барабанова
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: kaf_efpo@ibispb.ru
+      fio:
+        firstName: Анна
+        secondName: Васильевна
+        middleName: Затевахина
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: shashina@ibispb.ru
+      fio:
+        firstName: Ирина
+        secondName: Александровна
+        middleName: Шашина
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: barabanova@ibispb.ru
+      fio:
+        firstName: Марина
+        secondName: Ивановна
+        middleName: Барабанова
+      declination: Уважаемая
+
+- name: РХГА
+  employees:
+    - email: rgf@rhga.ru
+      fio:
+        firstName: Наталья
+        secondName: Сергеевна
+        middleName: Широглазова
+      declination: Уважаемая
+
+- name: РХГА
+  employees:
+    - email: arts@rhga.ru
+      fio:
+        firstName: Вадим
+        secondName: Борисович
+        middleName: Высоцкий
+      declination: Уважаемый
+
+- name: РХГА
+  employees:
+    - email: psihol@rhga.ru
+      fio:
+        firstName: Ирина
+        secondName: Аркадьевна
+        middleName: Вахрушева
+      declination: Уважаемая
+
+- name: РХГА
+  employees:
+    - email: theology@rhga.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Кириллович
+        middleName: Богатырёв
+      declination: Уважаемый
+
+- name: РХГА
+  employees:
+    - email: philosophy_religion@rhga.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Владимирович
+        middleName: Масленников
+      declination: Уважаемый
+
+- name: РХГА
+  employees:
+    - email: rector@rhga.ru
+      fio:
+        firstName: Оксана
+        secondName: Владимировна
+        middleName: Защиринская
+      declination: Уважаемая
+
+- name: РХГА
+  employees:
+    - email: nauka@rhga.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Владимирович
+        middleName: Масленников
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: actor@gitis.net
+      fio:
+        firstName: Сергей
+        secondName: Иванович
+        middleName: Яшин
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: director@gitis.net
+      fio:
+        firstName: Сергей
+        secondName: Васильевич
+        middleName: Женовач
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: circus@gitis.net
+      fio:
+        firstName: Максимилиан
+        secondName: Изяславович
+        middleName: Немчинский
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: music@gitis.net
+      fio:
+        firstName: Дмитрий
+        secondName: Александрович
+        middleName: Бертман
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: teatroved@gitis.net
+      fio:
+        firstName: Борис
+        secondName: Николаевич
+        middleName: Любимов
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: teatroved@gitis.net
+      fio:
+        firstName: Алексей
+        secondName: Вадимович
+        middleName: Бартошевич
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: ballet@gitis.net
+      fio:
+        firstName: Вячеслав
+        secondName: Михайлович
+        middleName: Гордеев
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: estrada@gitis.net
+      fio:
+        firstName: Владимир
+        secondName: Николаевич
+        middleName: Панков
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: producer@gitis.net
+      fio:
+        firstName: Елена
+        secondName: Николаевна
+        middleName: Симурзина
+      declination: Уважаемая
+
+- name: РГИСИ
+  employees:
+    - email: producer@gitis.net
+      fio:
+        firstName: Тахир
+        secondName: Гадельзянович
+        middleName: Иксанов
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: art@gitis.net
+      fio:
+        firstName: Станислав
+        secondName: Фёдорович
+        middleName: Морозов
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: tehnolog@gitis.net
+      fio:
+        firstName: Александр
+        secondName: Александрович
+        middleName: Урсин
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: voice@gitis.net
+      fio:
+        firstName: Вера
+        secondName: Петровна
+        middleName: Камышникова
+      declination: Уважаемая
+
+- name: РГИСИ
+  employees:
+    - email: tanec@gitis.net
+      fio:
+        firstName: Алла
+        secondName: Михайловна
+        middleName: Сигалова
+      declination: Уважаемая
+
+- name: РГИСИ
+  employees:
+    - email: stagemovement@gitis.net
+      fio:
+        firstName: Айдар
+        secondName: Загитович
+        middleName: Закиров
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: ifli@gitis.net
+      fio:
+        firstName: Андрей
+        secondName: Леонидович
+        middleName: Ястребов
+      declination: Уважаемый
+
+- name: РГИСИ
+  employees:
+    - email: music@gitis.net
+      fio:
+        firstName: Карина
+        secondName: Левоновна
+        middleName: Мелик-Пашаева
+      declination: Уважаемая
+
+- name: РГИСИ
+  employees:
+    - email: izo@gitis.net
+      fio:
+        firstName: Елена
+        secondName: Георгиевна
+        middleName: Короткевич
+      declination: Уважаемая
+
+- name: РГИСИ
+  employees:
+    - email: lingua@gitis.net
+      fio:
+        firstName: Ольга
+        secondName: Игоревна
+        middleName: Кувитанова
+      declination: Уважаемая

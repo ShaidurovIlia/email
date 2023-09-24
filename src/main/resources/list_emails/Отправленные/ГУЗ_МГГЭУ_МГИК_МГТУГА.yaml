@@ -1,0 +1,477 @@
+institutes:
+- name: ГУЗ
+  employees:
+    - email: architecture.guz@gmail.com
+      fio:
+        firstName: Светлана
+        secondName: Валерьевна
+        middleName: Ильвицкая
+      declination: Уважаемая
+
+- name: ГУЗ
+  employees:
+    - email: kaf.osnov.arch@mail.ru
+      fio:
+        firstName: Татьяна
+        secondName: Анатольевна
+        middleName: Пакунова
+      declination: Уважаемая
+
+- name: ГУЗ
+  employees:
+    - email: gruzdevvs@guz.ru
+      fio:
+        firstName: Владимир
+        secondName: Станиславович
+        middleName: Груздев
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: kafsocgum@guz.ru
+      fio:
+        firstName: Ирина
+        secondName: Ивановна
+        middleName: Широкорад
+      declination: Уважаемая
+
+- name: ГУЗ
+  employees:
+    - email: lab_zem_guz@mail.ru
+      fio:
+        firstName: Сергей
+        secondName: Николаевич
+        middleName: Волков
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: vmf_guz@mail.ru
+      fio:
+        firstName: Алексей
+        secondName: Архипович
+        middleName: Кочиев
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: sagaidak_ae@guz.ru
+      fio:
+        firstName: Александр
+        secondName: Эрнестович
+        middleName: Сагайдак
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: eco-guz@mail.ru
+      fio:
+        firstName: Валентин
+        secondName: Валентинович
+        middleName: Вершинин
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: t_papaskiri@mail.ru
+      fio:
+        firstName: Тимур
+        secondName: Валикович
+        middleName: Папаскири
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: landlady2002@mail.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Анатольевич
+        middleName: Шаповалов
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: wernjer@gmail.com
+      fio:
+        firstName: Лариса
+        secondName: Анатольевна
+        middleName: Гаврилова
+      declination: Уважаемая
+
+- name: ГУЗ
+  employees:
+    - email: geo.guz@mail.ru
+      fio:
+        firstName: Владимир
+        secondName: Александрович
+        middleName: Вологдин
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: lab.kadastr@mail.ru
+      fio:
+        firstName: Юрий
+        secondName: Анатольевич
+        middleName: Цыпкин
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: rabota12368@gmail.com
+      fio:
+        firstName: Елена
+        secondName: Александровна
+        middleName: Зацепина
+      declination: Уважаемая
+
+- name: ГУЗ
+  employees:
+    - email: guz-caf.pisckaev@ya.ru
+      fio:
+        firstName: Андрей
+        secondName: Юрьевич
+        middleName: Пискаев
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: ekonomguz@yandex.ru
+      fio:
+        firstName: Николай
+        secondName: Иванович
+        middleName: Иванов
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: cafedra.en@yandex.ru
+      fio:
+        firstName: Алла
+        secondName: Андреевна
+        middleName: Мурашева
+      declination: Уважаемая
+
+- name: ГУЗ
+  employees:
+    - email: kafzemprava.guz@mail.ru
+      fio:
+        firstName: Станислав
+        secondName: Анджеевич
+        middleName: Липски
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: gosprava100@yandex.ru
+      fio:
+        firstName: Сергей
+        secondName: Викторович
+        middleName: Королев
+      declination: Уважаемый
+
+- name: ГУЗ
+  employees:
+    - email: grazhdanskoe-pravo15@mail.ru
+      fio:
+        firstName: Алексей
+        secondName: Юрьевич
+        middleName: Калинин
+      declination: Уважаемый
+
+- name: МГГЭУ
+  employees:
+    - email: morozova@mggeu.ru
+      fio:
+        firstName: Екатерина
+        secondName: Викторовна
+        middleName: Морозова
+      declination: Уважаемая
+
+- name: МГГЭУ
+  employees:
+    - email: mitrofanov@mggeu.ru
+      fio:
+        firstName: Евгений
+        secondName: Петрович
+        middleName: Митрофанов
+      declination: Уважаемый
+
+- name: МГГЭУ
+  employees:
+    - email: kairova@mggeu.ru
+      fio:
+        firstName: Алла
+        secondName: Игнатовна
+        middleName: Каирова
+      declination: Уважаемая
+
+- name: МГГЭУ
+  employees:
+    - email: martyanova@mggeu.ru
+      fio:
+        firstName: Галина
+        secondName: Васильевна
+        middleName: Мартьянова
+      declination: Уважаемая
+
+- name: МГГЭУ
+  employees:
+    - email: nesterenko@mggeu.ru
+      fio:
+        firstName: Юлия
+        secondName: Николаевна
+        middleName: Нестеренко
+      declination: Уважаемая
+
+- name: МГГЭУ
+  employees:
+    - email: repkina@mggeu.ru
+      fio:
+        firstName: Ольга
+        secondName: Брониславовна
+        middleName: Репкина
+      declination: Уважаемая
+
+- name: МГГЭУ
+  employees:
+    - email: verzhinskaya@mggeu.ru
+      fio:
+        firstName: Инна
+        secondName: Владимировна
+        middleName: Вержинская
+      declination: Уважаемая
+
+- name: МГГЭУ
+  employees:
+    - email: ovodova@mggeu.ru
+      fio:
+        firstName: Светлана
+        secondName: Николаевна
+        middleName: Оводова
+      declination: Уважаемая
+
+- name: МГГЭУ
+  employees:
+    - email: kotovskaya@mggeu.ru
+      fio:
+        firstName: Светлана
+        secondName: Владимировна
+        middleName: Котовская
+      declination: Уважаемая
+
+- name: МГТУГА
+  employees:
+    - email: telaiad@mstuca.aero
+      fio:
+        firstName: Александр
+        secondName: Васильевич
+        middleName: Гостев
+      declination: Уважаемый
+
+- name: МГТУГА
+  employees:
+    - email: e.bolelov@mstuca.aero
+      fio:
+        firstName: Эдуард
+        secondName: Анатольевич
+        middleName: Болелов
+      declination: Уважаемый
+
+- name: МГТУГА
+  employees:
+    - email: a.kukoleva@mstuca.aero
+      fio:
+        firstName: Анна
+        secondName: Александровна
+        middleName: Куколева
+      declination: Уважаемая
+
+- name: МГТУГА
+  employees:
+    - email: kafmen@mstuca.aero
+      fio:
+        firstName: Николай
+        secondName: Дмитриевич
+        middleName: Корягин
+      declination: Уважаемый
+
+- name: МГТУГА
+  employees:
+    - email: s.khalutin@mstuca.aero
+      fio:
+        firstName: Сергей
+        secondName: Петрович
+        middleName: Халютин
+      declination: Уважаемый
+
+- name: МГТУГА
+  employees:
+    - email: uvd@mstuca.aero
+      fio:
+        firstName: Владимир
+        secondName: Николаевич
+        middleName: Нечаев
+      declination: Уважаемый
+
+- name: МГИК
+  employees:
+    - email: kaf_sound@mgik.org
+      fio:
+        firstName: Алексей
+        secondName: Константинович
+        middleName: Чудинов
+      declination: Уважаемый
+
+- name: МГИК
+  employees:
+    - email: kafactor@mgik.org
+      fio:
+        firstName: Николай
+        secondName: Лаврентьевич
+        middleName: Скорик
+      declination: Уважаемый
+
+- name: МГИК
+  employees:
+    - email: kafteatr@mgik.org
+      fio:
+        firstName: Марина
+        secondName: Викторовна
+        middleName: Комарова
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: musejnoe_delo@mgik.org
+      fio:
+        firstName: Екатерина
+        secondName: Юрьевна
+        middleName: Пухначева
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: kafpedpsih@mail.ru
+      fio:
+        firstName: Татьяна
+        secondName: Витальевна
+        middleName: Христидис
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: mt.skd2019@gmail.com
+      fio:
+        firstName: Николай
+        secondName: Николаевич
+        middleName: Ярошенко
+      declination: Уважаемый
+
+- name: МГИК
+  employees:
+    - email: aedinak@mgik.org
+      fio:
+        firstName: Елена
+        secondName: Ивановна
+        middleName: Григорьева
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: hor_dekanat@mgik.org
+      fio:
+        firstName: Анастасия
+        secondName: Сергеевна
+        middleName: Буцан
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: kkt-hf@bk.ru
+      fio:
+        firstName: Владимир
+        secondName: Петрович
+        middleName: Кириллов
+      declination: Уважаемый
+
+- name: МГИК
+  employees:
+    - email: narodnitanez@mgik.org
+      fio:
+        firstName: Антон
+        secondName: Александрович
+        middleName: Скрынников
+      declination: Уважаемый
+
+- name: МГИК
+  employees:
+    - email: ksh-hf@bk.ru
+      fio:
+        firstName: Сергей
+        secondName: Евгеньевич
+        middleName: Марченко
+      declination: Уважаемый
+
+- name: МГИК
+  employees:
+    - email: kfk-hf@bk.ru
+      fio:
+        firstName: Наталья
+        secondName: Александровна
+        middleName: Каравацкая
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: designmais@mgik.org
+      fio:
+        firstName: Юлия
+        secondName: Николаевна
+        middleName: Мерзликина
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: mguki_mass_media@mail.ru
+      fio:
+        firstName: Елена
+        secondName: Юрьевна
+        middleName: Коломийцева
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: risomais@mgik.org
+      fio:
+        firstName: Маргарита
+        secondName: Федоровна
+        middleName: Желновакова
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: Fotomais@mgik.org
+      fio:
+        firstName: Анатолий
+        secondName: Игоревич
+        middleName: Сивушов
+      declination: Уважаемый
+
+- name: МГИК
+  employees:
+    - email: muzobrazovaniemgik@gmail.com
+      fio:
+        firstName: Лариса
+        secondName: Станиславовна
+        middleName: Майковская
+      declination: Уважаемая
+
+- name: МГИК
+  employees:
+    - email: mgikduh@yandex.ru
+      fio:
+        firstName: Павел
+        secondName: Юрьевич
+        middleName: Делий
+      declination: Уважаемый

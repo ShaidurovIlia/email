@@ -1,0 +1,902 @@
+institutes:
+- name: СГМУ
+  employees:
+    - email: kaf.akusherstvo@ssmu.ru
+      fio:
+        firstName: Ирина
+        secondName: Куценко
+        middleName: Георгиевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.anatom.chel@ssmu.ru
+      fio:
+        firstName: Елена
+        secondName: Варакута
+        middleName: Юрьевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.anest@ssmu.ru
+      fio:
+        firstName: Владислав
+        secondName: Сорокожердиев
+        middleName: Олегович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.biologia@ssmu.ru
+      fio:
+        firstName: Ольга
+        secondName: Воронкова
+        middleName: Владимировна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.biofizika@ssmu.ru
+      fio:
+        firstName: Светлана
+        secondName: Гусакова
+        middleName: Валерьевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.biohimia@ssmu.ru
+      fio:
+        firstName: Людмила
+        secondName: Спирина
+        middleName: Викторовна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.gigiena@ssmu.ru
+      fio:
+        firstName: Инесса
+        secondName: Якимович
+        middleName: Юрьевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.gistologia@ssmu.ru
+      fio:
+        firstName: Сергей
+        secondName: Логвинов
+        middleName: Валентинович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.gosp.ped@ssmu.ru
+      fio:
+        firstName: Виктор
+        secondName: Желев
+        middleName: Александрович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.gosp.ter@ssmu.ru
+      fio:
+        firstName: Вадим
+        secondName: Калюжин
+        middleName: Витальевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.gosp.hirurg@ssmu.ru
+      fio:
+        firstName: Георгий
+        secondName: Дамбаев
+        middleName: Цыренович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.dermatologia@ssmu.ru
+      fio:
+        firstName: Светлана
+        secondName: Хардикова
+        middleName: Анатольевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.poli.ped@ssmu.ru
+      fio:
+        firstName: Юлия
+        secondName: Самойлова
+        middleName: Геннадьевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.det.hir.bol@ssmu.ru
+      fio:
+        firstName: Григорий
+        secondName: Слизовский
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.immunologia@ssmu.ru
+      fio:
+        firstName: Владимир
+        secondName: Климов
+        middleName: Васильевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.in.yaz@ssmu.ru
+      fio:
+        firstName: Светлана
+        secondName: Васильева
+        middleName: Леонидовна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.infect@ssmu.ru
+      fio:
+        firstName: Екатерина
+        secondName: Петрова
+        middleName: Игоревна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.kardio.fpk@ssmu.ru
+      fio:
+        firstName: Вячеслав
+        secondName: Рябов
+        middleName: Валерьевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.lat.yaz@ssmu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Шиканова
+        middleName: Аркадьевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.luch.diag@ssmu.ru
+      fio:
+        firstName: Вера
+        secondName: Завадовская
+        middleName: Дмитриевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.med.gen@ssmu.ru
+      fio:
+        firstName: Валерий
+        secondName: Пузырев
+        middleName: Павлович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.med.kiber@ssmu.ru
+      fio:
+        firstName: Наталья
+        secondName: Часовских
+        middleName: Юрьевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.mikrobiolog@ssmu.ru
+      fio:
+        firstName: Мария
+        secondName: Карпова
+        middleName: Ростиславовна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.morfologia@ssmu.ru
+      fio:
+        firstName: Иван
+        secondName: Мильто
+        middleName: Васильевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.nevrologia@ssmu.ru
+      fio:
+        firstName: Валентина
+        secondName: Алифирова
+        middleName: Михайловна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.norm.fiz@ssmu.ru
+      fio:
+        firstName: Юлия
+        secondName: Колобовникова
+        middleName: Владимировна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.norm.fiz@ssmu.ru
+      fio:
+        firstName: Т. Г.
+        secondName: Легоминова
+        middleName:
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.norm.fiz@ssmu.ru
+      fio:
+        firstName: Александр
+        secondName: Кольцов
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.ovp.fpk@ssmu.ru
+      fio:
+        firstName: Елена
+        secondName: Старовойтова
+        middleName: Александровна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.urolog@ssmu.ru
+      fio:
+        firstName: Вячеслав
+        secondName: Бощенко
+        middleName: Семенович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.ob.hirurg@ssmu.ru
+      fio:
+        firstName: Сергей
+        secondName: Баширов
+        middleName: Рафаэльевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.onkologia@ssmu.ru
+      fio:
+        firstName: Евгений
+        secondName: Чойнзонов
+        middleName: Лхамацыренович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.ozioz@ssmu.ru
+      fio:
+        firstName: Вадим
+        secondName: Бойков
+        middleName: Андреевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.otolaring@ssmu.ru
+      fio:
+        firstName: Наталия
+        secondName: Щербик
+        middleName: Вениаминовна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.oftalmolog@ssmu.ru
+      fio:
+        firstName: Ольга
+        secondName: Кривошеина
+        middleName: Ивановна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.pat.anatom@ssmu.ru
+      fio:
+        firstName: Марина
+        secondName: Завьялова
+        middleName: Викторовна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.pat.fiziolog@ssmu.ru
+      fio:
+        firstName: Ольга
+        secondName: Уразова
+        middleName: Ивановна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.prop.vn.bol@ssmu.ru
+      fio:
+        firstName: Инна
+        secondName: Беспалова
+        middleName: Давидовна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.pcih@ssmu.ru
+      fio:
+        firstName: Николай
+        secondName: Бохан
+        middleName: Александрович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.stom@ssmu.ru
+      fio:
+        firstName: Ольга
+        secondName: Байдик
+        middleName: Дмитриевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.upr.i.econom@ssmu.ru
+      fio:
+        firstName: Александр
+        secondName: Ратькин
+        middleName: Валентинович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.fak.ped@ssmu.ru
+      fio:
+        firstName: Ольга
+        secondName: Федорова
+        middleName: Сергеевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.fak.ter@ssmu.ru
+      fio:
+        firstName: Игорь
+        secondName: Долгалёв
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.fak.hir@ssmu.ru
+      fio:
+        firstName: Андрей
+        secondName: Ивченко
+        middleName: Олегович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.farmakologia@ssmu.ru
+      fio:
+        firstName: Александр
+        secondName: Венгеровский
+        middleName: Исаакович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.farm.himii@ssmu.ru
+      fio:
+        firstName: Михаил
+        secondName: Белоусов
+        middleName: Валерьевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.farm.teh@ssmu.ru
+      fio:
+        firstName: Владимир
+        secondName: Чучалин
+        middleName: Сергеевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.fizkultury@ssmu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Сарычева
+        middleName: Валерьевна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.filosofii@ssmu.ru
+      fio:
+        firstName: Александр
+        secondName: Ящук
+        middleName: Нилович
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.ftiziatr@ssmu.ru
+      fio:
+        firstName: Ольга
+        secondName: Филинюк
+        middleName: Владимировна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.klin.psih@ssmu.ru
+      fio:
+        firstName: Александр
+        secondName: Корнетов
+        middleName: Николаевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.himii@ssmu.ru
+      fio:
+        firstName: Мария
+        secondName: Зыкова
+        middleName: Владимировна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.hirurg.fpk@ssmu.ru
+      fio:
+        firstName: Максим
+        secondName: Грищенко
+        middleName: Юрьевич
+      declination: Уважаемый
+
+- name: СГМУ
+  employees:
+    - email: kaf.hirurg.pf@ssmu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Комкова
+        middleName: Борисовна
+      declination: Уважаемая
+
+- name: СГМУ
+  employees:
+    - email: kaf.economiki@ssmu.ru
+      fio:
+        firstName: Раиса
+        secondName: Эльмурзаева
+        middleName: Ахмедовна
+      declination: Уважаемая
+
+- name: МГТУ
+  employees:
+    - email: v.molodtsov@stankin.ru
+      fio:
+        firstName: Владимир
+        secondName: Молодцов
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: sen@stankin.ru
+      fio:
+        firstName: Евгений
+        secondName: Сосенушкин
+        middleName: Николаевич
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: n.korobova@stankin.ru
+      fio:
+        firstName: Наталья
+        secondName: Коробова
+        middleName: Васильевна
+      declination: Уважаемая
+
+- name: МГТУ
+  employees:
+    - email: s.grigoriev@stankin.ru
+      fio:
+        firstName: Сергей
+        secondName: Григорьев
+        middleName: Николаевич
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: av.chekanin@stankin.ru
+      fio:
+        firstName: Александр
+        secondName: Чеканин
+        middleName: Васильевич
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: aa.kutin@stankin.ru
+      fio:
+        firstName: Андрей
+        secondName: Кутин
+        middleName: Анатольевич
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: kuzin@stankin.ru
+      fio:
+        firstName: Валерий
+        secondName: Кузин
+        middleName: Викторович
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: a.tolok@stankin.ru
+      fio:
+        firstName: Алексей
+        secondName: Толок
+        middleName: Вячеславович
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: l.uvarova@stankin.ru
+      fio:
+        firstName: Людмила
+        secondName: Уварова
+        middleName: Александровна
+      declination: Уважаемая
+
+- name: МГТУ
+  employees:
+    - email: bmp@stankin.ru
+      fio:
+        firstName: Борис
+        secondName: Позднеев
+        middleName: Михайлович
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: ev.volkova@stankin.ru
+      fio:
+        firstName: Галина
+        secondName: Волкова
+        middleName: Дмитриевна
+      declination: Уважаемая
+
+- name: МГТУ
+  employees:
+    - email: a.oleynik@stankin.ru
+      fio:
+        firstName: Андрей
+        secondName: Олейник
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: vitel@stankin.ru
+      fio:
+        firstName: Владимир
+        secondName: Телешевский
+        middleName: Ильич
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: g.martinov@stankin.ru
+      fio:
+        firstName: Георги
+        secondName: Мартинов
+        middleName: Мартинов
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: y.poduraev@stankin.ru
+      fio:
+        firstName: Юрий
+        secondName: Подураев
+        middleName: Викторович
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: v.pryanichnikov@stankin.ru
+      fio:
+        firstName: Валентин
+        secondName: Пряничников
+        middleName: Евгеньевич
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: vb.oshurko@stankin.ru
+      fio:
+        firstName: Вадим
+        secondName: Ошурко
+        middleName: Борисович
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: pavelieva@stankin.ru
+      fio:
+        firstName: Татьяна
+        secondName: Павельева
+        middleName: Юрьевна
+      declination: Уважаемая
+
+- name: МГТУ
+  employees:
+    - email: a.vasileva@stankin.ru
+      fio:
+        firstName: Татьяна
+        secondName: Васильева
+        middleName: Викторовна
+      declination: Уважаемая
+
+- name: МГТУ
+  employees:
+    - email: ed.korshunova@stankin.ru
+      fio:
+        firstName: Елена
+        secondName: Коршунова
+        middleName: Дмитриевна
+      declination: Уважаемая
+
+- name: МГТУ
+  employees:
+    - email: yu.eleneva@stankin.ru
+      fio:
+        firstName: Юлия
+        secondName: Еленева
+        middleName: Яковлевна
+      declination: Уважаемая
+
+- name: МГТУ
+  employees:
+    - email: av.kapitanov@stankin.ru
+      fio:
+        firstName: Алексей
+        secondName: Капитанов
+        middleName: Вячеславович
+      declination: Уважаемый
+
+- name: МГТУ
+  employees:
+    - email: ev.volkova@stankin.ru
+      fio:
+        firstName: Галина
+        secondName: Волкова
+        middleName: Львовна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: kafadm@mail.ru
+      fio:
+        firstName: Александр
+        secondName: Стахов
+        middleName: Иванович
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: gp@rsuj.ru
+      fio:
+        firstName: Анна
+        secondName: Ананьева
+        middleName: Анатольевна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: CivilRAP@yandex.ru
+      fio:
+        firstName: Сергей
+        secondName: Никитин
+        middleName: Васильевич
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: kafzem@rsuj.ru
+      fio:
+        firstName: Ирина
+        secondName: Краснова
+        middleName: Олеговна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: english@rsuj.ru
+      fio:
+        firstName: Игорь
+        secondName: Клепальченко
+        middleName: Алексеевич
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: kipim@rsuj.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Ловцов
+        middleName: Анатольевич
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: upr.nedv@rsujl.ru
+      fio:
+        firstName: Елена
+        secondName: Сыщикова
+        middleName: Николаевна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: kaf_istorii08@rsuj.ru
+      fio:
+        firstName: Владимир
+        secondName: Сафонов
+        middleName: Евгеньевич
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: kkp@rsuj.ru
+      fio:
+        firstName: Виктор
+        secondName: Корнев
+        middleName: Николаевич
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: intlaw@rsuj.ru
+      fio:
+        firstName: Татьяна
+        secondName: Нешатаева
+        middleName: Николаевна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: kod@rsuj.ru
+      fio:
+        firstName: Михаил
+        secondName: Ивашко
+        middleName: Иванович
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: kospd@rsuj.ru
+      fio:
+        firstName: Елена
+        secondName: Бурдина
+        middleName: Владимировна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: rus@rsuj.ru
+      fio:
+        firstName: Лариса
+        secondName: Новикова
+        middleName: Ивановна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: tgp@rsuj.ru
+      fio:
+        firstName: Татьяна
+        secondName: Власова
+        middleName: Валентиновна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: trudpravo@rsuj.ru
+      fio:
+        firstName: Елена
+        secondName: Ершова
+        middleName: Александровна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: kup@rsuj.ru
+      fio:
+        firstName: Александр
+        secondName: Бриллиантов
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: upp@rsuj.ru
+      fio:
+        firstName: Светлана
+        secondName: Крипиневич
+        middleName: Сергеевна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: kfk@rsuj.ru
+      fio:
+        firstName: Алексей
+        secondName: Ромашов
+        middleName: Александрович
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: filosof@rsuj.ru
+      fio:
+        firstName: Сергей
+        secondName: Антюшин
+        middleName: Сергеевич
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: finpravo@rsuj.ru
+      fio:
+        firstName: Имеда
+        secondName: Цинделиани
+        middleName: Анатольевич
+      declination: Уважаемый
+
+- name: РГУП
+  employees:
+    - email: econom@rsuj.ru
+      fio:
+        firstName: Наталья
+        secondName: Ершова
+        middleName: Анатольевна
+      declination: Уважаемая
+
+- name: РГУП
+  employees:
+    - email: sudexp_crim@rsuj.ru
+      fio:
+        firstName: Татьяна
+        secondName: Моисеева
+        middleName: Федоровна
+      declination: Уважаемая
+
+

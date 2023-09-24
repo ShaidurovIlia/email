@@ -1,0 +1,773 @@
+- name: МФТИ
+  employees:
+    - email: atp@phystech.edu
+      fio:
+        firstName: Виктор
+        secondName: Вадимович
+        middleName: Яковлев
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: shananin.aa@mipt.ru
+      fio:
+        firstName: Александр
+        secondName: Алексеевич
+        middleName: Шананин
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: mera@tsagi.ru
+      fio:
+        firstName: Василий
+        secondName: Васильевич
+        middleName: Петроневич
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: golenkova.an@mipt.ru
+      fio:
+        firstName: Всеволод
+        secondName: Юрьевич
+        middleName: Макеев
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: blockchain@mipt.ru
+      fio:
+        firstName: Владимир
+        secondName: Вячеславович
+        middleName: Горгадзе
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: simakov.ss@phystech.edu
+      fio:
+        firstName: Сергей
+        secondName: Сергеевич
+        middleName: Симаков
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: dm@phystech.edu
+      fio:
+        firstName: Андрей
+        secondName: Михайлович
+        middleName: Райгородский
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: koniavskii.va@mipt.ru
+      fio:
+        firstName: Валерий
+        secondName: Аркадьевич
+        middleName: Конявский
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: yashchenko.iv@mipt.ru
+      fio:
+        firstName: Иван
+        secondName: Валериевич
+        middleName: Ященко
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: loginov.vv@mipt.ru
+      fio:
+        firstName: Василий
+        secondName: Васильевич
+        middleName: Логинов
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: novikov@ipu.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Александрович
+        middleName: Новиков
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: vorontsov.kv@mipt.ru
+      fio:
+        firstName: Константин
+        secondName: Вячеславович
+        middleName: Воронцов
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: khokhlov.ni@mipt.ru
+      fio:
+        firstName: Николай
+        secondName: Игоревич
+        middleName: Хохлов
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: climtech@mipt.ru
+      fio:
+        firstName: Александр
+        secondName: Вячеславович
+        middleName: Родин
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: selegei.vp@mipt.ru
+      fio:
+        firstName: Владимир
+        secondName: Павлович
+        middleName: Селегей
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: mou@mail.mipt.ru
+      fio:
+        firstName: Александр
+        secondName: Владимирович
+        middleName: Гасников
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: tatyana.babkina@phystech.edu
+      fio:
+        firstName: Александра
+        secondName: Александровна
+        middleName: Жукова
+      declination: Уважаемая
+
+- name: МФТИ
+  employees:
+    - email: vorontsov.kv@mipt.ru
+      fio:
+        firstName: Константин
+        secondName: Вячеславович
+        middleName: Воронцов
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: shiryaev.au@mipt.ru
+      fio:
+        firstName: Александр
+        secondName: Юрьевич
+        middleName: Ширяев
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: treshchev.dv@mipt.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Валерьевич
+        middleName: Трещев
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: kloss.iuiu@mipt.ru
+      fio:
+        firstName: Юрий
+        secondName: Юрьевич
+        middleName: Клосс
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: moldaverm@mail.ru
+      fio:
+        firstName: Александр
+        secondName: Сергеевич
+        middleName: Заседателев
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: lazar0@mail.ru
+      fio:
+        firstName: Вадим
+        secondName: Маркович
+        middleName: Говорун
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: dvorkovich.av@mipt.ru
+      fio:
+        firstName: Александр
+        secondName: Викторович
+        middleName: Дворкович
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: baturin.as@mipt.ru
+      fio:
+        firstName: Андрей
+        secondName: Сергеевич
+        middleName: Батурин
+      declination: Уважаемый
+
+- name: МФТИ
+  employees:
+    - email: medvedev@phystech.edu
+      fio:
+        firstName: Леонид
+        secondName: Аркадьевич
+        middleName: Сурин
+      declination: Уважаемый
+
+- name: МИД
+  employees:
+    - email: kafedra.ir@dipacademy.ru
+      fio:
+        firstName: Константин
+        secondName: Иосифович
+        middleName: Косачев
+      declination: Уважаемый
+
+- name: МИД
+  employees:
+    - email: kafedra.politologii@dipacademy.ru
+      fio:
+        firstName: Сергей
+        secondName: Сергеевич
+        middleName: Жильцов
+      declination: Уважаемый
+
+- name: МИД
+  employees:
+    - email: kafedra.me@dipacademy.ru
+      fio:
+        firstName: Марина
+        secondName: Фёдоровна
+        middleName: Ткаченко
+      declination: Уважаемая
+
+- name: МИД
+  employees:
+    - email: kafedra.gunb@dipacademy.ru
+      fio:
+        firstName: Олег
+        secondName: Геннадьевич
+        middleName: Карпович
+      declination: Уважаемый
+
+- name: МИД
+  employees:
+    - email: diplomacy@dipacademy.ru
+      fio:
+        firstName: Сергей
+        secondName: Евгеньевич
+        middleName: Иванов
+      declination: Уважаемый
+
+- name: МИД
+  employees:
+    - email: kafedra.mp@dipacademy.ru
+      fio:
+        firstName: Андрей
+        secondName: Андреевич
+        middleName: Данельян
+      declination: Уважаемый
+
+- name: МИД
+  employees:
+    - email: Kafedra.vostyaz@dipacademy.ru
+      fio:
+        firstName: Александр
+        secondName: Владимирович
+        middleName: Семенов
+      declination: Уважаемый
+
+- name: МИД
+  employees:
+    - email: kafedra.romjaz@gmail.com
+      fio:
+        firstName: Валерий
+        secondName: Пантелеевич
+        middleName: Мариян
+      declination: Уважаемый
+
+- name: МИД
+  employees:
+    - email: kafedra.ins@dipacademy.ru
+      fio:
+        firstName: Инна
+        secondName: Авенировна
+        middleName: Фадеева
+      declination: Уважаемая
+
+- name: МИД
+  employees:
+    - email: dep.physical.edu@dipacademy.ru
+      fio:
+        firstName: Игорь
+        secondName: Викторович
+        middleName: Лазарев
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-sportmed@mgafk.ru
+      fio:
+        firstName: Ирина
+        secondName: Владимировна
+        middleName: Осадченко
+      declination: Уважаемая
+
+- name: МГАФК
+  employees:
+    - email: kaf-anatomii@mgafk.ru
+      fio:
+        firstName: Евгений
+        secondName: Николаевич
+        middleName: Крикун
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-biomechaniki@mgafk.ru
+      fio:
+        firstName: Александр
+        secondName: Николаевич
+        middleName: Фураев
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-lingvist@mgafk.ru
+      fio:
+        firstName: Нина
+        secondName: Александровна
+        middleName: Шнайдер
+      declination: Уважаемая
+
+- name: МГАФК
+  employees:
+    - email: kaf-psichologii@mgafk.ru
+      fio:
+        firstName: Владимир
+        secondName: Владимирович
+        middleName: Буторин
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-gimnastiki@mgafk.ru
+      fio:
+        firstName: Евгений
+        secondName: Евгеньевич
+        middleName: Биндусов
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-zimvidovsporta@mgafk.ru
+      fio:
+        firstName: Евгений
+        secondName: Владимирович
+        middleName: Чубанов
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-legkoiatletiki@mgafk.ru
+      fio:
+        firstName: Николай
+        secondName: Львович
+        middleName: Семиколенных
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: swimming@mgafk.ru
+      fio:
+        firstName: Елена
+        secondName: Леонидовна
+        middleName: Фаворская
+      declination: Уважаемая
+
+- name: МГАФК
+  employees:
+    - email: kaf-sportedinoborstv@mgafk.ru
+      fio:
+        firstName: Василий
+        secondName: Степанович
+        middleName: Беляев
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-sportigr@mgafk.ru
+      fio:
+        firstName: Анатолий
+        secondName: Владимирович
+        middleName: Лаптев
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-fkis@mgafk.ru
+      fio:
+        firstName: Константин
+        secondName: Степанович
+        middleName: Дунаев
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-futbolaihokkeya@mgafk.ru
+      fio:
+        firstName: Александр
+        secondName: Васильевич
+        middleName: Портнов
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: kaf-upravleniya@mgafk.ru
+      fio:
+        firstName: Александр
+        secondName: Васильевич
+        middleName: Починкин
+      declination: Уважаемый
+
+- name: МГАФК
+  employees:
+    - email: fizbiohim@mgafk.ru
+      fio:
+        firstName: Ирина
+        secondName: Владимировна
+        middleName: Стрельникова
+      declination: Уважаемая
+
+- name: МГАФК
+  employees:
+    - email: kaf-filosofii@mgafk.ru
+      fio:
+        firstName: Елена
+        secondName: Юрьевна
+        middleName: Митрохина
+      declination: Уважаемая
+
+- name: МАДИ
+  employees:
+    - email: ivanov-am@madi.ru
+      fio:
+        firstName: Андрей
+        secondName: Михайлович
+        middleName: Иванов
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: mv.yashina@madi.ru
+      fio:
+        firstName: Марина
+        secondName: Викторовна
+        middleName: Яшина
+      declination: Уважаемая
+
+- name: МАДИ
+  employees:
+    - email: telematica@madi.ru
+      fio:
+        firstName: Владимир
+        secondName: Михайлович
+        middleName: Власов
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: kfv@madi.ru
+      fio:
+        firstName: Вера
+        secondName: Львовна
+        middleName: Щербакова
+      declination: Уважаемая
+
+- name: МАДИ
+  employees:
+    - email: solntsev@madi.ru
+      fio:
+        firstName: Алексей
+        secondName: Александрович
+        middleName: Солнцев
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: airports@madi.ru; a.fomin@madi.ru
+      fio:
+        firstName: Андрей
+        secondName: Викторович
+        middleName: Фомин
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: geodesy@madi.ru
+      fio:
+        firstName: Владимир
+        secondName: Николаевич
+        middleName: Бойков
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: gidravlika@madi.ru
+      fio:
+        firstName: Татьяна
+        secondName: Александровна
+        middleName: Суэтина
+      declination: Уважаемая
+
+- name: МАДИ
+  employees:
+    - email: dsm@madi.ru; yu.vasilev@madi.ru
+      fio:
+        firstName: Юрий
+        secondName: Эммануилович
+        middleName: Васильев
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: pospelov@madi.ru
+      fio:
+        firstName: Павел
+        secondName: Иванович
+        middleName: Поспелов
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: ageevvd@madi.ru
+      fio:
+        firstName: Владимир
+        secondName: Дмитриевич
+        middleName: Агеев
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: sopromat@madi.ru
+      fio:
+        firstName: Ирина
+        secondName: Вадимовна
+        middleName: Демьянушко
+      declination: Уважаемая
+
+- name: МАДИ
+  employees:
+    - email: nmc@sed.madi.ru
+      fio:
+        firstName: Виктор
+        secondName: Васильевич
+        middleName: Ушаков
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: nimarkova@yandex.ru
+      fio:
+        firstName: Сергей
+        secondName: Викторович
+        middleName: Марков
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: аpp@madi.ru
+      fio:
+        firstName: Андрей
+        secondName: Владимирович
+        middleName: Илюхин
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: dormash@madi.ru
+      fio:
+        firstName: Геннадий
+        secondName: Владимирович
+        middleName: Кустарев
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: madi-dm@list.ru
+      fio:
+        firstName: Владимир
+        secondName: Александрович
+        middleName: Зорин
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: pradm@madi.ru
+      fio:
+        firstName: Мирон
+        secondName: Исаакович
+        middleName: Грифф
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: petrova@madi.ru
+      fio:
+        firstName: Лариса
+        secondName: Георгиевна
+        middleName: Петрова
+      declination: Уважаемая
+
+- name: МАДИ
+  employees:
+    - email: dm@madi.ru
+      fio:
+        firstName: Мария
+        secondName: Юрьевна
+        middleName: Карелина
+      declination: Уважаемая
+
+- name: МАДИ
+  employees:
+    - email: teormeh@madi.ru
+      fio:
+        firstName: Сергей
+        secondName: Вячеславович
+        middleName: Борисов
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: kafedratu@madi.ru
+      fio:
+        firstName: Григорий
+        secondName: Сергеевич
+        middleName: Мазлумян
+      declination: Уважаемый
+
+- name: МАДИ
+  employees:
+    - email: kt@madi.ru
+      fio:
+        firstName: Сергей
+        secondName: Борисович
+        middleName: Верещагин
+      declination: Уважаемый
+
+- name: МХПИ
+  employees:
+    - email: mhpi-gsed@rambler.ru
+      fio:
+        firstName: Татьяна
+        secondName: Александровна
+        middleName: Чикаева
+      declination: Уважаемая
+
+- name: МХПИ
+  employees:
+    - email: kafedra_hd_mhpi@mail.ru
+      fio:
+        firstName: Раушания
+        secondName: Шайхелисламовна
+        middleName: Шафикова
+      declination: Уважаемая
+
+- name: МХПИ
+  employees:
+    - email: kafedra_gd_mhpi@mail.ru
+      fio:
+        firstName: Юлия
+        secondName: Валерьевна
+        middleName: Ерохина
+      declination: Уважаемая
+
+- name: МХПИ
+  employees:
+    - email: dk@mhpi.edu.ru
+      fio:
+        firstName: Денис
+        secondName: Иванович
+        middleName: Еремкин
+      declination: Уважаемый
+
+- name: МХПИ
+  employees:
+    - email: kafedra.ds.mhpi@mail.ru
+      fio:
+        firstName: Олеся
+        secondName: Владимировна
+        middleName: Пустозерова
+      declination: Уважаемая
+
+- name: МХПИ
+  employees:
+    - email: kaf_gum@mail.ru
+      fio:
+        firstName: Юлия
+        secondName: Семеновна
+        middleName: Клюева
+      declination: Уважаемая
+
+- name: МХПИ
+  employees:
+    - email: Kaf­­_tsuk@mail.ru
+      fio:
+        firstName: Антонина
+        secondName: Леонардовна
+        middleName: Лазутина
+      declination: Уважаемая
+
+- name: МХПИ
+  employees:
+    - email: kafedra.top2011@mail.ru
+      fio:
+        firstName: Анна
+        secondName: Ильинична
+        middleName: Орлова
+      declination: Уважаемая
+
+- name: МХПИ
+  employees:
+    - email: kaf-mend@yandex.ru
+      fio:
+        firstName: Артем
+        secondName: Юрьевич
+        middleName: Жадаев
+      declination: Уважаемый
+
+- name: МХПИ
+  employees:
+    - email: iptd-sport@mail.ru
+      fio:
+        firstName: Светлана
+        secondName: Петровна
+        middleName: Комерческая
+      declination: Уважаемая
+
+- name: МХПИ
+  employees:
+    - email: kafedra-drt@mail.ru
+      fio:
+        firstName: Людмила
+        secondName: Владимировна
+        middleName: Павлова
+      declination: Уважаемая

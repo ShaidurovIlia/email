@@ -1,0 +1,117 @@
+institutes:
+  - name: УГНТУ
+    employees:
+      - email: kaf.in.yaz.gumf@yandex.ru
+        fio:
+          firstName: Айгуль
+          secondName: Мухтаруллина
+          middleName: Раисовна
+        declination: Уважаемая
+
+  - name: УГНТУ
+    employees:
+      - email: zarubezhnaya_ff@mail.ru
+        fio:
+          firstName: Галина
+          secondName: Ишимбаева
+          middleName: Григорьевна
+        declination: Уважаемая
+
+  - name: УГНТУ
+    employees:
+      - email: filfakbashgu.dekanat@yandex.ru
+        fio:
+          firstName: Альмира
+          secondName: Ямалетдинова
+          middleName: Мухаметовна
+        declination: Уважаемая
+
+  - name: УГНТУ
+    employees:
+      - email: kvyatkovskaya.as@ugatu.su
+        fio:
+          firstName: Адель
+          secondName: Квятковская
+          middleName: Станиславовна
+        declination: Уважаемая
+
+  - name: УГНТУ
+    employees:
+      - email: rogozhnikova.tm@ugatu.su
+        fio:
+          firstName: Татьяна
+          secondName: Рогожникова
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: УГНТУ
+    employees:
+      - email: kaf-rsf@mail.ru
+        fio:
+          firstName: Флюза
+          secondName: Фаткуллина
+          middleName: Габдуллиновна
+        declination: Уважаемая
+
+  - name: УГНТУ
+    employees:
+      - email: rf.fti.bsu@mail.ru
+        fio:
+          firstName: Талгат
+          secondName: Шарипов
+          middleName: Ишмухамедович
+        declination: Уважаемый
+
+  - name: УГНТУ
+    employees:
+      - email: valuillinra@uust.ru
+        fio:
+          firstName: Рим
+          secondName: Валиуллин
+          middleName: Абдуллович
+        declination: Уважаемый
+
+  - name: УГНТУ
+    employees:
+      - email: kafedra_em2021@ugatu.su
+        fio:
+          firstName: Вячеслав
+          secondName: Вавилов
+          middleName: Евгеньевич
+        declination: Уважаемый
+
+  - name: УГНТУ
+    employees:
+      - email: mesropyan.av@ugatu.su
+        fio:
+          firstName: Арсен
+          secondName: Месропян
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: УГНТУ
+    employees:
+      - email: kfv_conf@mail.ru
+        fio:
+          firstName: Ильдус
+          secondName: Тупиев
+          middleName: Джадитович
+        declination: Уважаемый
+
+  - name: УГНТУ
+    employees:
+      - email: aksenov.sg@ugatu.su
+        fio:
+          firstName: Сергей
+          secondName: Аксенов
+          middleName: Геннадьевич
+        declination: Уважаемый
+
+  - name: УГНТУ
+    employees:
+      - email: elizarev.an@ugatu.su
+        fio:
+          firstName: Алексей
+          secondName: Елизарьев
+          middleName: Николаевич
+        declination: Уважаемый

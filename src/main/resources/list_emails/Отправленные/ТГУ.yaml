@@ -1,0 +1,270 @@
+institutes:
+  - name: ТГУ
+    employees:
+      - email: mvg@2i.tusur.ru
+        fio:
+          firstName: Валентина
+          secondName: Мельникова
+          middleName: Григорьевна
+        declination: Уважаемая
+
+  - name: ТГУ
+    employees:
+      - email: anatolii.a.sidorov@tusur.ru
+        fio:
+          firstName: Анатолий
+          secondName: Сидоров
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: rva@2i.tusur.ru
+        fio:
+          firstName: Владимир
+          secondName: Романенко
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: etf@fb.tusur.ru
+        fio:
+          firstName: Евгений
+          secondName: Костюченко
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: kdv@2i.tusur.ru
+        fio:
+          firstName: Дмитрий
+          secondName: Хаминов
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: language@tusur.ru
+        fio:
+          firstName: Елена
+          secondName: Покровская
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: ТГУ
+    employees:
+      - email: maksim.i.kim@tusur.ru
+        fio:
+          firstName: Максим
+          secondName: Ким
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: saa@fb.tusur.ru
+        fio:
+          firstName: Александр
+          secondName: Шелупанов
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: office@kcup.tusur.ru
+        fio:
+          firstName: Юрий
+          secondName: Шурыгин
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: nikolai.n.krivin@tusur.ru
+        fio:
+          firstName: Николай
+          secondName: Кривин
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: magazinnikova.anna@tusur.ru
+        fio:
+          firstName: Анна
+          secondName: Магазинникова
+          middleName: Леонидовна
+        declination: Уважаемая
+
+  - name: ТГУ
+    employees:
+      - email: afonasova@tusur.ru
+        fio:
+          firstName: Маргарита
+          secondName: Афонасова
+          middleName: Алексеевна
+        declination: Уважаемая
+
+  - name: ТГУ
+    employees:
+      - email: mguk@tusur.ru
+        fio:
+          firstName: Борис
+          secondName: Люкшин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: msg@ie.tusur.ru
+        fio:
+          firstName: Сергей
+          secondName: Михальченко
+          middleName: Геннадьевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: office@rts.tusur.ru
+        fio:
+          firstName: Александр
+          secondName: Мещеряков
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: fateev@tusur.ru
+        fio:
+          firstName: Алексей
+          secondName: Фатеев
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: tvi_retem@main.tusur.ru
+        fio:
+          firstName: Василий
+          secondName: Туев
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: amz@tusur.ru
+        fio:
+          firstName: Александр
+          secondName: Заболоцкий
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: office@tor.tusur.ru
+        fio:
+          firstName: Евгений
+          secondName: Рогожников
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: kru@2i.tusur.ru
+        fio:
+          firstName: Владимир
+          secondName: Кручинин
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: gufana.n.narimanova@tusur.ru
+        fio:
+          firstName: Гуфана
+          secondName: Нариманова
+          middleName: Нурлабековна
+        declination: Уважаемая
+
+  - name: ТГУ
+    employees:
+      - email: efim.m.oks@tusur.ru
+        fio:
+          firstName: Ефим
+          secondName: Окс
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: sport@tusur.ru
+        fio:
+          firstName: Александр
+          secondName: Ильин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: kaf_fe@tusur.ru
+        fio:
+          firstName: Павел
+          secondName: Троян
+          middleName: Ефимович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: ovv@main.tusur.ru
+        fio:
+          firstName: Вера
+          secondName: Орлова
+          middleName: Вениаминовна
+        declination: Уважаемая
+
+  - name: ТГУ
+    employees:
+      - email: valeriia.i.tsibulnikova@tusur.ru
+        fio:
+          firstName: Валерия
+          secondName: Цибульникова
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: ТГУ
+    employees:
+      - email: mmo@fb.tusur.ru
+        fio:
+          firstName: Полина
+          secondName: Шелупанова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: ТГУ
+    employees:
+      - email: emis@tusur.ru
+        fio:
+          firstName: Игорь
+          secondName: Боровской
+          middleName: Георгиевич
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: nikolai.i.burimov@tusur.ru
+        fio:
+          firstName: Николай
+          secondName: Буримов
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: ТГУ
+    employees:
+      - email: tpe@tusur.ru
+        fio:
+          firstName: Павел
+          secondName: Троян
+          middleName: Ефимович
+        declination: Уважаемый

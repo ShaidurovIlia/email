@@ -1,0 +1,414 @@
+institutes:
+  - name: РГУ
+    employees:
+      - email: sreda.design@rguk.ru
+        fio:
+          firstName: Ирина
+          secondName: Волкодаева
+          middleName: Борисовна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kaf_costume@rguk.ru
+        fio:
+          firstName: Сергей
+          secondName: Сысоев
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: kazakova-nu@rguk.ru
+        fio:
+          firstName: Наталья
+          secondName: Казакова
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: graphic.design@rguk.ru
+        fio:
+          firstName: Александр
+          secondName: Пушкарёв
+          middleName: Георгиевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: kaf91@rguk.ru
+        fio:
+          firstName: Светлана
+          secondName: Алеева
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kaf79@rguk.ru
+        fio:
+          firstName: Екатерина
+          secondName: Ксенофонтова
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: reneva-ns@rguk.ru
+        fio:
+          firstName: Сергеевна
+          secondName: Наталия
+          middleName: Ренёва
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kaf73@rguk.ru
+        fio:
+          firstName: Владимир
+          secondName: Понькин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: kaf72@rguk.ru
+        fio:
+          firstName: Анатолий
+          secondName: Буданов
+          middleName: Валерьевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: kaf85@rguk.ru
+        fio:
+          firstName: Юлия
+          secondName: Кондракова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: monvi@rambler.ru
+        fio:
+          firstName: Владимир
+          secondName: Монахов
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: k-it@rguk.ru
+        fio:
+          firstName: Андрей
+          secondName: Фирсов
+          middleName: Валентинович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: lobanov-na@rguk.ru
+        fio:
+          firstName: Николай
+          secondName: Лобанов
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: rybaulina-iv@rguk.ru
+        fio:
+          firstName: Ирина
+          secondName: Рыбаулина
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: tkach-dg@rguk.ru
+        fio:
+          firstName: Дмитрий
+          secondName: Ткач
+          middleName: Геннадиевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: arefeva-sm@rguk.ru
+        fio:
+          firstName: Светлана
+          secondName: Арефьева
+          middleName: Муллануровн
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: safonov-vv@rguk.ru
+        fio:
+          firstName: Валентин
+          secondName: Сафонов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: shustov-yus@rguk.ru
+        fio:
+          firstName: Юрий
+          secondName: Шустов
+          middleName: Степанович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: ryzhkova-ea@rguk.ru
+        fio:
+          firstName: Елена
+          secondName: Рыжкова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: thom@rguk.ru
+        fio:
+          firstName: Алексей
+          secondName: Корнеев
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: skorodumov-vf@rguk.ru
+        fio:
+          firstName: Владимир
+          secondName: Скородумов
+          middleName: Федорович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: pr-mechanica@rguk.ru
+        fio:
+          firstName: Сергей
+          secondName: Хейло
+          middleName: Валерьевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: kozlov-as@rguk.ru
+        fio:
+          firstName: Александр
+          secondName: Козлов
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: izo@rguk.ru
+        fio:
+          firstName: Иван
+          secondName: Устинов
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: dance@rguk.ru
+        fio:
+          firstName: Александр
+          secondName: Ковтун
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: linguistics@rguk.ru
+        fio:
+          firstName: Елена
+          secondName: Куликова
+          middleName: Вячеславовна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: isk.slav@rguk.ru
+        fio:
+          firstName: Галина
+          secondName: Варакина
+          middleName: Владиславовна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: ballet@rguk.ru
+        fio:
+          firstName: Наталья
+          secondName: Усанова
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kafpsy@rguk.ru
+        fio:
+          firstName: Наталья
+          secondName: Калинина
+          middleName: Валентиновна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kafinyaz@rguk.ru
+        fio:
+          firstName: Наталья
+          secondName: Новикова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kaffiz@rguk.ru
+        fio:
+          firstName: Валерий
+          secondName: Романов
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: nechaeva-tu@rguk.ru
+        fio:
+          firstName: Татьяна
+          secondName: Нечаева
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: murzina-ov@rguk.ru
+        fio:
+          firstName: Ольга
+          secondName: Мурзина
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: sedlyarov-oi@rguk.ru
+        fio:
+          firstName: Олег
+          secondName: Седляров
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: kovalchukova-ov@rguk.ru
+        fio:
+          firstName: Ольга
+          secondName: Ковальчукова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kuznetsov-dn@rguk.ru
+        fio:
+          firstName: Дмитрий
+          secondName: Кузнецов
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: knr@staff.msta.ac.ru
+        fio:
+          firstName: Наталия
+          secondName: Кильдеева
+          middleName: Рустемовна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kaf-em@rguk.ru
+        fio:
+          firstName: Сергей
+          secondName: Радько
+          middleName: Григорьевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: gubachev-nn@rguk.ru
+        fio:
+          firstName: Николай
+          secondName: Губачев
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: kaf-fba@rguk.ru
+        fio:
+          firstName: Анна
+          secondName: Генералова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kaf-ks@rguk.ru
+        fio:
+          firstName: Виктор
+          secondName: Мишаков
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: РГУ
+    employees:
+      - email: mkl-em@rguk.ru
+        fio:
+          firstName: Татьяна
+          secondName: Сельнинова
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: alibekova-mi@rguk.ru
+        fio:
+          firstName: Марият
+          secondName: Алибекова
+          middleName: Исмаиловна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: kostyleva.vv@mail.ru
+        fio:
+          firstName: Валентина
+          secondName: Костылева
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: petrosova-ia@rguk.ru
+        fio:
+          firstName: Ирина
+          secondName: Петросова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РГУ
+    employees:
+      - email: yukhin-ss@rguk.ru
+        fio:
+          firstName: Сергей
+          secondName: Юхин
+          middleName: Семенович
+        declination: Уважаемый

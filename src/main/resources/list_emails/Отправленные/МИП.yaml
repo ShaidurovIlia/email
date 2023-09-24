@@ -1,0 +1,117 @@
+institutes:
+  - name: МИП
+    employees:
+      - email: kafedra_okp@inpsycho.ru
+        fio:
+          firstName: Екатерина
+          secondName: Мордас
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: МИП
+    employees:
+      - email: kafedra_op@inpsycho.ru
+        fio:
+          firstName: Иван
+          secondName: Хватов
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: МИП
+    employees:
+      - email: kafedra_osppl@inpsycho.ru
+        fio:
+          firstName: Галина
+          secondName: Солдатова
+          middleName: Уртанбековна
+        declination: Уважаемая
+
+  - name: МИП
+    employees:
+      - email: kafedra_pldp@inpsycho.ru
+        fio:
+          firstName: Владимир
+          secondName: Шляпников
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: МИП
+    employees:
+      - email: kafedra_orgp@inpsycho.ru
+        fio:
+          firstName: Наталия
+          secondName: Курдюкова
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: МИП
+    employees:
+      - email: kafedra_dipkp@inpsycho.ru
+        fio:
+          firstName: Михаил
+          secondName: Иванов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: МИП
+    employees:
+      - email: kafedra_nippv@inpsycho.ru
+        fio:
+          firstName: Ксения
+          secondName: Пыркова
+          middleName: Вячеславовна
+        declination: Уважаемая
+
+  - name: МИП
+    employees:
+      - email: kafedra_sdo@inpsycho.ru
+        fio:
+          firstName: Элеонора
+          secondName: Кулешова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: МИП
+    employees:
+      - email: kafedra_po@inpsycho.ru
+        fio:
+          firstName: Любовь
+          secondName: Григорович
+          middleName: Алексеевна
+        declination: Уважаемая
+
+  - name: МИП
+    employees:
+      - email: kuftyakev@inpsycho.ru
+        fio:
+          firstName: Елена
+          secondName: Куфтяк
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: МИП
+    employees:
+      - email: kafedra_ppc@inpsycho.ru
+        fio:
+          firstName: Маргарита
+          secondName: Донцова
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: МИП
+    employees:
+      - email: kafedra_ged@inpsycho.ru
+        fio:
+          firstName: Ольга
+          secondName: Сварник
+          middleName: Евгеньевна
+        declination: Уважаемая
+
+  - name: МИП
+    employees:
+      - email: up@inpsycho.ru
+        fio:
+          firstName: Дмитрий
+          secondName: Воробьёв
+          middleName: Игоревич
+        declination: Уважаемый

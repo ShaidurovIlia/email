@@ -1,0 +1,252 @@
+institutes:
+  - name: КИУ
+    employees:
+      - email: timirasova@ieml.ru
+        fio:
+          firstName: Асия
+          secondName: Тимирясова
+          middleName: Витальевна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: belitskaya@ieml.ru
+        fio:
+          firstName: Галина
+          secondName: Нотфуллина
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: kramint@mail.ru
+        fio:
+          firstName: Тимур
+          secondName: Крамин
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: КИУ
+    employees:
+      - email: bezvidnaya@ieml.ru
+        fio:
+          firstName: Марианна
+          secondName: Безвидная
+          middleName: Мироновна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: info@ieml.ru
+        fio:
+          firstName: Андрей
+          secondName: Никитин
+          middleName: Геннадьевич
+        declination: Уважаемый
+
+  - name: КИУ
+    employees:
+      - email: panova@ieml.ru
+        fio:
+          firstName: Альбина
+          secondName: Панова
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: klemin@ieml.ru
+        fio:
+          firstName: Андрей
+          secondName: Клемин
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: КИУ
+    employees:
+      - email: elatypova@ieml.ru
+        fio:
+          firstName: Эльвира
+          secondName: Латыпова
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: gafarova@ieml.ru
+        fio:
+          firstName: Гузель
+          secondName: Гафарова
+          middleName: Рустамовна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: ibragimova@ieml.ru
+        fio:
+          firstName: Насима
+          secondName: Ибрагимова
+          middleName: Максумовна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: yakovleva@ieml.ru
+        fio:
+          firstName: Елена
+          secondName: Яковлева
+          middleName: Людвиговна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: souleimanov@ieml.ru
+        fio:
+          firstName: Рамиль
+          secondName: Сулейманов
+          middleName: Фаилович
+        declination: Уважаемый
+
+  - name: КИУ
+    employees:
+      - email: grigoryeva@ieml.ru
+        fio:
+          firstName: Ольга
+          secondName: Григорьева
+          middleName: Витальевна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: skorobogatova@ieml.ru
+        fio:
+          firstName: Анна
+          secondName: Скоробогатова
+          middleName: Ильдаровна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: ahmetova@ieml.ru
+        fio:
+          firstName: Дания
+          secondName: Ахметова
+          middleName: Загриевна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: klimanova@ieml.ru
+        fio:
+          firstName: Наталья
+          secondName: Климанова
+          middleName: Георгиевна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: srychkov@ieml.ru
+        fio:
+          firstName: Сергей
+          secondName: Рычков
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: КИУ
+    employees:
+      - email: uysupovagr@chl.ieml.ru
+        fio:
+          firstName: Гульнара
+          secondName: Юсупова
+          middleName: Ринатовна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: santonov@ieml.ru
+        fio:
+          firstName: Станислав
+          secondName: Антонов
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: КИУ
+    employees:
+      - email: shevchenko@ieml.ru
+        fio:
+          firstName: Денис
+          secondName: Шевченко
+          middleName: Вячеславович
+        declination: Уважаемый
+
+  - name: КИУ
+    employees:
+      - email: gtaisheva@ieml.ru
+        fio:
+          firstName: Гузель
+          secondName: Таишева
+          middleName: Равгатовна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: antonova@ieml.ru
+        fio:
+          firstName: Ирина
+          secondName: Антонова
+          middleName: Ильгизовна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: matveeva@ieml.ru
+        fio:
+          firstName: Елена
+          secondName: Матвеева
+          middleName: Лаврентьевна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: ikabirov@chs.ieml.ru
+        fio:
+          firstName: Ильдар
+          secondName: Кабиров
+          middleName: Сарварович
+        declination: Уважаемый
+
+  - name: КИУ
+    employees:
+      - email: ifahrutdinova@ieml.ru
+        fio:
+          firstName: Инесса
+          secondName: Фахрутдинова
+          middleName: Алековна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: gvildanova@ieml.ru
+        fio:
+          firstName: Гузель
+          secondName: Вильданова
+          middleName: Агзамовна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: rvaleeva@ieml.ru
+        fio:
+          firstName: Роза
+          secondName: Валеева
+          middleName: Закариевна
+        declination: Уважаемая
+
+  - name: КИУ
+    employees:
+      - email: kaf31@ieml.ru
+        fio:
+          firstName: Раиса
+          secondName: Галеева
+          middleName: Исхаковна
+        declination: Уважаемая

@@ -1,0 +1,503 @@
+- name: УГЛУ
+  employees:
+    - email: gazeevmv@m.usfeu.ru
+      fio:
+        firstName: Максим
+        secondName: Владимирович
+        middleName: Газеев
+      declination: Уважаемый
+
+- name: УГЛУ
+  employees:
+    - email: gasilovaos@m.usfeu.ru
+      fio:
+        firstName: Ольга
+        secondName: Сергеевна
+        middleName: Гасилова
+      declination: Уважаемая
+
+- name: УГЛУ
+  employees:
+    - email: chudinovsa@m.usfeu.ru
+      fio:
+        firstName: Сергей
+        secondName: Александрович
+        middleName: Чудинов
+      declination: Уважаемый
+
+- name: УГЛУ
+  employees:
+    - email: kushubinanv@m.usfeu.ru
+      fio:
+        firstName: Нелли
+        secondName: Валерьевна
+        middleName: Куцубина
+      declination: Уважаемая
+
+- name: УГЛУ
+  employees:
+    - email: gorokhovskyag@m.usfeu.ru
+      fio:
+        firstName: Александр
+        secondName: Григорьевич
+        middleName: Гороховский
+      declination: Уважаемый
+
+- name: УГЛУ
+  employees:
+    - email: zalesovsv@m.usfeu.ru
+      fio:
+        firstName: Сергей
+        secondName: Вениаминович
+        middleName: Залесов
+      declination: Уважаемый
+
+- name: УГЛУ
+  employees:
+    - email: shevelinaiv@m.usfeu.ru
+      fio:
+        firstName: Ирина
+        secondName: Владимировна
+        middleName: Шевелина
+      declination: Уважаемая
+
+- name: УГЛУ
+  employees:
+    - email: grigorievaav@m.usfeu.ru
+      fio:
+        firstName: Алена
+        secondName: Викторовна
+        middleName: Григорьева
+      declination: Уважаемая
+
+- name: УГЛУ
+  employees:
+    - email: kaisernv@m.usfeu.ru
+      fio:
+        firstName: Наталия
+        secondName: Владимировна
+        middleName: Кайзер
+      declination: Уважаемая
+
+- name: УГЛУ
+  employees:
+    - email: mezeninaob@m.usfeu.ru
+      fio:
+        firstName: Ольга
+        secondName: Борисовна
+        middleName: Мезенина
+      declination: Уважаемая
+
+- name: УГЛУ
+  employees:
+    - email: mehrentsevav@m.usfeu.ru
+      fio:
+        firstName: Андрей
+        secondName: Вениаминович
+        middleName: Мехренцев
+      declination: Уважаемый
+
+- name: УГЛУ
+  employees:
+    - email: vdovinau@m.usfeu.ru
+      fio:
+        firstName: Андрей
+        secondName: Юрьевич
+        middleName: Вдовин
+      declination: Уважаемый
+
+- name: УГЛУ
+  employees:
+    - email: lavrikeyu@m.usfeu.ru
+      fio:
+        firstName: Елена
+        secondName: Юрьевна
+        middleName: Лаврик
+      declination: Уважаемая
+
+- name: УГЛУ
+  employees:
+    - email: kolesnikovsi@m.usfeu.ru
+      fio:
+        firstName: Сергей
+        secondName: Иванович
+        middleName: Колесников
+      declination: Уважаемый
+
+- name: УГЛУ
+  employees:
+    - email: novikovaon@m.usfeu.ru
+      fio:
+        firstName: Оксана
+        secondName: Николаевна
+        middleName: Новикова
+      declination: Уважаемая
+
+- name: УГЛУ
+  employees:
+    - email: zhdanovaus@m.usfeu.ru
+      fio:
+        firstName: Юлия
+        secondName: Сергеевна
+        middleName: Жданова
+      declination: Уважаемая
+
+- name: УГЛУ
+  employees:
+    - email: kashchenkomp@m.usfeu.ru
+      fio:
+        firstName: Михаил
+        secondName: Петрович
+        middleName: Кащенко
+      declination: Уважаемый
+
+- name: УГЛУ
+  employees:
+    - email: gorbatenkoyua@m.usfeu.ru
+      fio:
+        firstName: Юлия
+        secondName: Анатольевна
+        middleName: Горбатенко
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kvm@ssga.ru
+      fio:
+        firstName: Ольга
+        secondName: Викторовна
+        middleName: Григоренко
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.igmd@ssga.ru
+      fio:
+        firstName: Валерий
+        secondName: Геннадьевич
+        middleName: Сальников
+      declination: Уважаемый
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.kartography@ssga.ru
+      fio:
+        firstName: Ярослава
+        secondName: Георгиевна
+        middleName: Пошивайло
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.astronomy@ssga.ru
+      fio:
+        firstName: Ирина
+        secondName: Геннадьевна
+        middleName: Ганагина
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.pi@ssga.ru
+      fio:
+        firstName: Татьяна
+        secondName: Юрьевна
+        middleName: Бугакова
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.fotogram@ssga.ru
+      fio:
+        firstName: Александр
+        secondName: Владимирович
+        middleName: Комиссаров
+      declination: Уважаемый
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.zn@ssga.ru
+      fio:
+        firstName: Валерия
+        secondName: Александровна
+        middleName: Павленко
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.inyaz@ssga.ru
+      fio:
+        firstName: Сергей
+        secondName: Сергеевич
+        middleName: Жданов
+      declination: Уважаемый
+
+- name: СГУГиТ
+  employees:
+    - email: kaluzhin@mail.ru
+      fio:
+        firstName: Виктор
+        secondName: Анатольевич
+        middleName: Калюжин
+      declination: Уважаемый
+
+- name: СГУГиТ
+  employees:
+    - email: kadastr-204@yandex.ru
+      fio:
+        firstName: Олеся
+        secondName: Игоревна
+        middleName: Малыгина
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.gumanitar@ssga.ru
+      fio:
+        firstName: Тамара
+        secondName: Антоновна
+        middleName: Рубанцова
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.bgd@ssga.ru
+      fio:
+        firstName: Валерий
+        secondName: Иванович
+        middleName: Татаренко
+      declination: Уважаемый
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.fizkult@ssga.ru
+      fio:
+        firstName: Евгений
+        secondName: Иванович
+        middleName: Теплухин
+      declination: Уважаемый
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.ecolog@ssga.ru
+      fio:
+        firstName: Ирина
+        secondName: Ивановна
+        middleName: Бочкарева
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.ib@ssga.ru
+      fio:
+        firstName: Аэлита
+        secondName: Владимировна
+        middleName: Шабурова
+      declination: Уважаемая
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.suit@ssga.ru
+      fio:
+        firstName: Валерик
+        secondName: Сергеевич
+        middleName: Айрапетян
+      declination: Уважаемый
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.physic@ssga.ru
+      fio:
+        firstName: Игорь
+        secondName: Николаевич
+        middleName: Карманов
+      declination: Уважаемый
+
+- name: СГУГиТ
+  employees:
+    - email: kaf.nio@ssga.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Михайлович
+        middleName: Никулин
+      declination: Уважаемый
+
+- name: СГУГиТ
+  employees:
+    - email: 0615222@mail.ru
+      fio:
+        firstName: Игорь
+        secondName: Борисович
+        middleName: Данилов
+      declination: Уважаемый
+
+- name: БГИИК
+  employees:
+    - email: idb@bgiik.ru
+      fio:
+        firstName: Неонила
+        secondName: Альфредовна
+        middleName: Туранина
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: skd@bgiik.ru
+      fio:
+        firstName: Наталья
+        secondName: Викторовна
+        middleName: Посохова
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: pmpo@bgiik.ru
+      fio:
+        firstName: Ольга
+        secondName: Александровна
+        middleName: Соколова
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: ogd@bgiik.ru
+      fio:
+        firstName: Наталья
+        secondName: Эдвиновна
+        middleName: Чернявская
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: fin@bgiik.ru
+      fio:
+        firstName: Михаил
+        secondName: Николаевич
+        middleName: Киреев
+      declination: Уважаемый
+
+- name: БГИИК
+  employees:
+    - email: gdm@bgiik.ru
+      fio:
+        firstName: Зоя
+        secondName: Юрьевна
+        middleName: Черная
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: kaf.design@bgiik.ru
+      fio:
+        firstName: Мария
+        secondName: Константиновна
+        middleName: Шемякина
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: kaf_ris@bgiik.ru
+      fio:
+        firstName: Рита
+        secondName: Мидхатовна
+        middleName: Золотухина
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: dpi@bgiik.ru
+      fio:
+        firstName: Тамара
+        secondName: Алексеевна
+        middleName: Митрягина
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: rtpip@bgiik.ru
+      fio:
+        firstName: Сергей
+        secondName: Николаевич
+        middleName: Зенин
+      declination: Уважаемый
+
+- name: БГИИК
+  employees:
+    - email: actor@bgiik.ru
+      fio:
+        firstName: Оксана
+        secondName: Николаевна
+        middleName: Гененко
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: dance@bgiik.ru
+      fio:
+        firstName: Ольга
+        secondName: Борисовна
+        middleName: Буксикова
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: gen_piano@bgiik.ru
+      fio:
+        firstName: Ольга
+        secondName: Николаевна
+        middleName: Хмельницкая
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: kafmo@bgiik.ru
+      fio:
+        firstName: Иван
+        secondName: Николаевич
+        middleName: Карачаров
+      declination: Уважаемый
+
+- name: БГИИК
+  employees:
+    - email: folk@bgiik.ru
+      fio:
+        firstName: Ольга
+        secondName: Яковлевна
+        middleName: Жирова
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: miez@bgiik.ru
+      fio:
+        firstName: Алена
+        secondName: Владимировна
+        middleName: Огородова
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: mk_fort@bgiik.ru
+      fio:
+        firstName: Алина
+        secondName: Владимировна
+        middleName: Кузнецова
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: mk_tm@bgiik.ru
+      fio:
+        firstName: Людмила
+        secondName: Анатольевна
+        middleName: Роменская
+      declination: Уважаемая
+
+- name: БГИИК
+  employees:
+    - email: mk_ni@bgiik.ru
+      fio:
+        firstName: Людмила
+        secondName: Петровна
+        middleName: Алешникова
+      declination: Уважаемая

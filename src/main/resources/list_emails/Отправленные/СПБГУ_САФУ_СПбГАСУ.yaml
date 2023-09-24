@@ -1,0 +1,989 @@
+- name: СПБГУ
+  employees:
+    - email: egorov_as@pers.spmi.ru
+      fio:
+        firstName: Алексей
+        secondName: Сергеевич
+        middleName: Егоров
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: akozlov@spmi.ru
+      fio:
+        firstName: Александр
+        secondName: Владимирович
+        middleName: Козлов
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Gulbin_YuL@pers.spmi.ru
+      fio:
+        firstName: Юрий
+        secondName: Леонидович
+        middleName: Гульбин
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Talovina_IV@pers.spmi.ru
+      fio:
+        firstName: Ирина
+        secondName: Владимировна
+        middleName: Таловина
+      declination: Уважаемая
+
+- name: СПБГУ
+  employees:
+    - email: hgig@spmi.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Леонидович
+        middleName: Устюгов
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: prischepa_om@pers.spmi.ru
+      fio:
+        firstName: Олег
+        secondName: Михайлович
+        middleName: Прищепа
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kafrmpi@spmi.ru
+      fio:
+        firstName: Владимир
+        secondName: Павлович
+        middleName: Зубов
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Gendler_SG@pers.spmi.ru
+      fio:
+        firstName: Семен
+        secondName: Григорьевич
+        middleName: Гендлер
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Marinin_ma@pers.spmi.ru
+      fio:
+        firstName: Михаил
+        secondName: Анатольевич
+        middleName: Маринин
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Pashkevich_MA@pers.spmi.ru
+      fio:
+        firstName: Мария
+        secondName: Анатольевна
+        middleName: Пашкевич
+      declination: Уважаемая
+
+- name: СПБГУ
+  employees:
+    - email: Zhukov_IA@pers.spmi.ru
+      fio:
+        firstName: Иван
+        secondName: Алексеевич
+        middleName: Жуков
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kaf_metro@spmi.ru
+      fio:
+        firstName: Александр
+        secondName: Сергеевич
+        middleName: Уманский
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: mthi@spmi.ru
+      fio:
+        firstName: Евгений
+        secondName: Иванович
+        middleName: Пряхин
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kaf_ttpm@spmi.ru
+      fio:
+        firstName: Александр
+        secondName: Сергеевич
+        middleName: Афанасьев
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Mardashov_DV@pers.spmi.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Владимирович
+        middleName: Мардашов
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Schipachev_AM@pers.spmi.ru
+      fio:
+        firstName: Андрей
+        secondName: Михайлович
+        middleName: Щипачев
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: drilling@spmi.ru
+      fio:
+        firstName: Михаил
+        secondName: Владимирович
+        middleName: Двойников
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kaf-sgp@spmi.ru
+      fio:
+        firstName: Анатолий
+        secondName: Григорьевич
+        middleName: Протосеня
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kaf-pgs@spmi.ru
+      fio:
+        firstName: Андрей
+        secondName: Будимирович
+        middleName: Пономарев
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kmd@spmi.ru
+      fio:
+        firstName: Владимир
+        secondName: Николаевич
+        middleName: Гусев
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Mustafin_MG@pers.spmi.ru
+      fio:
+        firstName: Мурат
+        secondName: Газизович
+        middleName: Мустафин
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kafarch@spmi.ru
+      fio:
+        firstName: Ирина
+        secondName: Витальевна
+        middleName: Поцешковская
+      declination: Уважаемая
+
+- name: СПБГУ
+  employees:
+    - email: Bykova_EN@pers.spmi.ru
+      fio:
+        firstName: Елена
+        secondName: Николаевна
+        middleName: Быкова
+      declination: Уважаемая
+
+- name: СПБГУ
+  employees:
+    - email: Vakhnin@spmi.ru
+      fio:
+        firstName: Николай
+        secondName: Алексеевич
+        middleName: Вахнин
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Rudenko_GV@pers.spmi.ru
+      fio:
+        firstName: Геннадий
+        secondName: Викторович
+        middleName: Руденко
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kafmatem@spmi.ru
+      fio:
+        firstName: Александр
+        secondName: Петрович
+        middleName: Господариков
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Gerasimova_IG@pers.spmi.ru
+      fio:
+        firstName: Ирина
+        secondName: Геннадьевна
+        middleName: Герасимова
+      declination: Уважаемая
+
+- name: СПБГУ
+  employees:
+    - email: Dorofeev_DYu@pers.spmi.ru
+      fio:
+        firstName: Даниил
+        secondName: Юрьевич
+        middleName: Дорофеев
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: elada@spmi.ru
+      fio:
+        firstName: Сергей
+        secondName: Николаевич
+        middleName: Рудник
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kafedra_saiu@spmi.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Анатольевич
+        middleName: Первухин
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Cherepovitsyn_AE@pers.spmi.ru
+      fio:
+        firstName: Алексей
+        secondName: Евгеньевич
+        middleName: Череповицын
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: Marinina_OA@pers.spmi.ru
+      fio:
+        firstName: Оксана
+        secondName: Анатольевна
+        middleName: Маринина
+      declination: Уважаемая
+
+- name: СПБГУ
+  employees:
+    - email: politek@spmi.ru
+      fio:
+        firstName: Марк
+        secondName: Михайлович
+        middleName: Хайкин
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: eiem@spmi.ru
+      fio:
+        firstName: Сергей
+        secondName: Васильевич
+        middleName: Бабурин
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: teplot_energiy@spmi.ru
+      fio:
+        firstName: Владимир
+        secondName: Александрович
+        middleName: Лебедев
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kaf_oe@spmi.ru
+      fio:
+        firstName: Ярослав
+        secondName: Элиевич
+        middleName: Шклярский
+      declination: Уважаемый
+
+- name: СПБГУ
+  employees:
+    - email: kafes@spmi.ru
+      fio:
+        firstName: Ирина
+        secondName: Ивановна
+        middleName: Растворова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: m.zakharov@narfu.ru
+      fio:
+        firstName: Максим
+        secondName: Владимирович
+        middleName: Захаров
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: o.popova@narfu.ru
+      fio:
+        firstName: Ольга
+        secondName: Николаевна
+        middleName: Попова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: n.beloshickay@narfu.ru
+      fio:
+        firstName: Наталия
+        secondName: Николаевна
+        middleName: Белошицкая
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: e.tryapicina@narfu.ru
+      fio:
+        firstName: Елена
+        secondName: Валериевна
+        middleName: Тряпицына
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: n.zvyagina@narfu.ru
+      fio:
+        firstName: Наталья
+        secondName: Васильевна
+        middleName: Звягина
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: a.s.aksenov@narfu.ru
+      fio:
+        firstName: Андрей
+        secondName: Сергеевич
+        middleName: Аксенов
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: l.ikonnikova@narfu.ru
+      fio:
+        firstName: Людмила
+        secondName: Никовна
+        middleName: Иконникова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: o.zaretskaya@narfu.ru
+      fio:
+        firstName: Оксана
+        secondName: Валерьевна
+        middleName: Зарецкая
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: l.drachkova@narfu.ru
+      fio:
+        firstName: Людмила
+        secondName: Николаевна
+        middleName: Драчкова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: i.klepikov@narfu.ru
+      fio:
+        firstName: Игорь
+        secondName: Владимирович
+        middleName: Клепиков
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: i.savelev@narfu.ru
+      fio:
+        firstName: Иван
+        secondName: Вячеславович
+        middleName: Савельев
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: i.sivobrova@narfu.ru
+      fio:
+        firstName: Ирина
+        secondName: Анатольевна
+        middleName: Сивоброва
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: a.chertova@narfu.ru
+      fio:
+        firstName: Надежда
+        secondName: Андреевна
+        middleName: Чертова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: o.votinceva@narfu.ru
+      fio:
+        firstName: Ольга
+        secondName: Николаевна
+        middleName: Вотинцева
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: a.korshunov@narfu.ru
+      fio:
+        firstName: Алексей
+        secondName: Анатольевич
+        middleName: Коршунов
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: a.karelskij@narfu.ru
+      fio:
+        firstName: Александр
+        secondName: Викторович
+        middleName: Карельский
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: a.isenshtadt@narfu.ru
+      fio:
+        firstName: Аркадий
+        secondName: Михайлович
+        middleName: Айзенштадт
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: yu.sibirtseva@narfu.ru
+      fio:
+        firstName: Юлия
+        secondName: Александровна
+        middleName: Сибирцева
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: a.antonov@narfu.ru
+      fio:
+        firstName: Александр
+        secondName: Михайлович
+        middleName: Антонов
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: s.koptev@narfu.ru
+      fio:
+        firstName: Сергей
+        secondName: Викторович
+        middleName: Коптев
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: s.posypanov@narfu.ru
+      fio:
+        firstName: Сергей
+        secondName: Валентинович
+        middleName: Посыпанов
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: mu.elepova@narfu.ru
+      fio:
+        firstName: Марина
+        secondName: Юрьевна
+        middleName: Елепова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: m.sokolova@narfu.ru
+      fio:
+        firstName: Мария
+        secondName: Леонидовна
+        middleName: Соколова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: m.aizenstadt@narfu.ru
+      fio:
+        firstName: Мария
+        secondName: Аркадьевна
+        middleName: Фролова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: koi202@mail.ru
+      fio:
+        firstName: Татьяна
+        secondName: Павловна
+        middleName: Тетеревлева
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: s.shchekina@narfu.ru
+      fio:
+        firstName: Светлана
+        secondName: Станиславовна
+        middleName: Щекина
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: i.marakushina@narfu.ru
+      fio:
+        firstName: Ирина
+        secondName: Геннадьевна
+        middleName: Маракушина
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: a.polikarpov@narfu.ru
+      fio:
+        firstName: Александр
+        secondName: Михайлович
+        middleName: Поликарпов
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: e.kazakova@narfu.ru
+      fio:
+        firstName: Елена
+        secondName: Валерьевна
+        middleName: Казакова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: m.panikar@narfu.ru
+      fio:
+        firstName: Марина
+        secondName: Михайловна
+        middleName: Паникар
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: t.shestakova@narfu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Энгельсовна
+        middleName: Шестакова
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: l.malik@narfu.ru
+      fio:
+        firstName: Лариса
+        secondName: Сергеевна
+        middleName: Малик
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: n.flotskaya@narfu.ru
+      fio:
+        firstName: Наталья
+        secondName: Юрьевна
+        middleName: Флотская
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: o.rumyantseva@narfu.ru
+      fio:
+        firstName: Ольга
+        secondName: Анатольевна
+        middleName: Румянцева
+      declination: Уважаемая
+
+- name: САФУ
+  employees:
+    - email: k.bogolitsin@narfu.ru
+      fio:
+        firstName: Константин
+        secondName: Григорьевич
+        middleName: Боголицын
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: v.lubov@narfu.ru
+      fio:
+        firstName: Виктор
+        secondName: Константинович
+        middleName: Любов
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: a.korobovskiy@narfu.ru
+      fio:
+        firstName: Андрей
+        secondName: Анатольевич
+        middleName: Коробовский
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: m.gubaidulin@narfu.ru
+      fio:
+        firstName: Марсель
+        secondName: Галиуллович
+        middleName: Губайдуллин
+      declination: Уважаемый
+
+- name: САФУ
+  employees:
+    - email: n.mashinskaya@narfu.ru
+      fio:
+        firstName: Наталья
+        secondName: Викторовна
+        middleName: Машинская
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: kprgd@spbgasu.ru
+      fio:
+        firstName: Николай
+        secondName: Николаевич
+        middleName: Жильский
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: sek@spbgasu.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Валерьевич
+        middleName: Иванов
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: rran@spbgasu.ru
+      fio:
+        firstName: Екатерина
+        secondName: Рюриковна
+        middleName: Возняк
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: apro@spbgasu.ru
+      fio:
+        firstName: Андрей
+        secondName: Викторович
+        middleName: Суровенков
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: spbgrado@spbgasu.ru
+      fio:
+        firstName: Юлия
+        secondName: Сергеевна
+        middleName: Янковская
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: das@spbgasu.ru
+      fio:
+        firstName: Мария
+        secondName: Александровна
+        middleName: Гранстрем
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: ahistory@spbgasu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Федоровна
+        middleName: Жукова
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: ingraf@spbgasu.ru
+      fio:
+        firstName: Елена
+        secondName: Васильевна
+        middleName: Денисова
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: risunok@spbgasu.ru
+      fio:
+        firstName: Елена
+        secondName: Геннадьевна
+        middleName: Молоткова
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: aconstr@spbgasu.ru
+      fio:
+        firstName: Светлана
+        secondName: Геннадьевна
+        middleName: Головина
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: geotechnica@spbgasu.ru
+      fio:
+        firstName: Анатолий
+        secondName: Иванович
+        middleName: Осокин
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: pmi@spbgasu.ru
+      fio:
+        firstName: Ольга
+        secondName: Николаевна
+        middleName: Яркова
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: compscience@spbgasu.ru
+      fio:
+        firstName: Лия
+        secondName: Витальевна
+        middleName: Мовсесова
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: matem@spbgasu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Владимировна
+        middleName: Рябикова
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: tehmeh@spbgasu.ru
+      fio:
+        firstName: Никита
+        secondName: Александрович
+        middleName: Масленников
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: orgst@spbgasu.ru
+      fio:
+        firstName: Роман
+        secondName: Владимирович
+        middleName: Мотылев
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: gbk@spbgasu.ru
+      fio:
+        firstName: Алексей
+        secondName: Олегович
+        middleName: Хегай
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: mdk@spbgasu.ru
+      fio:
+        firstName: Александр
+        secondName: Григорьевич
+        middleName: Черных
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: sp@spbgasu.ru
+      fio:
+        firstName: Антон
+        secondName: Николаевич
+        middleName: Гайдо
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: tsmm@spbgasu.ru
+      fio:
+        firstName: Юрий
+        secondName: Владимирович
+        middleName: Пухаренко
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: water@spbgasu.ru
+      fio:
+        firstName: Святослав
+        secondName: Викторович
+        middleName: Федоров
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: geo@spbgasu.ru
+      fio:
+        firstName: Алексей
+        secondName: Васильевич
+        middleName: Волков
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: sfh@spbgasu.ru
+      fio:
+        firstName: Яна
+        secondName: Геннадьевна
+        middleName: Кирк
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: tgsov@spbgasu.ru
+      fio:
+        firstName: Николай
+        secondName: Степанович
+        middleName: Пономарёв
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: tsb@spbgasu.ru
+      fio:
+        firstName: Андрей
+        secondName: Николаевич
+        middleName: Никулин
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: ad@spbgasu.ru
+      fio:
+        firstName: Мария
+        secondName: Петровна
+        middleName: Клековкина
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: tm@spbgasu.ru
+      fio:
+        firstName: Елена
+        secondName: Владимировна
+        middleName: Куракина
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: tets@spbgasu.ru
+      fio:
+        firstName: Игорь
+        secondName: Олегович
+        middleName: Черняев
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: transis@spbgasu.ru
+      fio:
+        firstName: Станислав
+        secondName: Сергеевич
+        middleName: Евтюков
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: kmk@spbgasu.ru
+      fio:
+        firstName: Елена
+        secondName: Петровна
+        middleName: Селезнёва
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: clio@spbgasu.ru
+      fio:
+        firstName: Ирина
+        secondName: Юрьевна
+        middleName: Лапина
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: proecbez@spbgasu.ru
+      fio:
+        firstName: Анатолий
+        secondName: Константинович
+        middleName: Моденов
+      declination: Уважаемый
+
+- name: СПбГАСУ
+  employees:
+    - email: managment@spbgasu.ru
+      fio:
+        firstName: Наталия
+        secondName: Геннадиевна
+        middleName: Плетнева
+      declination: Уважаемая
+
+- name: СПбГАСУ
+  employees:
+    - email: es@spbgasu.ru
+      fio:
+        firstName: Вероника
+        secondName: Викторовна
+        middleName: Асаул
+      declination: Уважаемая

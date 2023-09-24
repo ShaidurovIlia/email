@@ -1,0 +1,701 @@
+- name: КГМУ
+  employees:
+    - email: skinderma@rambler.ru
+      fio:
+        firstName: Луиза
+        secondName: Афгатовна
+        middleName: Юсупова
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: kaz.dnevr@mail.ru
+      fio:
+        firstName: Елена
+        secondName: Александровна
+        middleName: Морозова
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: cpd-kgma@mail.ru
+      fio:
+        firstName: Максим
+        secondName: Леонидович
+        middleName: Максимов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: rkbvl@i-set.ru
+      fio:
+        firstName: Фарит
+        secondName: Ахатович
+        middleName: Хабиров
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: kafped@yandex.ru
+      fio:
+        firstName: Асия
+        secondName: Ильдусовна
+        middleName: Сафина
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: 2724151@mail.ru
+      fio:
+        firstName: Анатолий
+        secondName: Михайлович
+        middleName: Карпов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: madam.pspe@yandex.ru
+      fio:
+        firstName: Фоат
+        secondName: Фатыхович
+        middleName: Гатин
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: kafedra-reabil-kgma@mail.ru
+      fio:
+        firstName: Резеда
+        secondName: Ахметовна
+        middleName: Бодрова
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: rgsbancorp@mail.ru
+      fio:
+        firstName: Рафик
+        secondName: Галимзянович
+        middleName: Сайфутдинов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: pozd-alexandr@rambler.ru
+      fio:
+        firstName: Александр
+        secondName: Олегович
+        middleName: Поздняк
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: fdkgma@mail.ru
+      fio:
+        firstName: Юрий
+        secondName: Эмильевич
+        middleName: Терегулов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: g.r.vagapova@gmail.com
+      fio:
+        firstName: Гульнар
+        secondName: Рифатовна
+        middleName: Вагапова
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: Kafedra_ag_kazan@rambler.ru
+      fio:
+        firstName: Евгений
+        secondName: Юрьевич
+        middleName: Юпатов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: bayalieva1@yandex.ru
+      fio:
+        firstName: Роман
+        secondName: Яковлевич
+        middleName: Шпанер
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: cardiokgma@mail.ru
+      fio:
+        firstName: Ильдар
+        secondName: Васылович
+        middleName: Абдульянов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: mikhailovmk@mail.ru
+      fio:
+        firstName: Марс
+        secondName: Константинович
+        middleName: Михайлов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: kafedraonc@mail.ru
+      fio:
+        firstName: Рустем
+        secondName: Шамильевич
+        middleName: Хасанов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: mz.rsp@tatar.ru
+      fio:
+        firstName: Наиля
+        secondName: Ильгизовна
+        middleName: Шаймиева
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: korl-kazan@mail.ru
+      fio:
+        firstName: Владимир
+        secondName: Николаевич
+        middleName: Красножен
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: kgma_oftalm@mail.ru
+      fio:
+        firstName: Эльмира
+        secondName: Абдулаевна
+        middleName: Абдулаева
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: a_anokhina@mail.ru
+      fio:
+        firstName: Антонина
+        secondName: Васильевна
+        middleName: Анохина
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: igor.pankov.52@mail.ru
+      fio:
+        firstName: Игорь
+        secondName: Олегович
+        middleName: Панков
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: kafedra-uzi.kgma@mail.ru
+      fio:
+        firstName: Мунир
+        secondName: Габдулфатович
+        middleName: Тухбатуллин
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: lobkarev@gmail.com
+      fio:
+        firstName: Ярослав
+        secondName: Валерьевич
+        middleName: Прокопьев
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: ismalkov@yahoo.com
+      fio:
+        firstName: Игорь
+        secondName: Сергеевич
+        middleName: Малков
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: Irinaexl@mail.ru
+      fio:
+        firstName: Олег
+        secondName: Викторович
+        middleName: Нестеров
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: daslavin@mail.ru
+      fio:
+        firstName: Александр
+        secondName: Николаевич
+        middleName: Чугунов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: microb@kgma.info
+      fio:
+        firstName: Оскар
+        secondName: Кимович
+        middleName: Поздеев
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: kafedra.2013@mail.ru
+      fio:
+        firstName: Наиля
+        secondName: Зуфаровна
+        middleName: Юсупова
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: Kafedra.oz@yandex.ru
+      fio:
+        firstName: Тамара
+        secondName: Ильдусовна
+        middleName: Садыкова
+      declination: Уважаемая
+
+- name: КГМУ
+  employees:
+    - email: aanisimovhbsmp@yandex.ru
+      fio:
+        firstName: Василь
+        secondName: Валиевич
+        middleName: Фаттахов
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: rkpd@kgts.ru
+      fio:
+        firstName: Равиль
+        secondName: Шамилович
+        middleName: Валиев
+      declination: Уважаемый
+
+- name: КГМУ
+  employees:
+    - email: epidkgma@mail.ru
+      fio:
+        firstName: Владимир
+        secondName: Александрович
+        middleName: Трифонов
+      declination: Уважаемый
+
+- name: КФУ
+  employees:
+    - email: Gulshat.Galiullina@kpfu.ru
+      fio:
+        firstName: Гульшат
+        secondName: Раисовна
+        middleName: Галиуллина
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: Flera.Sajfulina@kpfu.ru
+      fio:
+        firstName: Флера
+        secondName: Сагитовна
+        middleName: Сайфулина
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: Gulnara.Batyrshina@kpfu.ru
+      fio:
+        firstName: Гульнара
+        secondName: Ибрагимовна
+        middleName: Батыршина
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: cathedra.design@mail.ru
+      fio:
+        firstName: Эльмира
+        secondName: Габдулловна
+        middleName: Ахметшина
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: rki-kfu@mail.ru
+      fio:
+        firstName: Алия
+        secondName: Наилевна
+        middleName: Мифтахова
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: Dilyara.Israfilova@kpfu.ru
+      fio:
+        firstName: Диляра
+        secondName: Шамилевна
+        middleName: Шакирова
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: Zulfiya.Jusupova@kpfu.ru
+      fio:
+        firstName: Зульфия
+        secondName: Фирдинатовна
+        middleName: Юсупова
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: zakirovav-2011@mail.ru
+    - email: valery-arel2013@yandex.ru
+      fio:
+        firstName: Венера
+        secondName: Гильмхановна
+        middleName: Закирова
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: valeykin@yandex.ru
+    - email: kosp@kpfu.ru
+      fio:
+        firstName: Роза
+        secondName: Алексеевна
+        middleName: Валеева
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: alfkazan@mail.ru
+    - email: pedagogika@kpfu.ru
+      fio:
+        firstName: Альфия
+        secondName: Рафисовна
+        middleName: Масалимова
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: ipp2@mail.ru
+      fio:
+        firstName: Алмаз
+        secondName: Мирзанурович
+        middleName: Галимов
+      declination: Уважаемый
+
+- name: КФУ
+  employees:
+    - email: psilogiairport@mail.ru
+      fio:
+        firstName: Ирина
+        secondName: Игоревна
+        middleName: Лушпаева
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: Anna.Ahmetzyanova@kpfu.ru
+    - email: defectology@kpfu.ru
+      fio:
+        firstName: Анна
+        secondName: Ивановна
+        middleName: Ахметзянова
+      declination: Уважаемая
+
+- name: КФУ
+  employees:
+    - email: techphys@kpfu.ru
+    - email: Nail.Kashapov@kpfu.ru
+      fio:
+        firstName: Наиль
+        secondName: Фаикович
+        middleName: Кашапов
+      declination: Уважаемый
+
+- name: КФУ
+  employees:
+    - email: engineer@kpfu.ru
+    - email: Khafizov@kpfu.ru
+      fio:
+        firstName: Ильдар
+        secondName: Ильсурович
+        middleName: Хафизов
+      declination: Уважаемый
+
+- name: КФУ
+  employees:
+    - email: dmitry.tayurskii@kpfu.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Альбертович
+        middleName: Таюрский
+      declination: Уважаемый
+
+- name: КФУ
+  employees:
+    - email: aleksej.kalachev@kpfu.ru
+      fio:
+        firstName: Алексей
+        secondName: Алексеевич
+        middleName: Калачев
+      declination: Уважаемый
+
+- name: КФУ
+  employees:
+    - email: Adel.Akchurin@kpfu.ru
+      fio:
+        firstName: Адель
+        secondName: Джавидович
+        middleName: Акчурин
+      declination: Уважаемый
+
+- name: КФУ
+  employees:
+    - email: Oleg.Sherstyukov@kpfu.ru
+      fio:
+        firstName: Олег
+        secondName: Николаевич
+        middleName: Шерстюков
+      declination: Уважаемый
+
+- name: КФУ
+  employees:
+    - email: Marat.Ovchinnikov@kpfu.ru
+      fio:
+        firstName: Марат
+        secondName: Николаевич
+        middleName: Овчинников
+      declination: Уважаемый
+
+- name: КФУ
+  employees:
+    - email: yurii.proshin@kpfu.ru
+      fio:
+        firstName: Юрий
+        secondName: Николаевич
+        middleName: Прошин
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: kgeu.tes@mail.ru
+      fio:
+        firstName: Наталия
+        secondName: Дмитриевна
+        middleName: Чичирова
+      declination: Уважаемая
+
+- name: КГЭУ
+  employees:
+    - email: pts_kgeu@mail.ru
+      fio:
+        firstName: Юрий
+        secondName: Витальевич
+        middleName: Ваньков
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: kafedraems@yandex.ru
+      fio:
+        firstName: Гузель
+        secondName: Рашидовна
+        middleName: Мингалеева
+      declination: Уважаемая
+
+- name: КГЭУ
+  employees:
+    - email: ee-kgeu@mail.ru
+      fio:
+        firstName: Владимир
+        secondName: Кузьмич
+        middleName: Ильин
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: atpp_kgeu@mail.ru
+      fio:
+        firstName: Андрей
+        secondName: Владимирович
+        middleName: Дмитриев
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: vbakgeu@mail.ru
+      fio:
+        firstName: Марина
+        secondName: Львовна
+        middleName: Калайда
+      declination: Уважаемая
+
+- name: КГЭУ
+  employees:
+    - email: khimiya_kgeu@mail.ru
+      fio:
+        firstName: Андрей
+        secondName: Александрович
+        middleName: Чичиров
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: mvtm2003@mail.ru
+      fio:
+        firstName: Руслан
+        secondName: Сагитович
+        middleName: Давлетбаев
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: ie_kgeu@mail.ru
+      fio:
+        firstName: Лариса
+        secondName: Андреевна
+        middleName: Николаева
+      declination: Уважаемая
+
+- name: КГЭУ
+  employees:
+    - email: eрр.kgeu@mail.ru
+      fio:
+        firstName: Альфред
+        secondName: Робертович
+        middleName: Сафин
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: kgeu-et@yandex.ru
+      fio:
+        firstName: Павел
+        secondName: Павлович
+        middleName: Павлов
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: kgeu-toe@mail.ru
+      fio:
+        firstName: Марат
+        secondName: Фердинантович
+        middleName: Садыков
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: potter1771@mail.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Алексеевич
+        middleName: Иванов
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: electric-station@mail.ru
+      fio:
+        firstName: Сергей
+        secondName: Михайлович
+        middleName: Маргулис
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: esis.kgeu@bk.ru
+      fio:
+        firstName: Виктор
+        secondName: Владимирович
+        middleName: Максимов
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: k.fizika@mail.ru
+      fio:
+        firstName: Рустем
+        secondName: Рауфович
+        middleName: Хуснутдинов
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: kaf.exp@mail.ru
+      fio:
+        firstName: Рамил
+        secondName: Рифатович
+        middleName: Гибадуллин
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: eop100@mail.ru
+      fio:
+        firstName: Ирина
+        secondName: Гареевна
+        middleName: Ахметова
+      declination: Уважаемая
+
+- name: КГЭУ
+  employees:
+    - email: 5194291@mail.ru
+    - email: pp_kgeu@mail.ru
+    - email: ksociology@mail.ru
+      fio:
+        firstName: Алина
+        secondName: Владимировна
+        middleName: Махиянова
+      declination: Уважаемая
+
+- name: КГЭУ
+  employees:
+    - email: pppo-kgeu@yandex.ru
+    - email: ika-kgeu@mail.ru
+      fio:
+        firstName: Галина
+        secondName: Владимировна
+        middleName: Завада
+      declination: Уважаемая
+
+- name: КГЭУ
+  employees:
+    - email: fv_kgeu@mail.ru
+      fio:
+        firstName: Николай
+        secondName: Владимирович
+        middleName: Васенков
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: vm.kgeu-pochta@mail.ru
+      fio:
+        firstName: Айрат
+        secondName: Салимович
+        middleName: Ситдиков
+      declination: Уважаемый
+
+- name: КГЭУ
+  employees:
+    - email: kgeu_epa@mail.ru
+      fio:
+        firstName: Олег
+        secondName: Владимирович
+        middleName: Козелков
+      declination: Уважаемый

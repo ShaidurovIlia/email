@@ -1,0 +1,612 @@
+institutes:
+  - name: МСХА
+    employees:
+      - email: ik@rgau-msha.ru
+        fio:
+          firstName: Ольга
+          secondName: Мареева
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: gts@rgau-msha.ru
+        fio:
+          firstName: Нартмир
+          secondName: Ханов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: ggirs@rgau-msha.ru
+        fio:
+          firstName: Алексей
+          secondName: Перминов
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: ubezborodov@rgau-msha.ru
+        fio:
+          firstName: Юрий
+          secondName: Безбородов
+          middleName: Германович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: zchs@rgau-msha.ru
+        fio:
+          firstName: Вячеслав
+          secondName: Борулько
+          middleName: Григорьевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: mop@rgau-msha.ru
+        fio:
+          firstName: Виктор
+          secondName: Балабанов
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: cxca@rgau-msha.ru
+        fio:
+          firstName: Павел
+          secondName: Михеев
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: viv@rgau-msha.ru
+        fio:
+          firstName: Мунзер
+          secondName: Али
+          middleName: Сулейман
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: ndubenok@rgau-msha.ru
+        fio:
+          firstName: Николай
+          secondName: Дубенок
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: paliivets@rgau-msha.ru
+        fio:
+          firstName: Максим
+          secondName: Палиивец
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: fiz@rgau-msha.ru
+        fio:
+          firstName: Николай
+          secondName: Коноплин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: ecolog@rgau-msha.ru
+        fio:
+          firstName: Иван
+          secondName: Васенев
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: energo-air@rgau-msha.ru
+        fio:
+          firstName: Владимир
+          secondName: Сторчевой
+          middleName: Федорович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: ikg@rgau-msha.ru
+        fio:
+          firstName: Екатерина
+          secondName: Чепурина
+          middleName: Леонидовна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: techmash@rgau-msha.ru
+        fio:
+          firstName: Сергей
+          secondName: Гайдар
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: metr@rgau-msha.ru
+        fio:
+          firstName: Олег
+          secondName: Леонов
+          middleName: Альбертович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: cxm@rgau-msha.ru
+        fio:
+          firstName: Николай
+          secondName: Алдошин
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: smdm@rgau-msha.ru
+        fio:
+          firstName: Сергей
+          secondName: Казанцев
+          middleName: Павлович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: energo-ngk@rgau-msha.ru
+        fio:
+          firstName: Наталья
+          secondName: Кожевникова
+          middleName: Георгиевна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: ekspl@rgau-msha.ru
+        fio:
+          firstName: Алексей
+          secondName: Апатенко
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: autotrans@rgau-msha.ru
+        fio:
+          firstName: Отари
+          secondName: Дидманидзе
+          middleName: Назирович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: emtpivtr@rgau-msha.ru
+        fio:
+          firstName: Олег
+          secondName: Андреев
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: nstushkina@rgau-msha.ru
+        fio:
+          firstName: Наталья
+          secondName: Стушкина
+          middleName: Алексеевна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: Orishev71@mail.ru
+        fio:
+          firstName: Александр
+          secondName: Оришев
+          middleName: Борисович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: gnezdilovaev@rgau-msha.ru
+        fio:
+          firstName: Елена
+          secondName: Гнездилова
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: forlang@rgau-msha.ru
+        fio:
+          firstName: Алексей
+          secondName: Зайцев
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: cibizova_o@rgau-msha.ru
+        fio:
+          firstName: Оксана
+          secondName: Цибизова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: filosof@rgau-msha.ru
+        fio:
+          firstName: Азер
+          secondName: Мамедов
+          middleName: Агабалаевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: audit@rgau-msha.ru
+        fio:
+          firstName: Татьяна
+          secondName: Гупалова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: kaf_org@rgau-msha.ru
+        fio:
+          firstName: Татьяна
+          secondName: Ворожейкина
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: kafpppo@rgau-msha.ru
+        fio:
+          firstName: Петр
+          secondName: Кубрушко
+          middleName: Федорович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: statmsha@rgau-msha.ru
+        fio:
+          firstName: Анна
+          secondName: Уколова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: matematika@rgau-msha.ru
+        fio:
+          firstName: Александр
+          secondName: Прудкий
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: k.politeconom@rgau-msha.ru
+        fio:
+          firstName: Гульнара
+          secondName: Джанчарова
+          middleName: Каримхановна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: k_management@rgau-msha.ru
+        fio:
+          firstName: Валерий
+          secondName: Кошелев
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: ekonom@rgau-msha.ru
+        fio:
+          firstName: Юлия
+          secondName: Чутчева
+          middleName: Васильевна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: kaf_buhuchet@rgau-msha.ru
+        fio:
+          firstName: Любовь
+          secondName: Постникова
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: thippio@rgau-msha.ru
+        fio:
+          firstName: Сергей
+          secondName: Масловский
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: Sbredihin_kpia@rgau-msha.ru
+        fio:
+          firstName: Сергей
+          secondName: Бредихин
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: tppj@rgau-msha.ru
+        fio:
+          firstName: Стяпас
+          secondName: Грикшас
+          middleName: Антанович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: ndunchenko@rgau-msha.ru
+        fio:
+          firstName: Нина
+          secondName: Дунченко
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: cherednichenko@rgau-msha.ru
+        fio:
+          firstName: Михаил
+          secondName: Чередниченко
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: genetics@rgau-msha.ru
+        fio:
+          firstName: Владимир
+          secondName: Пыльнев
+          middleName: Валентинович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: zrast@rgau-msha.ru
+        fio:
+          firstName: Февзи
+          secondName: Джалилов
+          middleName: Сеид-Умерович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: izavyortkin@rgau-msha.ru
+        fio:
+          firstName: Игорь
+          secondName: Заверткин
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: meteo@rgau-msha.ru
+        fio:
+          firstName: Александр
+          secondName: Белолюбцев
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: plant@rgau-msha.ru
+        fio:
+          firstName: Александра
+          secondName: Шитикова
+          middleName: Васильевна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: plantphys@rgau-msha.ru
+        fio:
+          firstName: Иван
+          secondName: Тараканов
+          middleName: Германович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: agbihim@rgau-msha.ru
+        fio:
+          firstName: Алексей
+          secondName: Налиухин
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: himija@rgau-msha.ru
+        fio:
+          firstName: Инна
+          secondName: Дмитревская
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: a.kozlov@rgau-msha.ru
+        fio:
+          firstName: Андрей
+          secondName: Козлов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: soillab@rgau-msha.ru
+        fio:
+          firstName: Олег
+          secondName: Ефимов
+          middleName: Евгеньевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: avtomat@rgau-msha.ru
+        fio:
+          firstName: Юрий
+          secondName: Иванов
+          middleName: Григорьевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: akvipch@rgau-msha.ru
+        fio:
+          firstName: Альфир
+          secondName: Маннапов
+          middleName: Габдуллович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: morfovet@rgau-msha.ru
+        fio:
+          firstName: Георгий
+          secondName: Дюльгер
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: kidov@rgau-msha.ru
+        fio:
+          firstName: Артем
+          secondName: Кидов
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: konevod@rgau-msha.ru
+        fio:
+          firstName: Владимир
+          secondName: Демин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: kormlenieskota@gmail.com
+        fio:
+          firstName: Николай
+          secondName: Буряков
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: milk-center@rgau-msha.ru
+        fio:
+          firstName: Ольга
+          secondName: Соловьева
+          middleName: Игнатьевна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: morfologia_vetsan@rgau-msha.ru
+        fio:
+          firstName: Анна
+          secondName: Семак
+          middleName: Эдуардовна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: razvedenie@rgau-msha.ru
+        fio:
+          firstName: Марина
+          secondName: Селионова
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: smu@rgau-msha.ru
+        fio:
+          firstName: Дмитрий
+          secondName: Ксенофонтов
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: o.v.ivanova@rgau-msha.ru
+        fio:
+          firstName: Ольга
+          secondName: Иванова
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: s.monakhos@rgau-msha.ru
+        fio:
+          firstName: Сократ
+          secondName: Монахос
+          middleName: Григорьевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: deksad@rgau-msha.ru
+        fio:
+          firstName: Сергей
+          secondName: Макаров
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: dkalashnikov@rgau-msha.ru
+        fio:
+          firstName: Александр
+          secondName: Довганюк
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: МСХА
+    employees:
+      - email: ovoshevodstvo19@rgau-msha.ru
+        fio:
+          firstName: Вера
+          secondName: Терехова
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: МСХА
+    employees:
+      - email: plodvin@rgau-msha.ru
+        fio:
+          firstName: Александр
+          secondName: Соловьев
+          middleName: Валерьевич
+        declination: Уважаемый

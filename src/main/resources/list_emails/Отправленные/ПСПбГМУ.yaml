@@ -1,0 +1,513 @@
+institutes:
+  - name: ПСПбГМУ
+    employees:
+      - email: bez-vitaly@yandex.ru
+        fio:
+          firstName: Виталий
+          secondName: Беженарь
+          middleName: Фёдорович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: polushin1@gmail.com
+        fio:
+          firstName: Юрий
+          secondName: Полушин
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: coordinatorbmt@mail.ru
+        fio:
+          firstName: Александр
+          secondName: Кулагин
+          middleName: Дмитриевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: kafedra.dermatovenerologii@mail.ru
+        fio:
+          firstName: Евгений
+          secondName: Соколовский
+          middleName: Владиславович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: forlang@mail.ru
+        fio:
+          firstName: Алла
+          secondName: Василькова
+          middleName: Панфиловна
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: infection@spmu.rssi.ru
+        fio:
+          firstName: Дмитрий
+          secondName: Лиознов
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: kafedraistorii.pspbgmu@yandex.ru
+        fio:
+          firstName: Игорь
+          secondName: Зимин
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: akopovand@mail.ru
+        fio:
+          firstName: Андрей
+          secondName: Акопов
+          middleName: Леонидович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: vladimirem1@gmail.com
+        fio:
+          firstName: Владимир
+          secondName: Эмануэль
+          middleName: Леонидович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: alex.kolbin@mail.ru
+        fio:
+          firstName: Алексей
+          secondName: Колбин
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: kvbsf@inbox.ru
+        fio:
+          firstName: Ирина
+          secondName: Горбачева
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: medlatin@rambler.ru
+        fio:
+          firstName: Елена
+          secondName: Каледина
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: biology@spb-gmu.ru
+        fio:
+          firstName: Марина
+          secondName: Корженевская
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: 1spbmed_reabilita@mail.ru
+        fio:
+          firstName: Алла
+          secondName: Потапчук
+          middleName: Аскольдовна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: microb_nauka@spb-gmu.ru
+        fio:
+          firstName: Виктор
+          secondName: Тец
+          middleName: Вениаминович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: stark-4@mail.ru
+        fio:
+          firstName: Александр
+          secondName: Старков
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: nevro-fpo@mail.ru
+        fio:
+          firstName: Евгений
+          secondName: Баранцевич
+          middleName: Робертович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: nevrologiya@gmail.com
+        fio:
+          firstName: Александр
+          secondName: Скоромец
+          middleName: Анисимович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: cherebillo@mail.ru
+        fio:
+          firstName: Владислав
+          secondName: Черебилло
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: essaian.ashot@gmail.com
+        fio:
+          firstName: Ашот
+          secondName: Есаян
+          middleName: Мовсесович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: ovp1med@mail.ru
+        fio:
+          firstName: Наталия
+          secondName: Шапорова
+          middleName: Леонидовна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: clinical-psy@mail.ru
+        fio:
+          firstName: Елена
+          secondName: Исаева
+          middleName: Рудольфовна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: orgzdrav@mail.ru
+        fio:
+          firstName: Николай
+          secondName: Вишняков
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: oncology.spbgmu@mail.ru
+        fio:
+          firstName: Владислав
+          secondName: Семиглазов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: 9516183@mail.ru
+        fio:
+          firstName: Александр
+          secondName: Захаренко
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: karpischenkos@mail.ru
+        fio:
+          firstName: Сергей
+          secondName: Карпищенко
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: astakhov73@mail.ru
+        fio:
+          firstName: Сергей
+          secondName: Астахов
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: kaf.patanat@spb-gmu.ru
+        fio:
+          firstName: Маргарита
+          secondName: Рыбакова
+          middleName: Григорьевна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: kpp_fpo_spbgmu@mail.ru
+        fio:
+          firstName: Нина
+          secondName: Ванчакова
+          middleName: Павловна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: nephro-uro-kids@mail.ru
+        fio:
+          firstName: Наталья
+          secondName: Смирнова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: info@1medplastika.com
+        fio:
+          firstName: Ирина
+          secondName: Хрусталева
+          middleName: Эдуардовна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: proped@spb-gmu.ru
+        fio:
+          firstName: Александр
+          secondName: Куликов
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: prst10@bk.ru
+        fio:
+          firstName: Ирина
+          secondName: Антонова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: Neznanov.spbgmu@gmail.com
+        fio:
+          firstName: Николай
+          secondName: Незнанов
+          middleName: Григорьевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: mih.ilkovich@yandex.ru
+        fio:
+          firstName: Михаил
+          secondName: Илькович
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: dmitriigranov@gmail.com
+        fio:
+          firstName: Дмитрий
+          secondName: Гранов
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: x-ray_spbgmu@mail.ru
+        fio:
+          firstName: Виктор
+          secondName: Амосов
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: info@1spbgmu.ru
+        fio:
+          firstName: Виктор
+          secondName: Савелло
+          middleName: Евгеньевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: russyaz@spb-gmu.ru
+        fio:
+          firstName: Елена
+          secondName: Тренина
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: rus2spbgmu@mail.ru
+        fio:
+          firstName: Александра
+          secondName: Власова
+          middleName: Олеговна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: NursingDep@mail.ru
+        fio:
+          firstName: Наталия
+          secondName: Петрова
+          middleName: Гурьевна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: ildar.50@mail.ru
+        fio:
+          firstName: Ильдар
+          secondName: Миннуллин
+          middleName: Пулатович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: elena_yastrebova@inbox.ru
+        fio:
+          firstName: Николай
+          secondName: Беляков
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: decanstom@mail.ru
+        fio:
+          firstName: Татьяна
+          secondName: Ткаченко
+          middleName: Борисовна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: ortstom1med@mail.ru
+        fio:
+          firstName: Владимир
+          secondName: Трезубов
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: Sergio_1954@mail.ru
+        fio:
+          firstName: Сергей
+          secondName: Улитовский
+          middleName: Борисович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: terstomlo@mail.ru
+        fio:
+          firstName: Людмила
+          secondName: Орехова
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: hirstom_pspbgmu@mail.ru
+        fio:
+          firstName: Андрей
+          secondName: Яременко
+          middleName: Ильич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: sudmedspb@mail.ru
+        fio:
+          firstName: Вячеслав
+          secondName: Попов
+          middleName: Леонидович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: trofvi@mail.ru
+        fio:
+          firstName: Василий
+          secondName: Трофимов
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: info@1spbgmu.ru
+        fio:
+          firstName: Юрий
+          secondName: Халимов
+          middleName: Шавкатович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: tomodeus@yandex.ru
+        fio:
+          firstName: Александр
+          secondName: Дулаев
+          middleName: Кайсинович
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: lubov.vasina@gmail.com
+        fio:
+          firstName: Любовь
+          secondName: Васина
+          middleName: Васильевна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: liv1706@mail.ru
+        fio:
+          firstName: Маргарита
+          secondName: Рыбакова
+          middleName: Григорьевна
+        declination: Уважаемая
+
+  - name: ПСПбГМУ
+    employees:
+      - email: knsemenov@gmail.com
+        fio:
+          firstName: Константин
+          secondName: Семенов
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: pathophysiology@yandex.ru
+        fio:
+          firstName: Тимур
+          secondName: Власов
+          middleName: Дмитриевич
+        declination: Уважаемый
+
+  - name: ПСПбГМУ
+    employees:
+      - email: evlopatina@yandex.ru
+        fio:
+          firstName: Екатерина
+          secondName: Лопатина
+          middleName: Валентиновна
+        declination: Уважаемая

@@ -1,0 +1,288 @@
+institutes:
+  - name: НИТПУ
+    employees:
+      - email: filipas@tpu.ru
+        fio:
+          firstName: Александр
+          secondName: Филипас
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: gusevanv@tpu.ru
+        fio:
+          firstName: Наталья
+          secondName: Гусева
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: НИТПУ
+    employees:
+      - email: elenalis@tpu.ru
+        fio:
+          firstName: Елена
+          secondName: Лисичко
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: НИТПУ
+    employees:
+      - email: sol@tpu.ru
+        fio:
+          firstName: Ольга
+          secondName: Солодовникова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: НИТПУ
+    employees:
+      - email: leonov@tpu.ru
+        fio:
+          firstName: Сергей
+          secondName: Леонов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: vss0@tpu.ru
+        fio:
+          firstName: Владислав
+          secondName: Шерстнев
+          middleName: Станиславович
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: surzhikov@tpu.ru
+        fio:
+          firstName: Анатолий
+          secondName: Суржиков
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: rozhkova@tpu.ru
+        fio:
+          firstName: Светлана
+          secondName: Рожкова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: НИТПУ
+    employees:
+      - email: klimenov@tpu.ru
+        fio:
+          firstName: Василий
+          secondName: Клименов
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: mohovikov@tpu.ru
+        fio:
+          firstName: Алексей
+          secondName: Моховиков
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: lukin@tpu.ru
+        fio:
+          firstName: Алексей
+          secondName: Лукин
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: epashkov@tpu.ru
+        fio:
+          firstName: Евгений
+          secondName: Пашков
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: sherinaea@tpu.ru
+        fio:
+          firstName: Евгения
+          secondName: Шерина
+          middleName: Алексеевна
+        declination: Уважаемая
+
+  - name: НИТПУ
+    employees:
+      - email: lukianova@tpu.ru
+        fio:
+          firstName: Наталия
+          secondName: Лукьянова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: НИТПУ
+    employees:
+      - email: belousovia@tpu.ru
+        fio:
+          firstName: Илья
+          secondName: Белоусов
+          middleName: Андреевич
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: eikor@tpu.ru
+        fio:
+          firstName: Елена
+          secondName: Короткова
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: НИТПУ
+    employees:
+      - email: lider@tpu.ru
+        fio:
+          firstName: Андрей
+          secondName: Лидер
+          middleName: Маркович
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: baranov_pf@tpu.ru
+        fio:
+          firstName: Павел
+          secondName: Баранов
+          middleName: Федорович
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: lionrash@tpu.ru
+        fio:
+          firstName: Игорь
+          secondName: Разживин
+          middleName: Андреевич
+        declination: Уважаемый
+
+  - name: НИТПУ
+    employees:
+      - email: alex1479@tpu.ru
+        fio:
+          firstName: Алексей
+          secondName: Горюнов
+          middleName: Германович
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: petukhovmv@norvuz.ru
+        fio:
+          firstName: Михаил
+          secondName: Петухов
+          middleName: Вадимович
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: elesinma@norvuz.ru
+        fio:
+          firstName: Михаил
+          secondName: Елесин
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: EUP@norvuz.ru
+        fio:
+          firstName: Алла
+          secondName: Монич
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: ЗГУ
+    employees:
+      - email: ist@norvuz.ru
+        fio:
+          firstName: Михаил
+          secondName: Петухов
+          middleName: Вадимович
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: inlang@norvuz.ru
+        fio:
+          firstName: Олег
+          secondName: Демченко
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: nii@norvuz.ru
+        fio:
+          firstName: Алексей
+          secondName: Петров
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: pgs@norvuz.ru
+        fio:
+          firstName: Михаил
+          secondName: Елесин
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: nii@norvuz.ru
+        fio:
+          firstName: Андрей
+          secondName: Федоров
+          middleName: Аполлинарьевич
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: rmpi@norvuz.ru
+        fio:
+          firstName: Роман
+          secondName: Мельников
+          middleName: Вячеславович
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: mcm@norvuz.ru
+        fio:
+          firstName: Алексей
+          secondName: Черемисин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email: nii@norvuz.ru
+        fio:
+          firstName: Валерий
+          secondName: Дубровин
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: ЗГУ
+    employees:
+      - email:  fizika@norvuz.ru
+        fio:
+          firstName: Станислав
+          secondName: Шигалугов
+          middleName: Хазретович
+        declination: Уважаемый

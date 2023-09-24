@@ -1,0 +1,5 @@
+
+1. При отключенном почтновом ящике получаю ошибку: Исправить!
+com.sun.mail.smtp.SMTPSendFailedException: 550 Message was not accepted -- invalid mailbox.  Local mailbox zf@mtuci.ru is unavailable: account is disabled
+2. Добавить возможность обработки при невалидно(недоступном) email.
+java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x020x000x010x000x010xfc0x030x03y# ]. HTTP method names must be tokens

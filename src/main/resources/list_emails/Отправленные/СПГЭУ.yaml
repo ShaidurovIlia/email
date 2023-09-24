@@ -1,0 +1,396 @@
+institutes:
+  - name: СПГЭУ
+    employees:
+      - email: dept.koet@unecon.ru
+        fio:
+          firstName: Дмитрий
+          secondName: Миропольский
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kmeo@unecon.ru
+        fio:
+          firstName: София
+          secondName: Рекорд
+          middleName: Игоревна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kbd@unecon.ru
+        fio:
+          firstName: Светлана
+          secondName: Янова
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kbuaie@unecon.ru
+        fio:
+          firstName: Михаил
+          secondName: Осипов
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kbuaiu@unecon.ru
+        fio:
+          firstName: Наталия
+          secondName: Каморджанова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: kf@unecon.ru
+        fio:
+          firstName: Наталия
+          secondName: Иванова
+          middleName: Георгиевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.ksteco@unecon.ru
+        fio:
+          firstName: Ирина
+          secondName: Елисеева
+          middleName: Ильинична
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kep@unecon.ru
+        fio:
+          firstName: Елена
+          secondName: Ялунер
+          middleName: Васильевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.mompi@unecon.ru
+        fio:
+          firstName: Александр
+          secondName: Марков
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.krus@unecon.ru
+        fio:
+          firstName: Сергей
+          secondName: Степанов
+          middleName: Павлович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kktso@unecon.ru
+        fio:
+          firstName: Алексей
+          secondName: Кривоносов
+          middleName: Дмитриевич
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.krep@unecon.ru
+        fio:
+          firstName: Владимир
+          secondName: Разумовский
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kayap@unecon.ru
+        fio:
+          firstName: Евгения
+          secondName: Нильсен
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.knsyap@unecon.ru
+        fio:
+          firstName: Юлия
+          secondName: Тимралиева
+          middleName: Геннадьевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.keel1@unecon.ru
+        fio:
+          firstName: Анна
+          secondName: Набирухина
+          middleName: Вадимовна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.keel2@unecon.ru
+        fio:
+          firstName: Ксения
+          secondName: Антонова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: kafvostok@unecon.ru
+        fio:
+          firstName: Татьяна
+          secondName: Пруцких
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.ktigp@unecon.ru
+        fio:
+          firstName: Георгий
+          secondName: Бернацкий
+          middleName: Генрихович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kpep@unecon.ru
+        fio:
+          firstName: Светлана
+          secondName: Василькова
+          middleName: Витальевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kgkp@unecon.ru
+        fio:
+          firstName: Виталий
+          secondName: Смирнов
+          middleName: Имантович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kkap@unecon.ru
+        fio:
+          firstName: Андрей
+          secondName: Новиков
+          middleName: Борисович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kupiup@unecon.ru
+        fio:
+          firstName: Артем
+          secondName: Хлебушкин
+          middleName: Геннадьевич
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kgap@unecon.ru
+        fio:
+          firstName: Елена
+          secondName: Андреева
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.math@unecon.ru
+        fio:
+          firstName: Геннадий
+          secondName: Савинов
+          middleName: Володарович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: mme@unecon.ru
+        fio:
+          firstName: Григорий
+          secondName: Фридман
+          middleName: Морицович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kvsip@unecon.ru
+        fio:
+          firstName: Александр
+          secondName: Солодянников
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.ait@unecon.ru
+        fio:
+          firstName: Игорь
+          secondName: Коршунов
+          middleName: Львович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: ki@unecon.ru
+        fio:
+          firstName: Валерий
+          secondName: Трофимов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: fculture@unecon.ru
+        fio:
+          firstName: Валерий
+          secondName: Григорьев
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kmi@unecon.ru
+        fio:
+          firstName: Анна
+          secondName: Бездудная
+          middleName: Герольдовна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: int-man@yandex.ru
+        fio:
+          firstName: Наталья
+          secondName: Трифонова
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kepipm@unecon.ru
+        fio:
+          firstName: Александр
+          secondName: Карлик
+          middleName: Евсеевич
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.keik@unecon.ru
+        fio:
+          firstName: Елена
+          secondName: Горбашко
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.eug@unecon.ru
+        fio:
+          firstName: Игорь
+          secondName: Федосеев
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.ksocupr@unecon.ru
+        fio:
+          firstName: Валерий
+          secondName: Потемкин
+          middleName: Константинович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.ktam@unecon.ru
+        fio:
+          firstName: Юлия
+          secondName: Малевич
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kkl@unecon.ru
+        fio:
+          firstName: Владимир
+          secondName: Щербаков
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.km@unecon.ru
+        fio:
+          firstName: Оксана
+          secondName: Юлдашева
+          middleName: Урняковна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.dmpt@unecon.ru
+        fio:
+          firstName: Светлана
+          secondName: Кожевникова
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.ecbez@unecon.ru
+        fio:
+          firstName: Роман
+          secondName: Дронов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.keiuss@unecon.ru
+        fio:
+          firstName: Галина
+          secondName: Карпова
+          middleName: Алексеевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.ksikvd@unecon.ru
+        fio:
+          firstName: Оксана
+          secondName: Кострюкова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.kgirb@unecon.ru
+        fio:
+          firstName: Светлана
+          secondName: Степанова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: СПГЭУ
+    employees:
+      - email: dept.bnit@unecon.ru
+        fio:
+          firstName: Григорий
+          secondName: Лепеш
+          middleName: Васильевич
+        declination: Уважаемый

@@ -1,0 +1,269 @@
+- name: ЛЭТИ
+  employees:
+    - email: almjasheva@mail.ru
+      fio:
+        firstName: Оксана
+        secondName: Альмяшева
+        middleName: Владимировна
+      declination: Уважаемая
+
+- name: ЛЭТИ
+  employees:
+    - email: selenab@hotbox.ru
+      fio:
+        firstName: Елена
+        secondName: Соловьева
+        middleName: Борисовна
+      declination: Уважаемая
+
+- name: ЛЭТИ
+  employees:
+    - email: lvvishnevskaia@etu.ru
+      fio:
+        firstName: Любовь
+        secondName: Вишневская
+        middleName: Владиславовна
+      declination: Уважаемая
+
+- name: ЛЭТИ
+  employees:
+    - email: nick.bodunov@gmail.com
+      fio:
+        firstName: Николай
+        secondName: Бодунов
+        middleName: Александрович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: snkuzmina@etu.ru
+      fio:
+        firstName: Светлана
+        secondName: Кузьмина
+        middleName: Николаевна
+      declination: Уважаемая
+
+- name: ЛЭТИ
+  employees:
+    - email: kafim@mail.ru
+      fio:
+        firstName: Ирина
+        secondName: Брусакова
+        middleName: Александровна
+      declination: Уважаемая
+
+- name: ЛЭТИ
+  employees:
+    - email: kafedrape@mail.ru
+      fio:
+        firstName: Марина
+        secondName: Чигирь
+        middleName: Васильевна
+      declination: Уважаемая
+
+- name: ЛЭТИ
+  employees:
+    - email: nsshashina@etu.ru
+      fio:
+        firstName: Нина
+        secondName: Шашина
+        middleName: Сергеевна
+      declination: Уважаемая
+
+- name: ЛЭТИ
+  employees:
+    - email: vmkutuzov@etu.ru
+      fio:
+        firstName: Владимир
+        secondName: Кутузов
+        middleName: Михайлович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: vm@ieee.org
+      fio:
+        firstName: Виктор
+        secondName: Малышев
+        middleName: Николаевич
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: naobukhova@etu.ru
+      fio:
+        firstName: Наталия
+        secondName: Обухова
+        middleName: Александровна
+      declination: Уважаемая
+
+- name: ЛЭТИ
+  employees:
+    - email: vnushakov1@mail.ru
+      fio:
+        firstName: Виктор
+        secondName: Ушаков
+        middleName: Николаевич
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: vatupik@etu.ru
+      fio:
+        firstName: Виктор
+        secondName: Тупик
+        middleName: Анатольевич
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: pyatkov@niitv.ru
+      fio:
+        firstName: Вячеслав
+        secondName: Пятков
+        middleName: Викторович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: dvkholodnyak@etu.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Холодняк
+        middleName: Викторович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: satarasov@etu.ru
+      fio:
+        firstName: Сергей
+        secondName: Тарасов
+        middleName: Анатольевич
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: shestopalov_08@mail.ru
+      fio:
+        firstName: Михаил
+        secondName: Шестопалов
+        middleName: Юрьевич
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: vvcehanovsky@mail.ru
+      fio:
+        firstName: Владислав
+        secondName: Цехановский
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: mskupriyanov@etu.ru
+      fio:
+        firstName: Михаил
+        secondName: Куприянов
+        middleName: Степанович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: egvorobiev@etu.ru
+      fio:
+        firstName: Евгений
+        secondName: Воробьев
+        middleName: Германович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: vvcehanovsky@mail.ru
+      fio:
+        firstName: Владислав
+        secondName: Цехановский
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: vnsheludko@etu.ru
+      fio:
+        firstName: Виктор
+        secondName: Шелудько
+        middleName: Николаевич
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: sagalunin@etu.ru
+      fio:
+        firstName: Сергей
+        secondName: Галунин
+        middleName: Александрович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: mpbelov@etu.ru
+      fio:
+        firstName: Михаил
+        secondName: Белов
+        middleName: Петрович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: vnsheludko@etu.ru
+      fio:
+        firstName: Виктор
+        secondName: Шелудько
+        middleName: Николаевич
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: yuld@mail.ru
+      fio:
+        firstName: Зафар
+        secondName: Юлдашев
+        middleName: Мухамедович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: tvkustov@etu.ru
+      fio:
+        firstName: Тарас
+        secondName: Кустов
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: yvfilatov@etu.ru
+      fio:
+        firstName: Юрий
+        secondName: Филатов
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: rskonovalov@etu.ru
+      fio:
+        firstName: Роман
+        secondName: Коновалов
+        middleName: Сергеевич
+      declination: Уважаемый
+
+- name: ЛЭТИ
+  employees:
+    - email: bgd@etu.ru
+      fio:
+        firstName: Владимир
+        secondName: Павлов
+        middleName: Николаевич
+      declination: Уважаемый

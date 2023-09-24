@@ -1,0 +1,242 @@
+- name: РУК
+  employees:
+    - email: s.ya.bitjuckij@ruc.su
+      fio:
+        firstName: Сергей
+        secondName: Яковлевич
+        middleName: Битюцкий
+      declination: Уважаемый
+
+- name: РУК
+  employees:
+    - email: ebalalova@ruc.su
+      fio:
+        firstName: Елена
+        secondName: Ивановна
+        middleName: Балалова
+      declination: Уважаемая
+
+- name: РУК
+  employees:
+    - email: a.sh.elyazyan@ruc.su
+      fio:
+        firstName: Анна
+        secondName: Шагеновна
+        middleName: Элязян
+      declination: Уважаемая
+
+- name: РУК
+  employees:
+    - email: fmalieva@ruc.su
+      fio:
+        firstName: Ферида
+        secondName: Гаджиевна
+        middleName: Малиева
+      declination: Уважаемая
+
+- name: РУК
+  employees:
+    - email: aboltaevskiy@ruc.su
+      fio:
+        firstName: Андрей
+        secondName: Андреевич
+        middleName: Болтаевский
+      declination: Уважаемый
+
+- name: РУК
+  employees:
+    - email: asokolov@ruc.su
+      fio:
+        firstName: Андрей
+        secondName: Михайлович
+        middleName: Соколов
+      declination: Уважаемый
+
+- name: УМЦ
+  employees:
+    - email: k.s.ipatova@uwc-i.ru
+      fio:
+        firstName: Ксения
+        secondName: Сергеевна
+        middleName: Ипатова
+      declination: Уважаемая
+
+- name: УМЦ
+  employees:
+    - email: Innaaleftina@mail.ru
+      fio:
+        firstName: Инна
+        secondName: Юрьевна
+        middleName: Сомова
+      declination: Уважаемая
+
+- name: УМЦ
+  employees:
+    - email: sovremennoe.pravo@bk.ru
+      fio:
+        firstName: Инна
+        secondName: Викторовна
+        middleName: Заикина
+      declination: Уважаемая
+
+- name: УМЦ
+  employees:
+    - email: imc_diz@mail.ru
+      fio:
+        firstName: Татьяна
+        secondName: Валентиновна
+        middleName: Сичкарь
+      declination: Уважаемая
+
+- name: УМЦ
+  employees:
+    - email: aaromanov@mail.ru
+      fio:
+        firstName: Андрей
+        secondName: Андреевич
+        middleName: Романов
+      declination: Уважаемый
+
+- name: УМЦ
+  employees:
+    - email: s.p.shorokhova@uwc-i.ru
+      fio:
+        firstName: Светлана
+        secondName: Петровна
+        middleName: Шорохова
+      declination: Уважаемая
+
+- name: УМЦ
+  employees:
+    - email: e.v.muryukina@uwc-i.ru
+      fio:
+        firstName: Елена
+        secondName: Валентиновна
+        middleName: Мурюкина
+      declination: Уважаемая
+
+- name: НИБ
+  employees:
+    - email: kgospd@nibmoscow.ru
+      fio:
+        firstName: Евгений
+        secondName: Иванович
+        middleName: Темнов
+      declination: Уважаемый
+
+- name: НИБ
+  employees:
+    - email: kgpd@nibmoscow.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Валерьевич
+        middleName: Моисеев
+      declination: Уважаемый
+
+- name: НИБ
+  employees:
+    - email: kipmiend@nibmoscow.ru
+      fio:
+        firstName: Василий
+        secondName: Павлович
+        middleName: Харьков
+      declination: Уважаемый
+
+- name: НИБ
+  employees:
+    - email: km@nibmoscow.ru
+      fio:
+        firstName: Андрей
+        secondName: Константинович
+        middleName: Гусев
+      declination: Уважаемый
+
+- name: НИБ
+  employees:
+    - email: kapeip@nibmoscow.ru
+      fio:
+        firstName: Виктор
+        secondName: Иванович
+        middleName: Мысаченко
+      declination: Уважаемый
+
+- name: НИБ
+  employees:
+    - email: kgd@nibmoscow.ru
+      fio:
+        firstName: Валерия
+        secondName: Викторовна
+        middleName: Сергеева
+      declination: Уважаемая
+
+- name: НИБ
+  employees:
+    - email: kupd@nibmoscow.ru
+      fio:
+        firstName: Михаил
+        secondName: Владимирович
+        middleName: Крестинский
+      declination: Уважаемый
+
+- name: НИБ
+  employees:
+    - email: kfibu@nibmoscow.ru
+      fio:
+        firstName: Константин
+        secondName: Юрьевич
+        middleName: Решетов
+      declination: Уважаемый
+
+- name: НИБ
+  employees:
+    - email: keiunp@nibmoscow.ru
+      fio:
+        firstName: Наталья
+        secondName: Николаевна
+        middleName: Миронова
+      declination: Уважаемая
+
+- name: МЮИ
+  employees:
+    - email: pchelkina_elena16@inbox.ru
+      fio:
+        firstName: Алексей
+        secondName: Александрович
+        middleName: Ходусов
+      declination: Уважаемый
+
+- name: МЮИ
+  employees:
+    - email: zavkaftpgpd@lawinst.ru
+      fio:
+        firstName: Сусанна
+        secondName: Джамиловна
+        middleName: Багдасарян
+      declination: Уважаемая
+
+- name: МЮИ
+  employees:
+    - email: gii@lawinst.ru
+      fio:
+        firstName: Иосиф
+        secondName: Иосифович
+        middleName: Грунтовский
+      declination: Уважаемый
+
+- name: МЮИ
+  employees:
+    - email: main@lawinst.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Александрович
+        middleName: Сингилевич
+      declination: Уважаемый
+
+- name: МЮИ
+  employees:
+    - email: igor_lisyanskiy@mail.ru
+      fio:
+        firstName: Инесса
+        secondName: Витальевна
+        middleName: Бит-Шабо
+      declination: Уважаемая

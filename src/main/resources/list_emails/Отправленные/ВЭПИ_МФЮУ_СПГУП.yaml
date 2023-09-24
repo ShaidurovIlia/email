@@ -1,0 +1,333 @@
+institutes:
+  - name: ВПЭИ
+    employees:
+      - email: AZhilnikov@vilec.ru
+        fio:
+          firstName: Александр
+          secondName: Жильников
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: ВПЭИ
+    employees:
+      - email: YBarkovskaya@vilec.ru
+        fio:
+          firstName: Алла
+          secondName: Годовникова
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: ВПЭИ
+    employees:
+      - email: NLuneva@vilec.ru
+        fio:
+          firstName: Андрей
+          secondName: Галкин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: ВПЭИ
+    employees:
+      - email: AAhmedov@vilec.ru
+        fio:
+          firstName: Ахмед
+          secondName: Ахмедов
+          middleName: Эдуардович
+        declination: Уважаемый
+
+  - name: ВПЭИ
+    employees:
+      - email: ITihonova@vilec.ru
+        fio:
+          firstName: Ирина
+          secondName: Тихонова
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: ВПЭИ
+    employees:
+      - email: IKorneva@vilec.ru
+        fio:
+          firstName: Ирина
+          secondName: Корнева
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: ВПЭИ
+    employees:
+      - email: KVelikanov@vilec.ru
+        fio:
+          firstName: Кирилл
+          secondName: Великанов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: ВПЭИ
+    employees:
+      - email: AZhilnikov@vilec.ru
+        fio:
+          firstName: Александр
+          secondName: Жильников
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: МФЮУ
+    employees:
+      - email: Arhipova.E@mfua.ru
+        fio:
+          firstName: Елена
+          secondName: Архипова
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: МФЮУ
+    employees:
+      - email: Rodina.E@mfua.ru
+        fio:
+          firstName: Елена
+          secondName: Родина
+          middleName: Евгеньевна
+        declination: Уважаемая
+
+  - name: МФЮУ
+    employees:
+      - email: Niculceva.V@mfua.ru
+        fio:
+          firstName: Виктория
+          secondName: Никульцева
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: МФЮУ
+    employees:
+      - email: Sadovskaya.O@mfua.ru
+        fio:
+          firstName: Оксана
+          secondName: Садовская
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: МФЮУ
+    employees:
+      - email: Dubovichenko.S@mfua.ru
+        fio:
+          firstName: Сергей
+          secondName: Дубовиченко
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: МФЮУ
+    employees:
+      - email: Butilina.M@mfua.ru
+        fio:
+          firstName: Марина
+          secondName: Бутылина
+          middleName: Павловна
+        declination: Уважаемая
+
+  - name: МФЮУ
+    employees:
+      - email: Makarova.LM@mfua.ru
+        fio:
+          firstName: Людмила
+          secondName: Макарова
+          middleName: Михайловна
+        declination: Уважаемый
+
+  - name: МФЮУ
+    employees:
+      - email: sarjanov.v@mfua.ru
+        fio:
+          firstName: Виталий
+          secondName: Саржанов
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: МФЮУ
+    employees:
+      - email: Shiryaeva.N@mfua.ru
+        fio:
+          firstName: Наталья
+          secondName: Ширяева
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: МФЮУ
+    employees:
+      - email: fizkult@mfua.ru
+        fio:
+          firstName: Максим
+          secondName: Ковылин
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: МФЮУ
+    employees:
+      - email: post@mfua.ru
+        fio:
+          firstName: Георгий
+          secondName: Горшков
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: МФЮУ
+    employees:
+      - email: Vishnevetsky.A@mfua.ru
+        fio:
+          firstName: Алексей
+          secondName: Вишневецкий
+          middleName: Константинович
+        declination: Уважаемый
+
+  - name: СПБГУП
+    employees:
+      - email: kafzhur@gup.ru
+        fio:
+          firstName: Марина
+          secondName: Рубичева
+          middleName: Валентиновна
+        declination: Уважаемая
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_reclama@gup.ru
+        fio:
+          firstName: Элина
+          secondName: Бердникова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: СПБГУП
+    employees:
+      - email: kaffiz@gup.ru
+        fio:
+          firstName: Инна
+          secondName: Соколова
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_kult@gup.ru
+        fio:
+          firstName: Александр
+          secondName: Запесоцкий
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_zvuk@gup.ru
+        fio:
+          firstName: Сергей
+          secondName: Осколков
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_iskved@gup.ru
+        fio:
+          firstName: Сергей
+          secondName: Сухоруков
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_rezh@gup.ru
+        fio:
+          firstName: Сергей
+          secondName: Пронин
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_mult@gup.ru
+        fio:
+          firstName: Валентин
+          secondName: Сошников
+          middleName: Дмитриевич
+        declination: Уважаемый
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_hor@gup.ru
+        fio:
+          firstName: Алексей
+          secondName: Бойков
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_eng@gup.ru
+        fio:
+          firstName: Елена
+          secondName: Волкова
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: СПБГУП
+    employees:
+      - email: kafedra_inf@gup.ru
+        fio:
+          firstName: Ирина
+          secondName: Васильева
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_roman@gup.ru
+        fio:
+          firstName: Елизавета
+          secondName: Легенькова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_econ@gup.ru
+        fio:
+          firstName: Елена
+          secondName: Хольнова
+          middleName: Георгиевна
+        declination: Уважаемая
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_law@gup.ru
+        fio:
+          firstName: Ольга
+          secondName: Громова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_conflict@gup.ru
+        fio:
+          firstName: Григорий
+          secondName: Бирженюк
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: СПБГУП
+    employees:
+      - email: kafsocpsy@gup.ru
+        fio:
+          firstName: Мария
+          secondName: Созинова
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: СПБГУП
+    employees:
+      - email: kaf_sct@gup.ru
+        fio:
+          firstName: Григорий
+          secondName: Бирженюк
+          middleName: Михайлович
+        declination: Уважаемый

@@ -1,0 +1,171 @@
+institutes:
+  - name: РАНХиГС
+    employees:
+      - email: tarasova-tn@ranepa.ru
+        fio:
+          firstName: Татьяна
+          secondName: Тарасова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: РАНХиГС
+    employees:
+      - email: naumov-vn@ranepa.ru
+        fio:
+          firstName: Владимир
+          secondName: Наумов
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: katanandov-sl@ranepa.ru
+        fio:
+          firstName: Сергей
+          secondName: Катанандов
+          middleName: Леонидович
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: razuvaev-nv@ranepa.ru
+        fio:
+          firstName: Николай
+          secondName: Разуваев
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: kim-mn@ranepa.ru
+        fio:
+          firstName: Максим
+          secondName: Ким
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: delva-ae@ranepa.ru
+        fio:
+          firstName: Анастасия
+          secondName: Дельва
+          middleName: Евгеньевна
+        declination: Уважаемая
+
+  - name: РАНХиГС
+    employees:
+      - email: soloveva-ak@ranepa.ru
+        fio:
+          firstName: Анна
+          secondName: Соловьева
+          middleName: Константиновна
+        declination: Уважаемая
+
+  - name: РАНХиГС
+    employees:
+      - email: kirilenko-vp@ranepa.ru
+        fio:
+          firstName: Виктор
+          secondName: Кириленко
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: bulanakova-ma@ranepa.ru
+        fio:
+          firstName: Мария
+          secondName: Буланакова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХиГС
+    employees:
+      - email: neshcheret-ak@ranepa.ru
+        fio:
+          firstName: Александр
+          secondName: Нещерет
+          middleName: Карлович
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: vetrenko-ia@ranepa.ru
+        fio:
+          firstName: Инна
+          secondName: Ветренко
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХиГС
+    employees:
+      - email: tarusina-ig@ranepa.ru
+        fio:
+          firstName: Инесса
+          secondName: Тарусина
+          middleName: Геннадьевна
+        declination: Уважаемая
+
+  - name: РАНХиГС
+    employees:
+      - email: cheprasov-vy@ranepa.ru
+        fio:
+          firstName: Вячеслав
+          secondName: Чепрасов
+          middleName: Юрьевич
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: sergevnin-sl@ranepa.ru
+        fio:
+          firstName: Сергей
+          secondName: Сергевнин
+          middleName: Львович
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: spitsnadel-vb@ranepa.ru
+        fio:
+          firstName: Владимир
+          secondName: Спицнадель
+          middleName: Борисович
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: tregubov-mv@ranepa.ru
+        fio:
+          firstName: Михаил
+          secondName: Трегубов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: kolesnikov-nv@ranepa.ru
+        fio:
+          firstName: Николай
+          secondName: Колесников
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: misko-on@ranepa.ru
+        fio:
+          firstName: Олег
+          secondName: Мисько
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: РАНХиГС
+    employees:
+      - email: shamakhov-va@ranepa.ru
+        fio:
+          firstName: Владимир
+          secondName: Шамахов
+          middleName: Александрович
+        declination: Уважаемый

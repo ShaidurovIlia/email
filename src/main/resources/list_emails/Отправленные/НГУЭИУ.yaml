@@ -1,0 +1,226 @@
+institutes:
+  - name: НГУЭИУ
+    employees:
+      - email: t.i.gromoglasova@nsuem.ru
+        fio:
+          firstName: Татьяна
+          secondName: Громогласова
+          middleName: Игоревна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: a.v.kravchenko@edu.nsuem.ru
+        fio:
+          firstName: Александр
+          secondName: Кравченко
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: НГУЭИУ
+    employees:
+      - email: o.i.kovtun@nsuem.ru
+        fio:
+          firstName: Ольга
+          secondName: Ковтун
+          middleName: Игоревна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: a.v.shulacov@nsuem.ru
+        fio:
+          firstName: Алексей
+          secondName: Шулаков
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: НГУЭИУ
+    employees:
+      - email: o.a.donskih@nsuem.ru
+        fio:
+          firstName: Олег
+          secondName: Донских
+          middleName: Альбертович
+        declination: Уважаемый
+
+  - name: НГУЭИУ
+    employees:
+      - email: t.m.kuzmina@edu.nsuem.ru
+        fio:
+          firstName: Татьяна
+          secondName: Кузьмина
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: n.g.protas@nsuem.ru
+        fio:
+          firstName: Нина
+          secondName: Протас
+          middleName: Геннадьевна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: y.a.masalova@nsuem.ru
+        fio:
+          firstName: Юлия
+          secondName: Масалова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: s.v.petuhova@edu.nsuem.ru
+        fio:
+          firstName: Светлана
+          secondName: Петухова
+          middleName: Валериевна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: l.y.shadrina@nsuem.ru
+        fio:
+          firstName: Любовь
+          secondName: Шадрина
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: l.b.nyurenberger@nsuem.ru
+        fio:
+          firstName: Лариса
+          secondName: Нюренбергер
+          middleName: Борисовна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: e.a.razomasova@nsuem.ru
+        fio:
+          firstName: Елена
+          secondName: Разомасова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: t.n.dudina@nsuem.ru
+        fio:
+          firstName: Татьяна
+          secondName: Дудина
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: s.a.iljinyh@edu.nsuem.ru
+        fio:
+          firstName: Светлана
+          secondName: Ильиных
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: v.v.melnikov@nsuem.ru
+        fio:
+          firstName: Владимир
+          secondName: Мельников
+          middleName: Васильевич
+        declination: Уважаемый
+
+  - name: НГУЭИУ
+    employees:
+      - email: s.p.anofrikov@nsuem.ru
+        fio:
+          firstName: Сергей
+          secondName: Анофриков
+          middleName: Павлович
+        declination: Уважаемый
+
+  - name: НГУЭИУ
+    employees:
+      - email: d.a.borisov@nsuem.ru
+        fio:
+          firstName: Денис
+          secondName: Борисов
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: НГУЭИУ
+    employees:
+      - email: l.d.shehovcova@nsuem.ru
+        fio:
+          firstName: Лада
+          secondName: Шеховцова
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: t.a.fil@nsuem.ru
+        fio:
+          firstName: Татьяна
+          secondName: Филь
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: a.i.pestunov@edu.nsuem.ru
+        fio:
+          firstName: Андрей
+          secondName: Пестунов
+          middleName: Игоревич
+        declination: Уважаемый
+
+  - name: НГУЭИУ
+    employees:
+      - email: s.n.tereshchenko@edu.nsuem.ru
+        fio:
+          firstName: Сергей
+          secondName: Терешченко
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: НГУЭИУ
+    employees:
+      - email: n.a.kirilova@edu.nsuem.ru
+        fio:
+          firstName: Надежда
+          secondName: Кирилова
+          middleName: Андреевна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: m.v.gromozdina@edu.nsuem.ru
+        fio:
+          firstName: Мария
+          secondName: Громоздина
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: m.s.salamatova@edu.nsuem.ru
+        fio:
+          firstName: Марина
+          secondName: Саламатова
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: НГУЭИУ
+    employees:
+      - email: n.i.verchenko@edu.nsuem.ru
+        fio:
+          firstName: Надежда
+          secondName: Верченко
+          middleName: Игоревна
+        declination: Уважаемая
+

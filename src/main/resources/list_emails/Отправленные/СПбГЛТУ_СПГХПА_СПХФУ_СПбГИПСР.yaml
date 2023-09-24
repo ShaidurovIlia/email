@@ -1,0 +1,674 @@
+- name: СПбГЛТУ
+  employees:
+    - email: zl@spbftu.ru
+      fio:
+        firstName: Андрей
+        secondName: Витимович
+        middleName: Селиховкин
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: forestry@spbftu.ru
+      fio:
+        firstName: Евгений
+        secondName: Николаевич
+        middleName: Кузнецов
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: ltlg@spbftu.ru
+      fio:
+        firstName: Александр
+        secondName: Сергеевич
+        middleName: Алексеев
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: botanic@spbftu.ru
+      fio:
+        firstName: Оксана
+        secondName: Васильевна
+        middleName: Игнатьева
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: leskultur@mail.ru
+      fio:
+        firstName: Юрий
+        secondName: Иванович
+        middleName: Данилов
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: ecology@spbftu.ru
+      fio:
+        firstName: Екатерина
+        secondName: Александровна
+        middleName: Капица
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: ist@spbftu.ru
+      fio:
+        firstName: Марсель
+        secondName: Равильевич
+        middleName: Вагизов
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: gsd@spbftu.ru
+      fio:
+        firstName: Оксана
+        secondName: Михайловна
+        middleName: Матэр
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: alexander.kryukovskiy@lta-landscape.com
+      fio:
+        firstName: Виктор
+        secondName: Николаевич
+        middleName: Смертин
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: spnpkaf@yandex.ru
+      fio:
+        firstName: Иван
+        secondName: Игоревич
+        middleName: Костюков
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: zav.kgraf@spbftu.ru
+      fio:
+        firstName: Юлия
+        secondName: Александровна
+        middleName: Жук
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: tlsd@spbftu.ru
+      fio:
+        firstName: Артур
+        secondName: Александрович
+        middleName: Федяев
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: DekorLA@spbftu.ru
+      fio:
+        firstName: Светлана
+        secondName: Николаевна
+        middleName: Шлапакова
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: 910sav@gmail.com
+      fio:
+        firstName: Александра
+        secondName: Станиславовна
+        middleName: Кривоногова
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: lgkm@spbftu.ru
+      fio:
+        firstName: Сергей
+        secondName: Васильевич
+        middleName: Спиридонов
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: ttu@spbftu.ru
+      fio:
+        firstName: Александр
+        secondName: Александрович
+        middleName: Куликов
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: stl@spbftu.ru
+      fio:
+        firstName: Любовь
+        secondName: Яковлевна
+        middleName: Громская
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: kaf.chemdrev@mail.ru
+      fio:
+        firstName: Виктор
+        secondName: Иванович
+        middleName: Рощин
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: tdkm@spbftu.ru
+      fio:
+        firstName: Андрей
+        secondName: Валентинович
+        middleName: Шелоумов
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: orgchem@spbftu.ru
+      fio:
+        firstName: Александр
+        secondName: Викторович
+        middleName: Васильев
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: physics@spbftu.ru
+      fio:
+        firstName: Александр
+        secondName: Борисович
+        middleName: Былев
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: bjd@spbftu.ru
+      fio:
+        firstName: Наталья
+        secondName: Георгиевна
+        middleName: Занько
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: eudp@spbftu.ru
+      fio:
+        firstName: Ольга
+        secondName: Алексеевна
+        middleName: Полянская
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: lespolitika@mail.ru
+      fio:
+        firstName: Владимир
+        secondName: Николаевич
+        middleName: Петров
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: mathematics@spbftu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Алексеевна
+        middleName: Осечкина
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: ruslang@spbftu.ru
+      fio:
+        firstName: Людмила
+        secondName: Владимировна
+        middleName: Лукьянова
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: language@spbftu.ru
+      fio:
+        firstName: Ирина
+        secondName: Сергеевна
+        middleName: Ломакина
+      declination: Уважаемая
+
+- name: СПбГЛТУ
+  employees:
+    - email: csp@spbftu.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Евгеньевич
+        middleName: Любомиров
+      declination: Уважаемый
+
+- name: СПбГЛТУ
+  employees:
+    - email: sport@spbftu.ru
+      fio:
+        firstName: Эдвард
+        secondName: Георгиевич
+        middleName: Сингуринди
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: krig@ghpa.ru
+      fio:
+        firstName: Михаил
+        secondName: Геннадьевич
+        middleName: Рогозный
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: rmds@ghpa.ru
+      fio:
+        firstName: Татьяна
+        secondName: Ивановна
+        middleName: Некрасова
+      declination: Уважаемая
+
+- name: СПГХПА
+  employees:
+    - email: kmdg@ghpa.ru
+      fio:
+        firstName: Александр
+        secondName: Валерьевич
+        middleName: Шевардин
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: kht@ghpa.ru
+      fio:
+        firstName: Людмила
+        secondName: Васильевна
+        middleName: Михайлова
+      declination: Уважаемая
+
+- name: СПГХПА
+  employees:
+    - email: hom@ghpa.ru
+      fio:
+        firstName: Кирилл
+        secondName: Александрович
+        middleName: Спассков
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: khkis@ghpa.ru
+      fio:
+        firstName: Сергей
+        secondName: Егорович
+        middleName: Сухарев
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: kksg@ghpa.ru
+      fio:
+        firstName: Ирина
+        secondName: Сергеевна
+        middleName: Голикова
+      declination: Уважаемая
+
+- name: СПГХПА
+  employees:
+    - email: kiio@ghpa.ru
+      fio:
+        firstName: Олег
+        secondName: Владимирович
+        middleName: Ширинкин
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: kiik@ghpa.ru
+      fio:
+        firstName: Илья
+        secondName: Владимирович
+        middleName: Палагута
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: kdm@ghpa.ru
+      fio:
+        firstName: Андрей
+        secondName: Константинович
+        middleName: Блинов
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: kdk@ghpa.ru
+      fio:
+        firstName: Лариса
+        secondName: Викторовна
+        middleName: Королева
+      declination: Уважаемая
+
+- name: СПГХПА
+  employees:
+    - email: ksd@ghpa.ru
+      fio:
+        firstName: Олег
+        secondName: Владимирович
+        middleName: Веселицкий
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: kgd@ghpa.ru
+      fio:
+        firstName: Петр
+        secondName: Степанович
+        middleName: Канайкин
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: kpd@ghpa.ru
+      fio:
+        firstName: Николай
+        secondName: Генадьевич
+        middleName: Якуничев
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: amd@ghpa.ru
+      fio:
+        firstName: Оксана
+        secondName: Валерьевна
+        middleName: Петрухина
+      declination: Уважаемая
+
+- name: СПГХПА
+  employees:
+    - email: kr@ghpa.ru
+      fio:
+        firstName: Владислав
+        secondName: Владимирович
+        middleName: Пугин
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: kop@ghpa.ru
+      fio:
+        firstName: Валерий
+        secondName: Сергеевич
+        middleName: Миронов
+      declination: Уважаемый
+
+- name: СПГХПА
+  employees:
+    - email: kogid@ghpa.ru
+      fio:
+        firstName: Светлана
+        secondName: Владимировна
+        middleName: Балаева
+      declination: Уважаемая
+
+- name: СПГХПА
+  employees:
+    - email: kfv@ghpa.ru
+      fio:
+        firstName: Татьяна
+        secondName: Михайловна
+        middleName: Пикар
+      declination: Уважаемая
+
+- name: СПГХПА
+  employees:
+    - email: odii@ghpa.ru
+      fio:
+        firstName: Никита
+        secondName: Владимирович
+        middleName: Панфилов
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: krig@ghpa.ru
+      fio:
+        firstName: Михаил
+        secondName: Геннадьевич
+        middleName: Рогозный
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: rmds@ghpa.ru
+      fio:
+        firstName: Татьяна
+        secondName: Ивановна
+        middleName: Некрасова
+      declination: Уважаемая
+
+- name: СПХФУ
+  employees:
+    - email: kmdg@ghpa.ru
+      fio:
+        firstName: Александр
+        secondName: Валерьевич
+        middleName: Шевардин
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: kht@ghpa.ru
+      fio:
+        firstName: Людмила
+        secondName: Васильевна
+        middleName: Михайлова
+      declination: Уважаемая
+
+- name: СПХФУ
+  employees:
+    - email: hom@ghpa.ru
+      fio:
+        firstName: Кирилл
+        secondName: Александрович
+        middleName: Спассков
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: khkis@ghpa.ru
+      fio:
+        firstName: Сергей
+        secondName: Егорович
+        middleName: Сухарев
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: kksg@ghpa.ru
+      fio:
+        firstName: Ирина
+        secondName: Сергеевна
+        middleName: Голикова
+      declination: Уважаемая
+
+- name: СПХФУ
+  employees:
+    - email: kiio@ghpa.ru
+      fio:
+        firstName: Олег
+        secondName: Владимирович
+        middleName: Ширинкин
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: kiik@ghpa.ru
+      fio:
+        firstName: Илья
+        secondName: Владимирович
+        middleName: Палагута
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: kdm@ghpa.ru
+      fio:
+        firstName: Андрей
+        secondName: Константинович
+        middleName: Блинов
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: kdk@ghpa.ru
+      fio:
+        firstName: Лариса
+        secondName: Викторовна
+        middleName: Королева
+      declination: Уважаемая
+
+- name: СПХФУ
+  employees:
+    - email: ksd@ghpa.ru
+      fio:
+        firstName: Олег
+        secondName: Владимирович
+        middleName: Веселицкий
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: kgd@ghpa.ru
+      fio:
+        firstName: Петр
+        secondName: Степанович
+        middleName: Канайкин
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: kpd@ghpa.ru
+      fio:
+        firstName: Николай
+        secondName: Генадьевич
+        middleName: Якуничев
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: amd@ghpa.ru
+      fio:
+        firstName: Оксана
+        secondName: Валерьевна
+        middleName: Петрухина
+      declination: Уважаемая
+
+- name: СПХФУ
+  employees:
+    - email: kr@ghpa.ru
+      fio:
+        firstName: Владислав
+        secondName: Владимирович
+        middleName: Пугин
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: kop@ghpa.ru
+      fio:
+        firstName: Валерий
+        secondName: Сергеевич
+        middleName: Миронов
+      declination: Уважаемый
+
+- name: СПХФУ
+  employees:
+    - email: kogid@ghpa.ru
+      fio:
+        firstName: Светлана
+        secondName: Владимировна
+        middleName: Балаева
+      declination: Уважаемая
+
+- name: СПХФУ
+  employees:
+    - email: kfv@ghpa.ru
+      fio:
+        firstName: Татьяна
+        secondName: Михайловна
+        middleName: Пикар
+      declination: Уважаемая
+
+- name: СПХФУ
+  employees:
+    - email: odii@ghpa.ru
+      fio:
+        firstName: Никита
+        secondName: Владимирович
+        middleName: Панфилов
+      declination: Уважаемый
+
+- name: СПбГИПСР
+  employees:
+    - email: kafedra_oikp@gipsr.ru
+      fio:
+        firstName: Лидия
+        secondName: Всеволодовна
+        middleName: Кузьменкова
+      declination: Уважаемая
+
+- name: СПбГИПСР
+  employees:
+    - email: kafedra_kp@gipsr.ru
+      fio:
+        firstName: Оксана
+        secondName: Олеговна
+        middleName: Бандура
+      declination: Уважаемая
+
+- name: СПбГИПСР
+  employees:
+    - email: kafedra_psp@gipsr.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Сергеевич
+        middleName: Горбатов
+      declination: Уважаемый
+
+- name: СПбГИПСР
+  employees:
+    - email: kafedra_titsr@gipsr.ru
+      fio:
+        firstName: Юлия
+        secondName: Юрьевна
+        middleName: Платонова
+      declination: Уважаемая
+
+- name: СПбГИПСР
+  employees:
+    - email: kafedra_ppil@gipsr.ru
+      fio:
+        firstName: Оксана
+        secondName: Владимировна
+        middleName: Афанасьева
+      declination: Уважаемая
+
+- name: СПбГИПСР
+  employees:
+    - email: kafedra_sgd@gipsr.ru
+      fio:
+        firstName: Галина
+        secondName: Анатольевна
+        middleName: Величко
+      declination: Уважаемая

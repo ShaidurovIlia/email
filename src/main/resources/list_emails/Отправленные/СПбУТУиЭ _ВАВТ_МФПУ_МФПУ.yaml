@@ -1,0 +1,515 @@
+institutes:
+- name: СПбУТУиЭ
+  employees:
+    - email: v.mordovets@spbacu.ru
+      fio:
+        firstName: Виталий
+        secondName: Анатольевич
+        middleName: Мордовец
+      declination: Уважаемый
+
+- name: СПбУТУиЭ
+  employees:
+    - email: e.ushakova@spbacu.ru
+      fio:
+        firstName: Елена
+        secondName: Викторовна
+        middleName: Ушакова
+      declination: Уважаемая
+
+- name: СПбУТУиЭ
+  employees:
+    - email: alex@spbacu.ru
+      fio:
+        firstName: Сергей
+        secondName: Юрьевич
+        middleName: Александров
+      declination: Уважаемый
+
+- name: СПбУТУиЭ
+  employees:
+    - email: a.dalinin@spbacu.ru
+      fio:
+        firstName: Алексей
+        secondName: Валерьевич
+        middleName: Далинин
+      declination: Уважаемый
+
+- name: ВАВТ
+  employees:
+    - email: svetlanav_d@mail.ru
+      fio:
+        firstName: Светлана
+        secondName: Вячеславовна
+        middleName: Аверьянова
+      declination: Уважаемая
+
+- name: ВАВТ
+  employees:
+    - email: Tatyana_Kuznetsova@vavt.ru
+      fio:
+        firstName: Елена
+        secondName: Олеговна
+        middleName: Черных
+      declination: Уважаемая
+
+- name: ВАВТ
+  employees:
+    - email: eterentieva@vavt.ru
+      fio:
+        firstName: Наталья
+        secondName: Георгиевна
+        middleName: Маркалова
+      declination: Уважаемая
+
+- name: ВАВТ
+  employees:
+    - email: KAF-GSN@vavt.ru
+      fio:
+        firstName: Сурен
+        secondName: Ашотович
+        middleName: Саркисян
+      declination: Уважаемый
+
+- name: ВАВТ
+  employees:
+    - email: NBerendyukova@vavt.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Витальевич
+        middleName: Филиппов
+      declination: Уважаемый
+
+- name: ВАВТ
+  employees:
+    - email: Elena_Halipova@vavt.ru
+      fio:
+        firstName: Владимир
+        secondName: Михайлович
+        middleName: Шумилов
+      declination: Уважаемый
+
+- name: ВАВТ
+  employees:
+    - email: esitkareva@vavt.ru
+      fio:
+        firstName: Елена
+        secondName: Витальевна
+        middleName: Ситкарева
+      declination: Уважаемая
+
+- name: ВАВТ
+  employees:
+    - email: Natalya_Rahmacheva@vavt.ru
+      fio:
+        firstName: Андрей
+        secondName: Николаевич
+        middleName: Спартак
+      declination: Уважаемый
+
+- name: ВАВТ
+  employees:
+    - email: ILilova@vavt.ru
+      fio:
+        firstName: Виктор
+        secondName: Иванович
+        middleName: Королев
+      declination: Уважаемый
+
+- name: ВАВТ
+  employees:
+    - email: MKrasavina@vavt.ru
+      fio:
+        firstName: Елена
+        secondName: Борисовна
+        middleName: Рогатных
+      declination: Уважаемая
+
+- name: ВАВТ
+  employees:
+    - email: eterentieva@vavt.ru
+      fio:
+        firstName: Ирина
+        secondName: Николаевна
+        middleName: Лукьянова
+      declination: Уважаемая
+
+- name: ВАВТ
+  employees:
+    - email: Elena_Halipova@vavt.ru
+      fio:
+        firstName: Сергей
+        secondName: Васильевич
+        middleName: Халипов
+      declination: Уважаемый
+
+- name: ВАВТ
+  employees:
+    - email: vashunina@yandex.ru
+      fio:
+        firstName: Ирина
+        secondName: Владимировна
+        middleName: Вашунина
+      declination: Уважаемая
+
+- name: ВАВТ
+  employees:
+    - email: Galina_Gurkova@vavt.ru
+      fio:
+        firstName: Александр
+        secondName: Анатольевич
+        middleName: Вологдин
+      declination: Уважаемый
+
+- name: ВАВТ
+  employees:
+    - email: FizPrep@vavt.ru
+      fio:
+        firstName: Александр
+        secondName: Михайлович
+        middleName: Шувалов
+      declination: Уважаемый
+
+- name: ВАВТ
+  employees:
+    - email: Tatyana_Kirikova@vavt.ru
+      fio:
+        firstName: Надежда
+        secondName: Михайловна
+        middleName: Ярцева
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: VEEvdokimova@synergy.ru
+      fio:
+        firstName: Влада
+        secondName: Эдуардовна
+        middleName: Евдокимова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: MBaynova@synergy.ru
+      fio:
+        firstName: Мария
+        secondName: Сергеевна
+        middleName: Байнова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: TOsintseva@synergy.ru
+      fio:
+        firstName: Татьяна
+        secondName: Николаевна
+        middleName: Осинцева
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: VVZakharov@synergy.ru
+      fio:
+        firstName: Александр
+        secondName: Викторович
+        middleName: Захаров
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: GChernukhina@synergy.ru
+      fio:
+        firstName: Галина
+        secondName: Николаевна
+        middleName: Чернухина
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: MLukashenko@synergy.ru
+      fio:
+        firstName: Марианна
+        secondName: Анатольевна
+        middleName: Лукашенко
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: EEZhukova@synergy.ru
+      fio:
+        firstName: Евгения
+        secondName: Евгеньевна
+        middleName: Жукова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: ikosorukova@synergy.ru
+      fio:
+        firstName: Ирина
+        secondName: Вячеславовна
+        middleName: Косорукова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: -NUvarova@synergy.ru
+      fio:
+        firstName: Светлана
+        secondName: Петровна
+        middleName: Анзорова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: EUshakova@synergy.ru
+      fio:
+        firstName: Елена
+        secondName: Вячеславовна
+        middleName: Ушакова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: AMalygin@synergy.ru
+      fio:
+        firstName: Андрей
+        secondName: Вадимович
+        middleName: Малыгин
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: vlednev@synergy.ru
+      fio:
+        firstName: Владимир
+        secondName: Алексеевич
+        middleName: Леднев
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: TTelegina@synergy.ru
+      fio:
+        firstName: Глеб
+        secondName: Алексеевич
+        middleName: Архангельский
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: fdolgih@synergy.ru
+      fio:
+        firstName: Федор
+        secondName: Игоревич
+        middleName: Долгих
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: opotapova@synergy.ru
+      fio:
+        firstName: Юрий
+        secondName: Борисович
+        middleName: Рубин
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: Tsemkina@mfpa.ru
+      fio:
+        firstName: Татьяна
+        secondName: Александровна
+        middleName: Семкина
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: VEEvdokimova@synergy.ru
+      fio:
+        firstName: Влада
+        secondName: Эдуардовна
+        middleName: Евдокимова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: MBaynova@synergy.ru
+      fio:
+        firstName: Мария
+        secondName: Сергеевна
+        middleName: Байнова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: TOsintseva@synergy.ru
+      fio:
+        firstName: Татьяна
+        secondName: Николаевна
+        middleName: Осинцева
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: VVZakharov@synergy.ru
+      fio:
+        firstName: Александр
+        secondName: Викторович
+        middleName: Захаров
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: GChernukhina@synergy.ru
+      fio:
+        firstName: Галина
+        secondName: Николаевна
+        middleName: Чернухина
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: MLukashenko@synergy.ru
+      fio:
+        firstName: Марианна
+        secondName: Анатольевна
+        middleName: Лукашенко
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: EEZhukova@synergy.ru
+      fio:
+        firstName: Евгения
+        secondName: Евгеньевна
+        middleName: Жукова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: ikosorukova@synergy.ru
+      fio:
+        firstName: Ирина
+        secondName: Вячеславовна
+        middleName: Косорукова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: -NUvarova@synergy.ru
+      fio:
+        firstName: Светлана
+        secondName: Петровна
+        middleName: Анзорова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: EUshakova@synergy.ru
+      fio:
+        firstName: Елена
+        secondName: Вячеславовна
+        middleName: Ушакова
+      declination: Уважаемая
+
+- name: МФПУ
+  employees:
+    - email: AMalygin@synergy.ru
+      fio:
+        firstName: Андрей
+        secondName: Вадимович
+        middleName: Малыгин
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: vlednev@synergy.ru
+      fio:
+        firstName: Владимир
+        secondName: Алексеевич
+        middleName: Леднев
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: TTelegina@synergy.ru
+      fio:
+        firstName: Глеб
+        secondName: Алексеевич
+        middleName: Архангельский
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: fdolgih@synergy.ru
+      fio:
+        firstName: Федор
+        secondName: Игоревич
+        middleName: Долгих
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: opotapova@synergy.ru
+      fio:
+        firstName: Юрий
+        secondName: Борисович
+        middleName: Рубин
+      declination: Уважаемый
+
+- name: МФПУ
+  employees:
+    - email: Tsemkina@mfpa.ru
+      fio:
+        firstName: Татьяна
+        secondName: Александровна
+        middleName: Семкина
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: bbift@ibispb.ru
+      fio:
+        firstName: Яна
+        secondName: Владимировна
+        middleName: Самойлова
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: mitina@ibispb.ru
+      fio:
+        firstName: Юлия
+        secondName: Сергеевна
+        middleName: Бахтина
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: MEcon-Man@ibispb.ru
+      fio:
+        firstName: Марина
+        secondName: Ивановна
+        middleName: Барабанова
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: kaf_efpo@ibispb.ru
+      fio:
+        firstName: Анна
+        secondName: Васильевна
+        middleName: Затевахина
+      declination: Уважаемая
+
+- name: МБИ
+  employees:
+    - email: shashina@ibispb.ru
+      fio:
+        firstName: Ирина
+        secondName: Александровна
+        middleName: Шашина
+      declination: Уважаемая
+
+

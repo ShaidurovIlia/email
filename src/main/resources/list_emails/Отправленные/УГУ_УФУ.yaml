@@ -1,0 +1,497 @@
+institutes:
+  - name: УГУ
+    employees:
+      - email: dinamerzlyakova26@gmail.com
+        fio:
+          firstName: Дина
+          secondName: Мерзлякова
+          middleName: Рафаиловна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: sergirt@udm.ru
+        fio:
+          firstName: Сергей
+          secondName: Широбоков
+          middleName: Валентинович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: safeman@inbox.ru
+        fio:
+          firstName: Артём
+          secondName: Попков
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: rmtimof@mail.ru
+        fio:
+          firstName: Нина
+          secondName: Ерофеева
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: naumenko-nik@yandex.ru
+        fio:
+          firstName: Николай
+          secondName: Науменко
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: ipronichev@yandex.ru
+        fio:
+          firstName: Игорь
+          secondName: Проничев
+          middleName: Викторович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: cellbio@yandex.ru
+        fio:
+          firstName: Валерий
+          secondName: Сергеев
+          middleName: Георгиевич
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: trub12@mail.ru
+        fio:
+          firstName: Лариса
+          secondName: Трубачева
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: iid.textil@yandex.ru
+        fio:
+          firstName: Елена
+          secondName: Ковычева
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: marinabotya@gmail.com
+        fio:
+          firstName: Марина
+          secondName: Ботя
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: kmiudsu@yandex.ru
+        fio:
+          firstName: Елена
+          secondName: Штенникова
+          middleName: Геннадьевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: vvpuzanov@gmail.com
+        fio:
+          firstName: Виктор
+          secondName: Пузанов
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: gryzlov@udsu.ru, kafat@udsu.ru
+        fio:
+          firstName: Анатолий
+          secondName: Грызлов
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: s.kopysov@gmail.com
+        fio:
+          firstName: Сергей
+          secondName: Копысов
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: Udsu.popova.sn@gmail.com
+        fio:
+          firstName: Светлана
+          secondName: Попова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: Rodionov@udsu.ru
+        fio:
+          firstName: Виталий
+          secondName: Родионов
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: dugurov@gmail.com
+        fio:
+          firstName: Денис
+          secondName: Дюгуров
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: gms1234gms@rambler.ru
+        fio:
+          firstName: Юрий
+          secondName: Сметанин
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: belos78@mail.ru
+        fio:
+          firstName: Александр
+          secondName: Белослудцев
+          middleName: Вениаминович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: belt.udsu@mail.ru
+        fio:
+          firstName: Анатолий
+          secondName: Бельтюков
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: PhysicsUDSU@yandex.ru
+        fio:
+          firstName: Евгений
+          secondName: Ветчанин
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: michael999@inbox.ru
+        fio:
+          firstName: Михаил
+          secondName: Полозов
+          middleName: Брониславович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: nfgng@udsu.ru
+        fio:
+          firstName: Виктор
+          secondName: Савельев
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: borisovayelena@mail.ru
+        fio:
+          firstName: Елена
+          secondName: Борисова
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: kafedra104@mail.ru
+        fio:
+          firstName: Вера
+          secondName: Хотинец
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: Kaf-pedagogika@yandex.ru
+        fio:
+          firstName: Татьяна
+          secondName: Вострокнутова
+          middleName: Филипповна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: kaf-psyhology-razvitia232@mail.ru
+        fio:
+          firstName: Александр
+          secondName: Баранов
+          middleName: Аркадьевич
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: kafspkp@mail.ru
+        fio:
+          firstName: Марина
+          secondName: Кириллова
+          middleName: Кирамовна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: tmtpo@yandex.ru
+        fio:
+          firstName: Алексей
+          secondName: Причинин
+          middleName: Евгеньевич
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: grpravo314@mail.ru
+        fio:
+          firstName: Надежда
+          secondName: Кузнецова
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: ibvu.laborant@gmail.com
+        fio:
+          firstName: Гульфия
+          secondName: Камалова
+          middleName: Гафиятовна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: kafedra.krim@gmail.com
+        fio:
+          firstName: Александр
+          secondName: Каминский
+          middleName: Маратович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: ipsub.kafedratiigp@yandex.ru
+        fio:
+          firstName: Маргарита
+          secondName: Мокшина
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: kafedraugpk@mail.ru
+        fio:
+          firstName: Валерий
+          secondName: Зварыгин
+          middleName: Евгеньевич
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: kafedrauppd@mail.ru
+        fio:
+          firstName: Лариса
+          secondName: Татьянина
+          middleName: Геннадьевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: delo.18@mail.ru
+        fio:
+          firstName: Светлана
+          secondName: Даньшина
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: socialwork@rambler.ru
+        fio:
+          firstName: Ольга
+          secondName: Солодянкина
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: elfrogozina@yandex.ru
+        fio:
+          firstName: Эльвира
+          secondName: Рогозина
+          middleName: Расилевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: medbio@udsu.ru
+        fio:
+          firstName: Наталья
+          secondName: Шлык
+          middleName: Ивановна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: pffkksi@mail.ru
+        fio:
+          firstName: Александр
+          secondName: Князев
+          middleName: Павлович
+        declination: Уважаемый
+
+  - name: УГУ
+    employees:
+      - email: kfv.udsu@yandex.ru
+        fio:
+          firstName: Расима
+          secondName: Митриченко
+          middleName: Хайдаровна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: uses@inem.uni.udm.ru
+        fio:
+          firstName: Ольга
+          secondName: Головина
+          middleName: Дмитриевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: rime@inem.uni.udm.ru
+        fio:
+          firstName: Елена
+          secondName: Кутяшова
+          middleName: Васильевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: galina@inem.uni.udm.ru
+        fio:
+          firstName: Светлана
+          secondName: Радыгина
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: ktlitff@gmail.com
+        fio:
+          firstName: Наталья
+          secondName: Рубцова
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: paris_madrid@mail.ru
+        fio:
+          firstName: Ирина
+          secondName: Федорова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: УГУ
+    employees:
+      - email: russistoria@mail.ru
+        fio:
+          firstName: Татьяна
+          secondName: Копылова
+          middleName: Рудольфовна
+        declination: Уважаемая
+
+  - name: УФУ
+    employees:
+      - email: a.l.solovyev@urfu.ru
+        fio:
+          firstName: Алексей
+          secondName: Соловьев
+          middleName: Леонидович
+        declination: Уважаемый
+
+  - name: УФУ
+    employees:
+      - email: e.g.iarina@urfu.ru
+        fio:
+          firstName: Екатерина
+          secondName: Ярина
+          middleName: Геннадьевна
+        declination: Уважаемая
+
+  - name: УФУ
+    employees:
+      - email: n.a.geyn@urfu.ru
+        fio:
+          firstName: Нина
+          secondName: Гейн
+          middleName: Ароновна
+        declination: Уважаемая
+
+  - name: УФУ
+    employees:
+      - email: s.a.anufrienko@urfu.ru
+        fio:
+          firstName: Сергей
+          secondName: Ануфриенко
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: УФУ
+    employees:
+      - email: m.v.sindimirova@urfu.ru
+        fio:
+          firstName: Марина
+          secondName: Синдимирова
+          middleName: Витальевна
+        declination: Уважаемая
+
+  - name: УФУ
+    employees:
+      - email: o.v.inisheva@urfu.ru
+        fio:
+          firstName: Ольга
+          secondName: Инишева
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: УФУ
+    employees:
+      - email: m.a.alexeeva@urfu.ru
+        fio:
+          firstName: Мария
+          secondName: Алексеева
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: УФУ
+    employees:
+      - email: m.n.danilova@urfu.ru
+        fio:
+          firstName: Мария
+          secondName: Данилова
+          middleName: Николаевна
+        declination: Уважаемая
+
+

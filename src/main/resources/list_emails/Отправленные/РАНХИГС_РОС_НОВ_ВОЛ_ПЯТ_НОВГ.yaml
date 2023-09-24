@@ -1,0 +1,648 @@
+institutes:
+  - name: РАНХИГС
+    employees:
+      - email: kugs@uriu.ranepa.ru
+        fio:
+          firstName: Михаил
+          secondName: Овакимян
+          middleName: Амиранович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: tgp@uriu.ranepa.ru
+        fio:
+          firstName: Татьяна
+          secondName: Шатковская
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: konstmun@uriu.ranepa.ru
+        fio:
+          firstName: Павел
+          secondName: Баранов
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: gpprava@uriu.ranepa.ru
+        fio:
+          firstName: Николай
+          secondName: Сармин
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: adminpravo@uriu.ranepa.ru
+        fio:
+          firstName: Леся
+          secondName: Душакова
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: upd@uriu.ranepa.ru
+        fio:
+          firstName: Александр
+          secondName: Бойко
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: process@uriu.ranepa.ru
+        fio:
+          firstName: Сергей
+          secondName: Назаров
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: ectheory@uriu.ranepa.ru
+        fio:
+          firstName: Татьяна
+          secondName: Игнатова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: eсofin@uriu.ranepa.ru
+        fio:
+          firstName: Сергей
+          secondName: Кюрджиев
+          middleName: Пантелеевич
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: nalogibuh@uriu.ranepa.ru
+        fio:
+          firstName: Елена
+          secondName: Золочевская
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: menedjment@uriu.ranepa.ru
+        fio:
+          firstName: Виктория
+          secondName: Некрасова
+          middleName: Витальевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: meo@uriu.ranepa.ru
+        fio:
+          firstName: Татьяна
+          secondName: Подольская
+          middleName: Валентиновна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: filosofia@uriu.ranepa.ru
+        fio:
+          firstName: Екатерина
+          secondName: Попова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: politolog@uriu.ranepa.ru
+        fio:
+          firstName: Александр
+          secondName: Понеделков
+          middleName: Васильевич
+        declination: Уважаемый
+
+
+  - name: РАНХИГС
+    employees:
+      - email: sociolog@uriu.ranepa.ru
+        fio:
+          firstName: Роман
+          secondName: Овчаренко
+          middleName: Константинович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: inyaz@uriu.ranepa.ru
+        fio:
+          firstName: Нина
+          secondName: Котова
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: intech@uriu.ranepa.ru
+        fio:
+          firstName: Марина
+          secondName: Перова
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: fizvos@uriu.ranepa.ru
+        fio:
+          firstName: Галина
+          secondName: Лесникова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: voytovich-ep@ranepa.ru
+        fio:
+          firstName: Елена
+          secondName: Войтович
+          middleName: Павловна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: razdyakonova-ev@ranepa.ru
+        fio:
+          firstName: Евгения
+          secondName: Раздъяконова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: kazmina-eka@ranepa.ru
+        fio:
+          firstName: Екатерина
+          secondName: Казьмина
+          middleName: Алексеевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: krupnitskaya-vi@ranepa.ru
+        fio:
+          firstName: Валерия
+          secondName: Крупницкая
+          middleName: Игоревна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: kuratchenko-ma@ranepa.ru
+        fio:
+          firstName: Марина
+          secondName: Куратченко
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: voytik-im@ranepa.ru
+        fio:
+          firstName: Ирина
+          secondName: Войтик
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: samsonova-ea@ranepa.ru
+        fio:
+          firstName: Евгения
+          secondName: Самсонова
+          middleName: Андреевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: strukova-na@ranepa.ru
+        fio:
+          firstName: Наталья
+          secondName: Струкова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: serga-lk@ranepa.ru
+        fio:
+          firstName: Людмила
+          secondName: Серга
+          middleName: Константиновна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: bykadorov-ia@ranepa.ru
+        fio:
+          firstName: Игорь
+          secondName: Быкадоров
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: mikhaylov-da@ranepa.ru
+        fio:
+          firstName: Дмитрий
+          secondName: Михайлов
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: shpak-no@ranepa.ru
+        fio:
+          firstName: Наталья
+          secondName: Шпак
+          middleName: Олеговна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: gomanova-tk@ranepa.ru
+        fio:
+          firstName: Татьяна
+          secondName: Гоманова
+          middleName: Константиновна
+        declination: Уважаемая
+  - name: РАНХИГС
+    employees:
+      - email: gomanova-tk@ranepa.ru
+        fio:
+          firstName: Татьяна
+          secondName: Гоманова
+          middleName: Константиновна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: cherepkova-tn@ranepa.ru
+        fio:
+          firstName: Татьяна
+          secondName: Черепкова
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: filatova-ng@ranepa.ru
+        fio:
+          firstName: Наталья
+          secondName: Филатова
+          middleName: Геннадьевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: simagina-ov@ranepa.ru
+        fio:
+          firstName: Ольга
+          secondName: Симагина
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: doronina-iv@ranepa.ru
+        fio:
+          firstName: Инга
+          secondName: Доронина
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: polit@vlgr.ranepa.ru
+        fio:
+          firstName: Анжелика
+          secondName: Сырбу
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: grajd@mail.ru
+        fio:
+          firstName: Ольга
+          secondName: Сергачева
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: kismm@vlgr.ranepa.ru
+        fio:
+          firstName: Ольга
+          secondName: Астафурова
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: const@vlgr.ranepa.ru
+        fio:
+          firstName: Денис
+          secondName: Абезин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: lingvo@vlgr.ranepa.ru
+        fio:
+          firstName: Евгения
+          secondName: Гуляева
+          middleName: Вячеславовна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: philosof@vlgr.ranepa.ru
+        fio:
+          firstName: Ангелина
+          secondName: Кузеванова
+          middleName: Леонидовна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: istor@vlgr.ranepa.ru
+        fio:
+          firstName: Ольга
+          secondName: Лукьяновская
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: ugolov-crim@vlgr.ranepa.ru
+        fio:
+          firstName: Василий
+          secondName: Глебов
+          middleName: Герасимович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: nalog@vlgr.ranepa.ru
+        fio:
+          firstName: Ирина
+          secondName: Землянская
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: fizkult@vlgr.ranepa.ru
+        fio:
+          firstName: Геннадий
+          secondName: Дзержинский
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: fip@vlgr.ranepa.ru
+        fio:
+          firstName: Виктория
+          secondName: Усанова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: econ@vlgr.ranepa.ru
+        fio:
+          firstName: Светлана
+          secondName: Бондарева
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: polit@vlgr.ranepa.ru
+        fio:
+          firstName: Анжелика
+          secondName: Сырбу
+          middleName: Николаевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: grajd@mail.ru
+        fio:
+          firstName: Ольга
+          secondName: Сергачева
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: kismm@vlgr.ranepa.ru
+        fio:
+          firstName: Ольга
+          secondName: Астафурова
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: const@vlgr.ranepa.ru
+        fio:
+          firstName: Денис
+          secondName: Абезин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: lingvo@vlgr.ranepa.ru
+        fio:
+          firstName: Евгения
+          secondName: Гуляева
+          middleName: Вячеславовна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: philosof@vlgr.ranepa.ru
+        fio:
+          firstName: Ангелина
+          secondName: Кузеванова
+          middleName: Леонидовна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: istor@vlgr.ranepa.ru
+        fio:
+          firstName: Ольга
+          secondName: Лукьяновская
+          middleName: Валерьевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: ugolov-crim@vlgr.ranepa.ru
+        fio:
+          firstName: Василий
+          secondName: Глебов
+          middleName: Герасимович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: nalog@vlgr.ranepa.ru
+        fio:
+          firstName: Ирина
+          secondName: Землянская
+          middleName: Сергеевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: fizkult@vlgr.ranepa.ru
+        fio:
+          firstName: Геннадий
+          secondName: Дзержинский
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: fip@vlgr.ranepa.ru
+        fio:
+          firstName: Виктория
+          secondName: Усанова
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: econ@vlgr.ranepa.ru
+        fio:
+          firstName: Светлана
+          secondName: Бондарева
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-ponb@niu.ranepa.ru
+        fio:
+          firstName: Марина
+          secondName: Балалаева
+          middleName: Викторовна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-gimp@niu.ranepa.ru
+        fio:
+          firstName: Михаил
+          secondName: Михайлов
+          middleName: Сергеевич
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-inyaz@niu.ranepa.ru
+        fio:
+          firstName: Наталья
+          secondName: Уварова
+          middleName: Львовна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-inform@niu.ranepa.ru
+        fio:
+          firstName: Иван
+          secondName: Гребенюк
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-igp@niu.ranepa.ru
+        fio:
+          firstName: Алексей
+          secondName: Халин
+          middleName: Алексеевич
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-kiap@niu.ranepa.ru
+        fio:
+          firstName: Наталья
+          secondName: Верхова
+          middleName: Борисовна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: Kaf-mmveiu@niu.ranepa.ru
+        fio:
+          firstName: Наталья
+          secondName: Глебова
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-guim@niu.ranepa.ru
+        fio:
+          firstName: Евгений
+          secondName: Егоров
+          middleName: Евгеньевич
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-fizvos@niu.ranepa.ru
+        fio:
+          firstName: Вячеслав
+          secondName: Оринчук
+          middleName: Анатольевич
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-fspu@niu.ranepa.ru
+        fio:
+          firstName: Никита
+          secondName: Шангин
+          middleName: Владимирович
+        declination: Уважаемый
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-fiprfr@niu.ranepa.ru
+        fio:
+          firstName: Елена
+          secondName: Кислова
+          middleName: Геннадьевна
+        declination: Уважаемая
+
+  - name: РАНХИГС
+    employees:
+      - email: kaf-eioecb@niu.ranepa.ru
+        fio:
+          firstName: Наталия
+          secondName: Шмелева
+          middleName: Владимировна
+        declination: Уважаемая

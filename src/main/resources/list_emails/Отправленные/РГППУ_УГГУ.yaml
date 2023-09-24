@@ -1,0 +1,405 @@
+- name: РГППУ
+  employees:
+    - email: Kumskov.Sergey@rsvpu.ru
+      fio:
+        firstName: Сергей
+        secondName: Викторович
+        middleName: Кумсков
+      declination: Уважаемый
+
+- name: РГППУ
+  employees:
+    - email: sergej.anahov@rsvpu.ru
+      fio:
+        firstName: Сергей
+        secondName: Вадимович
+        middleName: Анахов
+      declination: Уважаемый
+
+- name: РГППУ
+  employees:
+    - email: kaf.tep@mail.ru
+      fio:
+        firstName: Надежда
+        secondName: Олеговна
+        middleName: Садовникова
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: dmitrij.zavodchikov@rsvpu.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Павлович
+        middleName: Заводчиков
+      declination: Уважаемый
+
+- name: РГППУ
+  employees:
+    - email: bella.uskova@rsvpu.ru
+      fio:
+        firstName: Белла
+        secondName: Анатольевна
+        middleName: Ускова
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: marin.lar@mail.ru
+      fio:
+        firstName: Марина
+        secondName: Бариевна
+        middleName: Ларионова
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: svetlana.fomenko@rsvpu.ru
+      fio:
+        firstName: Светлана
+        secondName: Леонидовна
+        middleName: Фоменко
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: olga.krayuhina@rsvpu.ru
+      fio:
+        firstName: Ольга
+        secondName: Евгеньевна
+        middleName: Краюхина
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: elena.shupletsova@rsvpu.ru
+      fio:
+        firstName: Елена
+        secondName: Жановна
+        middleName: Шуплецова
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: larisa.kordyukova@rsvpu.ru
+      fio:
+        firstName: Лариса
+        secondName: Владимировна
+        middleName: Кордюкова
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: tatyana.andryuhina@rsvpu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Владимировна
+        middleName: Андрюхина
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: evrika13@yandex.ru
+      fio:
+        firstName: Наталья
+        secondName: Искандарьевна
+        middleName: Зырянова
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: alla.prokubovskaya@rsvpu.ru
+      fio:
+        firstName: Алла
+        secondName: Олеговна
+        middleName: Прокубовская
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: mppo@rsvpu.ru
+      fio:
+        firstName: Борис
+        secondName: Николаевич
+        middleName: Гузанов
+      declination: Уважаемый
+
+- name: РГППУ
+  employees:
+    - email: irina.suslova@rsvpu.ru
+      fio:
+        firstName: Ирина
+        secondName: Александровна
+        middleName: Суслова
+      declination: Уважаемая
+
+- name: РГППУ
+  employees:
+    - email: mppo@rsvpu.ru
+      fio:
+        firstName: Андрей
+        secondName: Владимирович
+        middleName: Феоктистов
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gtf.md@ursmu.ru
+      fio:
+        firstName: Андрей
+        secondName: Викторович
+        middleName: Жабко
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gtf.gd@ursmu.ru
+      fio:
+        firstName: Нияз
+        secondName: Гадым оглы
+        middleName: Валиев
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gtf.shs@m.ursmu.ru
+      fio:
+        firstName: Максим
+        secondName: Николаевич
+        middleName: Волков
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gtf.gk@m.ursmu.ru
+      fio:
+        firstName: Елена
+        secondName: Алексеевна
+        middleName: Акулова
+      declination: Уважаемая
+
+- name: УГГУ
+  employees:
+    - email: gtf.rmos@m.ursmu.ru
+      fio:
+        firstName: Юрий
+        secondName: Иванович
+        middleName: Лель
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: ief.ig@m.ursmu.ru
+      fio:
+        firstName: Елена
+        secondName: Игоревна
+        middleName: Шангина
+      declination: Уважаемая
+
+- name: УГГУ
+  employees:
+    - email: fgz.bgp@m.ursmu.ru
+      fio:
+        firstName: Владимир
+        secondName: Аскольдович
+        middleName: Елохин
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: fgz.glzchs@m.ursmu.ru
+      fio:
+        firstName: Любовь
+        secondName: Александровна
+        middleName: Стороженко
+      declination: Уважаемая
+
+- name: УГГУ
+  employees:
+    - email: fgz.fk@m.ursmu.ru
+      fio:
+        firstName: Сергей
+        secondName: Геннадьевич
+        middleName: Сидоров
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gmf.gm@m.ursmu.ru
+      fio:
+        firstName: Николай
+        secondName: Владимирович
+        middleName: Макаров
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gmf.act@ursmu.ru
+      fio:
+        firstName: Владимир
+        secondName: Сергеевич
+        middleName: Бочков
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gmf.gmk@m.ursmu.ru
+      fio:
+        firstName: Юлия
+        secondName: Андреевна
+        middleName: Лагунова
+      declination: Уважаемая
+
+- name: УГГУ
+  employees:
+    - email: gmf.ego@m.ursmu.ru
+      fio:
+        firstName: Денис
+        secondName: Иванович
+        middleName: Симисинов
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gmf.egp@m.ursmu.ru
+      fio:
+        firstName: Михаил
+        secondName: Евгеньевич
+        middleName: Садовников
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gmf.opi@m.ursmu.ru
+      fio:
+        firstName: Владимир
+        secondName: Зиновьевич
+        middleName: Козин
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gmf.et@m.ursmu.ru
+      fio:
+        firstName: Александр
+        secondName: Владимирович
+        middleName: Угольников
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gmf.chm@m.ursmu.ru
+      fio:
+        firstName: Алексей
+        secondName: Миронович
+        middleName: Амдур
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: gmf.tm@m.ursmu.ru
+      fio:
+        firstName: Евгений
+        secondName: Борисович
+        middleName: Волков
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: ief.em@m.ursmu.ru
+      fio:
+        firstName: Людмила
+        secondName: Анатольевна
+        middleName: Мочалова
+      declination: Уважаемая
+
+- name: УГГУ
+  employees:
+    - email: ief.ie@m.ursmu.ru
+      fio:
+        firstName: Александр
+        secondName: Владимирович
+        middleName: Хохряков
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: ief.pro@m.ursmu.ru
+      fio:
+        firstName: Николай
+        secondName: Васильевич
+        middleName: Гревцев
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: ief.inf@m.ursmu.ru
+      fio:
+        firstName: Алексей
+        secondName: Владимирович
+        middleName: Дружинин
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: ief.flk@m.ursmu.ru
+      fio:
+        firstName: Владислав
+        secondName: Петрович
+        middleName: Беляев
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: ief.hptt@m.ursmu.ru
+      fio:
+        firstName: Валентина
+        secondName: Николаевна
+        middleName: Кардапольцева
+      declination: Уважаемая
+
+- name: УГГУ
+  employees:
+    - email: Iwe.aa@m.ursmu.ru
+      fio:
+        firstName: Екатерина
+        secondName: Григорьевна
+        middleName: Шатковская
+      declination: Уважаемая
+
+- name: УГГУ
+  employees:
+    - email: Iwe.sm@m.ursmu.ru
+      fio:
+        firstName: Александр
+        secondName: Николаевич
+        middleName: Сёмин
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: Nicolai_malcev@mail.ru
+      fio:
+        firstName: Николай
+        secondName: Васильевич
+        middleName: Гревцев
+      declination: Уважаемый
+
+- name: УГГУ
+  employees:
+    - email: ief.up@m.ursmu.ru
+      fio:
+        firstName: Татьяна
+        secondName: Александровна
+        middleName: Ветошкина
+      declination: Уважаемая
+
+- name: УГГУ
+  employees:
+    - email: ief.tl@m.ursmu.ru
+      fio:
+        firstName: Игорь
+        secondName: Владимирович
+        middleName: Бачинин
+      declination: Уважаемый
+

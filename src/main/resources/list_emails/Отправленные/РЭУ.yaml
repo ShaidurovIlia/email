@@ -1,0 +1,458 @@
+- name: РЭУ
+  employees:
+    - email: expertiza@rea.ru
+      fio:
+        firstName: Кира
+        secondName: Калинкина
+        middleName: Евгеньевна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: resin.VI@rea.ru
+      fio:
+        firstName: Владимир
+        secondName: Ресин
+        middleName: Иосифович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: evsikov.AM@rea.ru
+      fio:
+        firstName: Алексей
+        secondName: Евсиков
+        middleName: Михайлович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: lyandau.YUV@rea.ru
+      fio:
+        firstName: Юрий
+        secondName: Ляндау
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: lukashov.AI@rea.ru
+      fio:
+        firstName: Андрей
+        secondName: Лукашов
+        middleName: Иванович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: digo.SM@rea.ru
+      fio:
+        firstName: Светлана
+        secondName: Диго
+        middleName: Михайловна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: ressin.MG@rea.ru
+      fio:
+        firstName: Григорьевич
+        secondName: Марат
+        middleName: Рессин
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: krasilnikova.EA@rea.ru
+      fio:
+        firstName: Елена
+        secondName: Красильникова
+        middleName: Анатольевна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: fateev.ma@rea.ru
+      fio:
+        firstName: Максим
+        secondName: Фатеев
+        middleName: Альбертович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: volobuev.na@rea.ru
+      fio:
+        firstName: Николай
+        secondName: Волобуев
+        middleName: Анатольевич
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: fedyunin.dv@rea.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Федюнин
+        middleName: Валерьевич
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: gagarina.gyu@rea.ru
+      fio:
+        firstName: Галина
+        secondName: Гагарина
+        middleName: Юрьевна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: mudrova.sv@rea.ru
+      fio:
+        firstName: Светлана
+        secondName: Мудрова
+        middleName: Владимировна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: zavyalov.dv@rea.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Завьялов
+        middleName: Вадимович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: progunova.lv@rea.ru
+      fio:
+        firstName: Лада
+        secondName: Прогунова
+        middleName: Викторовна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: krasilnikova.ea@rea.ru
+      fio:
+        firstName: Елена
+        secondName: Красильникова
+        middleName: Анатольевна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: byasharova.ar@rea.ru
+      fio:
+        firstName: Адиля
+        secondName: Бяшарова
+        middleName: Рашидовна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: komarova.ip@rea.ru
+      fio:
+        firstName: Ирина
+        secondName: Комарова
+        middleName: Павловна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: koshkin.ap@rea.ru
+      fio:
+        firstName: Андрей
+        secondName: Кошкин
+        middleName: Петрович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: stepanenko.ka@rea.ru
+      fio:
+        firstName: Катерина
+        secondName: Степаненко
+        middleName: Александровна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: midova.vo@rea.ru
+      fio:
+        firstName: Венера
+        secondName: Мидова
+        middleName: Олеговна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: ivleva.mi@rea.ru
+      fio:
+        firstName: Марина
+        secondName: Ивлева
+        middleName: Ивановна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: lavrushina.ev@rea.ru
+      fio:
+        firstName: Екатерина
+        secondName: Лаврушина
+        middleName: Вадимовна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: aksenov.mo@rea.ru
+      fio:
+        firstName: Максим
+        secondName: Аксенов
+        middleName: Олегович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: dolgova.eg@rea.ru
+      fio:
+        firstName: Елена
+        secondName: Долгова
+        middleName: Геннадьевна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: dmitrieva.ei@rea.ru
+      fio:
+        firstName: Елизавета
+        secondName: Дмитриева
+        middleName: Игоревна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: bevelikova.nm@rea.ru
+      fio:
+        firstName: Нелли
+        secondName: Бевеликова
+        middleName: Михайловна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: kapitanets.yv@rea.ru
+      fio:
+        firstName: Юлия
+        secondName: Капитанец
+        middleName: Владимировна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: kalinkina.ke@rea.ru
+      fio:
+        firstName: Кира
+        secondName: Калинкина
+        middleName: Евгеньевна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: kurbanov.ra@rea.ru
+      fio:
+        firstName: Рашад
+        secondName: Курбанов
+        middleName: Афатович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: fatyanov.aa@rea.ru
+      fio:
+        firstName: Алексей
+        secondName: Фатьянов
+        middleName: Александрович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: nikitin.ia@rea.ru
+      fio:
+        firstName: Игорь
+        secondName: Никитин
+        middleName: Алексеевич
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: ivanova.vn@rea.ru
+      fio:
+        firstName: Валентина
+        secondName: Иванова
+        middleName: Николаевна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: bystrov.av@rea.ru
+      fio:
+        firstName: Андрей
+        secondName: Быстров
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: kagramanyan.ns@rea.ru
+      fio:
+        firstName: Назик
+        secondName: Каграманян
+        middleName: Саядовна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: tokarev.pi@rea.ru
+      fio:
+        firstName: Петр
+        secondName: Токарев
+        middleName: Иванович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: popov.ana@rea.ru
+      fio:
+        firstName: Анатолий
+        secondName: Попов
+        middleName: Анатольевич
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: volkov.nv@rea.ru
+      fio:
+        firstName: Николай
+        secondName: Волков
+        middleName: Валентинович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: sadovnikova.na@rea.ru
+      fio:
+        firstName: Наталья
+        secondName: Садовникова
+        middleName: Алексеевна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: urintsov.ai@rea.ru
+      fio:
+        firstName: Аркадий
+        secondName: Уринцов
+        middleName: Ильич
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: maksimov.da@rea.ru
+      fio:
+        firstName: Денис
+        secondName: Максимов
+        middleName: Алексеевич
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: tatarnikov.ov@rea.ru
+      fio:
+        firstName: Олег
+        secondName: Татарников
+        middleName: Вениаминович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: telnov.yuf@rea.ru
+      fio:
+        firstName: Юрий
+        secondName: Тельнов
+        middleName: Филиппович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: kitova.ov@rea.ru
+      fio:
+        firstName: Ольга
+        secondName: Китова
+        middleName: Викторовна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: velikorossov.vv@rea.ru
+      fio:
+        firstName: Владимир
+        secondName: Великороссов
+        middleName: Викторович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: korolev.vg@rea.ru
+      fio:
+        firstName: Виталий
+        secondName: Королев
+        middleName: Геннадьевич
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: gureeva.ea@rea.ru
+      fio:
+        firstName: Елена
+        secondName: Гуреева
+        middleName: Александровна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: popov.la@rea.ru
+      fio:
+        firstName: Леонид
+        secondName: Попов
+        middleName: Алексеевич
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: denisov.iv@rea.ru
+      fio:
+        firstName: Игорь
+        secondName: Денисов
+        middleName: Владимирович
+      declination: Уважаемый
+
+- name: РЭУ
+  employees:
+    - email: frumina.sv@rea.ru
+      fio:
+        firstName: Светлана
+        secondName: Фрумина
+        middleName: Викторовна
+      declination: Уважаемая
+
+- name: РЭУ
+  employees:
+    - email: kosov.me@rea.ru
+      fio:
+        firstName: Михаил
+        secondName: Косов
+        middleName: Евгеньевич
+      declination: Уважаемый

@@ -1,0 +1,270 @@
+institutes:
+  - name: РЕАВИЗ
+    employees:
+      - email: l.a.soboleva@reaviz.online
+        fio:
+          firstName: Людмила
+          secondName: Соболева
+          middleName: Анатольевна
+        declination: Уважаемая
+
+  - name: РЕАВИЗ
+    employees:
+      - email: r.t.sulaymanova@reaviz.online
+        fio:
+          firstName: Римма
+          secondName: Сулайманова
+          middleName: Тагировна
+        declination: Уважаемая
+
+  - name: РЕАВИЗ
+    employees:
+      - email: v.n.katyuhin@reaviz.online
+        fio:
+          firstName: Валерий
+          secondName: Катюхин
+          middleName: Николаевич
+        declination: Уважаемый
+
+  - name: РЕАВИЗ
+    employees:
+      - email: v.p.kazantsev@reaviz.online
+        fio:
+          firstName: Виктор
+          secondName: Казанцев
+          middleName: Прокопьевич
+        declination: Уважаемый
+
+  - name: РЕАВИЗ
+    employees:
+      - email: r.a.grashin@reaviz.online
+        fio:
+          firstName: Роман
+          secondName: Грашин
+          middleName: Арикович
+        declination: Уважаемый
+
+  - name: РЕАВИЗ
+    employees:
+      - email: v.a.zubarev@reaviz.online
+        fio:
+          firstName: Вадим
+          secondName: Зубарев
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: РЕАВИЗ
+    employees:
+      - email: v.a.ivanov@reaviz.online
+        fio:
+          firstName: Виталий
+          secondName: Иванов
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: naseeva@hse.ru
+        fio:
+          firstName: Наталья
+          secondName: Асеева
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: egromov@hse.ru
+        fio:
+          firstName: Евгений
+          secondName: Громов
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: opochinka@hse.ru
+        fio:
+          firstName: Ольга
+          secondName: Починка
+          middleName: Витальевна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: vkalyagin@hse.ru
+        fio:
+          firstName: Валерий
+          secondName: Калягин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: nkasheev@hse.ru
+        fio:
+          firstName: Николай
+          secondName: Кащеев
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: akatichev@hse.ru
+        fio:
+          firstName: Алексей
+          secondName: Катичев
+          middleName:
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: spavlovskaya@hse.ru
+        fio:
+          firstName: Светлана
+          secondName: Павловская
+          middleName: Владимировна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: mgnazarov@hse.ru
+        fio:
+          firstName: Михаил
+          secondName: Назаров
+          middleName: Геннадьевич
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: mshushkin@hse.ru
+        fio:
+          firstName: Михаил
+          secondName: Шушкин
+          middleName: Александрович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: uchilipenok@hse.ru
+        fio:
+          firstName: Юлия
+          secondName: Чилипенок
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: oisaeva@hse.ru
+        fio:
+          firstName: Оксана
+          secondName: Исаева
+          middleName: Михайловна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: mkleponosova@hse.ru
+        fio:
+          firstName: Марина
+          secondName: Клепоносова
+          middleName: Вячеславовна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: imikheeva@hse.ru
+        fio:
+          firstName: Ирина
+          secondName: Михеева
+          middleName: Вячеславовна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: mloshkareva@hse.ru
+        fio:
+          firstName: Мария
+          secondName: Лошкарева
+          middleName: Евгеньевна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: smurzakov@hse.ru
+        fio:
+          firstName: Сергей
+          secondName: Мурзаков
+          middleName: Иванович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: shasyanova@hse.ru
+        fio:
+          firstName: Светлана
+          secondName: Хасянова
+          middleName: Юрьевна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: mshtefan@hse.ru
+        fio:
+          firstName: Мария
+          secondName: Штефан
+          middleName: Александровна
+        declination: Уважаемая
+
+  - name: НИУ
+    employees:
+      - email: asilaev@hse.ru
+        fio:
+          firstName: Андрей
+          secondName: Силаев
+          middleName: Михайлович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: amaksimov@hse.ru
+        fio:
+          firstName: Андрей
+          secondName: Максимов
+          middleName: Геннадьевич
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: aamakarov@hse.ru
+        fio:
+          firstName: Алексей
+          secondName: Макаров
+          middleName: Станиславович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: salimov@hse.ru
+        fio:
+          firstName: Сергей
+          secondName: Алимов
+          middleName: Альбертович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: AGrichuk@kpmg.ru
+        fio:
+          firstName: Андрей
+          secondName: Гричук
+          middleName: Петрович
+        declination: Уважаемый
+
+  - name: НИУ
+    employees:
+      - email: mgrishakova@hse.ru
+        fio:
+          firstName: Марина
+          secondName: Гришакова
+          middleName: Николаевна
+        declination: Уважаемая
