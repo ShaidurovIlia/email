@@ -1,0 +1,584 @@
+- name: КИУ
+  employees:
+    - email: timirasova@ieml.ru
+      fio:
+        firstName: Асия
+        secondName: Витальевна
+        middleName: Тимирясова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: belitskaya@ieml.ru
+      fio:
+        firstName: Галина
+        secondName: Николаевна
+        middleName: Нотфуллина
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: kramint@mail.ru
+      fio:
+        firstName: Тимур
+        secondName: Владимирович
+        middleName: Крамин
+      declination: Уважаемый
+
+- name: КИУ
+  employees:
+    - email: bezvidnaya@ieml.ru
+      fio:
+        firstName: Марианна
+        secondName: Мироновна
+        middleName: Безвидная
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: info@ieml.ru
+      fio:
+        firstName: Андрей
+        secondName: Геннадьевич
+        middleName: Никитин
+      declination: Уважаемый
+
+- name: КИУ
+  employees:
+    - email: panova@ieml.ru
+      fio:
+        firstName: Альбина
+        secondName: Сергеевна
+        middleName: Панова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: klemin@ieml.ru
+      fio:
+        firstName: Андрей
+        secondName: Владимирович
+        middleName: Клемин
+      declination: Уважаемый
+
+- name: КИУ
+  employees:
+    - email: elatypova@ieml.ru
+      fio:
+        firstName: Эльвира
+        secondName: Юрьевна
+        middleName: Латыпова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: gafarova@ieml.ru
+      fio:
+        firstName: Гузель
+        secondName: Рустамовна
+        middleName: Гафарова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: ibragimova@ieml.ru
+      fio:
+        firstName: Насима
+        secondName: Максумовна
+        middleName: Ибрагимова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: yakovleva@ieml.ru
+      fio:
+        firstName: Елена
+        secondName: Людвиговна
+        middleName: Яковлева
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: souleimanov@ieml.ru
+      fio:
+        firstName: Рамиль
+        secondName: Фаилович
+        middleName: Сулейманов
+      declination: Уважаемый
+
+- name: КИУ
+  employees:
+    - email: grigoryeva@ieml.ru
+      fio:
+        firstName: Ольга
+        secondName: Витальевна
+        middleName: Григорьева
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: skorobogatova@ieml.ru
+      fio:
+        firstName: Анна
+        secondName: Ильдаровна
+        middleName: Скоробогатова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: ahmetova@ieml.ru
+      fio:
+        firstName: Дания
+        secondName: Загриевна
+        middleName: Ахметова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: klimanova@ieml.ru
+      fio:
+        firstName: Наталья
+        secondName: Георгиевна
+        middleName: Климанова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: landa@ieml.ru
+      fio:
+        firstName: Бейниш
+        secondName: Хаймович
+        middleName: Ланда
+      declination: Уважаемый
+
+- name: КИУ
+  employees:
+    - email: srychkov@ieml.ru
+      fio:
+        firstName: Сергей
+        secondName: Юрьевич
+        middleName: Рычков
+      declination: Уважаемый
+
+- name: КИУ
+  employees:
+    - email: uysupovagr@chl.ieml.ru
+      fio:
+        firstName: Гульнара
+        secondName: Ринатовна
+        middleName: Юсупова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: santonov@ieml.ru
+      fio:
+        firstName: Станислав
+        secondName: Алексеевич
+        middleName: Антонов
+      declination: Уважаемый
+
+- name: КИУ
+  employees:
+    - email: shevchenko@ieml.ru
+      fio:
+        firstName: Денис
+        secondName: Вячеславович
+        middleName: Шевченко
+      declination: Уважаемый
+
+- name: КИУ
+  employees:
+    - email: gtaisheva@ieml.ru
+      fio:
+        firstName: Гузель
+        secondName: Равгатовна
+        middleName: Таишева
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: antonova@ieml.ru
+      fio:
+        firstName: Ирина
+        secondName: Ильгизовна
+        middleName: Антонова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: matveeva@ieml.ru
+      fio:
+        firstName: Елена
+        secondName: Лаврентьевна
+        middleName: Матвеева
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: ikabirov@chs.ieml.ru
+      fio:
+        firstName: Ильдар
+        secondName: Сарварович
+        middleName: Кабиров
+      declination: Уважаемый
+
+- name: КИУ
+  employees:
+    - email: ifahrutdinova@ieml.ru
+      fio:
+        firstName: Инесса
+        secondName: Алековна
+        middleName: Фахрутдинова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: gvildanova@ieml.ru
+      fio:
+        firstName: Гузель
+        secondName: Агзамовна
+        middleName: Вильданова
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: rvaleeva@ieml.ru
+      fio:
+        firstName: Роза
+        secondName: Закариевна
+        middleName: Валеева
+      declination: Уважаемая
+
+- name: КИУ
+  employees:
+    - email: kaf31@ieml.ru
+      fio:
+        firstName: Раиса
+        secondName: Исхаковна
+        middleName: Галеева
+      declination: Уважаемая
+
+- name: КГАСУ
+  employees:
+    - email: julia.m@kgasu.ru
+      fio:
+        firstName: Юлия
+        secondName: Владиславовна
+        middleName: Медяник
+      declination: Уважаемая
+
+- name: КГАСУ
+  employees:
+    - email: grado@kgasu.ru
+      fio:
+        firstName: Александр
+        secondName: Алексеевич
+        middleName: Дембич
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: dirarx1@kgasu.ru
+      fio:
+        firstName: Евгений
+        secondName: Иванович
+        middleName: Прокофьев
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: souzd@mail.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Фридович
+        middleName: Кошкин
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: nadyrova-kh@yandex.ru
+      fio:
+        firstName: Ханифа
+        secondName: Габидулловна
+        middleName: Надырова
+      declination: Уважаемая
+
+- name: КГАСУ
+  employees:
+    - email: tpa.kgasu@gmail.com
+      fio:
+        firstName: Иван
+        secondName: Васильевич
+        middleName: Краснобаев
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: vdovin@kgasu.ru
+      fio:
+        firstName: Евгений
+        secondName: Анатольевич
+        middleName: Вдовин
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: samat_tim@mail.ru
+      fio:
+        firstName: Самат
+        secondName: Низаметдинович
+        middleName: Тимергалиев
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: lenarmavliev@yandex.ru
+      fio:
+        firstName: Ленар
+        secondName: Фидаесович
+        middleName: Мавлиев
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: volek71@yandex.ru
+      fio:
+        firstName: Владимир
+        secondName: Львович
+        middleName: Калманович
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: merita@kgasu.ru
+      fio:
+        firstName: Мери
+        secondName: Камоевна
+        middleName: Гулканян
+      declination: Уважаемая
+
+- name: КГАСУ
+  employees:
+    - email: aisofi@kgasu.ru
+      fio:
+        firstName: Анна
+        secondName: Ильинична
+        middleName: Романова
+      declination: Уважаемая
+
+- name: КГАСУ
+  employees:
+    - email: gulsina@kgasu.ru
+      fio:
+        firstName: Гульсина
+        secondName: Мансуровна
+        middleName: Загидуллина
+      declination: Уважаемая
+
+- name: КГАСУ
+  employees:
+    - email: rustem@kgasu.ru
+      fio:
+        firstName: Рустем
+        secondName: Маратович
+        middleName: Сиразетдинов
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: "itmir@kgasu.ru mirsayapov1@mail.ru"
+      fio:
+        firstName: Ильшат
+        secondName: Талгатович
+        middleName: Мирсаяпов
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: 32116@kgasu.ru
+      fio:
+        firstName: Арслан
+        secondName: Маликович
+        middleName: Зиганшин
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: shmelev@kgasu.ru
+      fio:
+        firstName: Алексей
+        secondName: Викторович
+        middleName: Исаев
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: nizameev_kisi@mail.ru
+      fio:
+        firstName: Васил
+        secondName: Габдулхаевич
+        middleName: Низамеев
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: "mirsayapov@kgasu.ru mirsayapov1@mail.ru"
+      fio:
+        firstName: Илизар
+        secondName: Талгатович
+        middleName: Мирсаяпов
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: rusmag007@yandex.ru
+      fio:
+        firstName: Руслан
+        secondName: Абдирашитович
+        middleName: Ибрагимов
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: furer@kgasu.ru
+      fio:
+        firstName: Виктор
+        secondName: Львович
+        middleName: Фурер
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: a_runar@mail.ru
+      fio:
+        firstName: Рунар
+        secondName: Назилович
+        middleName: Абитов
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: "history@kgasu.ru svetakgasu@rambler.ru"
+      fio:
+        firstName: Светлана
+        secondName: Игоревна
+        middleName: Никонова
+      declination: Уважаемая
+
+- name: КГАСУ
+  employees:
+    - email: safin@kgasu.ru
+      fio:
+        firstName: Раис
+        secondName: Семигуллович
+        middleName: Сафин
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: "sulejmanov@kgasu.ru alfred-sulejmanov@yandex.ru"
+      fio:
+        firstName: Альфред
+        secondName: Мидхатович
+        middleName: Сулейманов
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: safiullin_rinat@mail.ru
+      fio:
+        firstName: Ринат
+        secondName: Габдуллович
+        middleName: Сафиуллин
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: khozin@kgasu.ru
+      fio:
+        firstName: Вадим
+        secondName: Григорьевич
+        middleName: Хозин
+      declination: Уважаемый
+
+- name: КГАСУ
+  employees:
+    - email: svf08@mail.ru
+      fio:
+        firstName: Виктор
+        secondName: Федорович
+        middleName: Строганов
+      declination: Уважаемый
+
+- name: АСО
+  employees:
+    - email: kafedra-upip@mail.ru
+      fio:
+        firstName: Резеда
+        secondName: Рашидовна
+        middleName: Салимзянова
+      declination: Уважаемая
+
+- name: АСО
+  employees:
+    - email: kafedra-upip@mail.ru
+      fio:
+        firstName: Резеда
+        secondName: Рашидовна
+        middleName: Салимзянова
+      declination: Уважаемая
+
+- name: АСО
+  employees:
+    - email: Lubovguseva1950@gmail.com
+      fio:
+        firstName: Любовь
+        secondName: Акимовна
+        middleName: Гусева
+      declination: Уважаемая
+
+- name: АСО
+  employees:
+    - email: Lubovguseva1950@gmail.com
+      fio:
+        firstName: Любовь
+        secondName: Акимовна
+        middleName: Гусева
+      declination: Уважаемая
+
+- name: АСО
+  employees:
+    - email: dufaso@mail.ru
+      fio:
+        firstName: Владимир
+        secondName: Григорьевич
+        middleName: Холоднов
+      declination: Уважаемый
+
+- name: АСО
+  employees:
+    - email: dufaso@mail.ru
+      fio:
+        firstName: Ландыш
+        secondName: Габдульбаровна
+        middleName: Габдрахманова
+      declination: Уважаемая
+
+- name: АСО
+  employees:
+    - email: kafedram@mail.ru
+      fio:
+        firstName: Ильхам
+        secondName: Киямович
+        middleName: Киямов
+      declination: Уважаемый
+
+- name: АСО
+  employees:
+    - email: umu-aso@mail.ru
+      fio:
+        firstName: Зульфия
+        secondName: Шамильевна
+        middleName: Яхина
+      declination: Уважаемая

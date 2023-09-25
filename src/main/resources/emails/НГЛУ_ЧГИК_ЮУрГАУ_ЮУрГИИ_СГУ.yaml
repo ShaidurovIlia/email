@@ -1,0 +1,612 @@
+- name: НГЛУ
+  employees:
+    - email: suhareva@lunn.ru
+      fio:
+        firstName: Татьяна
+        secondName: Владимировна
+        middleName: Сухарева
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: kabanova@lunn.ru
+      fio:
+        firstName: Ирина
+        secondName: Николаевна
+        middleName: Кабанова
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: levina@lunn.ru
+      fio:
+        firstName: Людмила
+        secondName: Михайловна
+        middleName: Левина
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: vmbukharov@lunn.ru
+      fio:
+        firstName: Валерий
+        secondName: Михайлович
+        middleName: Бухаров
+      declination: Уважаемый
+
+- name: НГЛУ
+  employees:
+    - email: tkpotapova@lunn.ru
+      fio:
+        firstName: Татьяна
+        secondName: Константиновна
+        middleName: Потапова
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: rakuzmin@lunn.ru
+      fio:
+        firstName: Роберт
+        secondName: Алексеевич
+        middleName: Кузьмин
+      declination: Уважаемый
+
+- name: НГЛУ
+  employees:
+    - email: sdobnik@lunn.ru
+      fio:
+        firstName: Вадим
+        secondName: Витальевич
+        middleName: Сдобников
+      declination: Уважаемый
+
+- name: НГЛУ
+  employees:
+    - email: easakoulina@lunn.ru
+      fio:
+        firstName: Елена
+        secondName: Александровна
+        middleName: Сакулина
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: dkorshunov@lunn.ru
+      fio:
+        firstName: Дмитрий
+        secondName: Сергеевич
+        middleName: Коршунов
+      declination: Уважаемый
+
+- name: НГЛУ
+  employees:
+    - email: banochvina@lunn.ru
+      fio:
+        firstName: Белла
+        secondName: Анатольевна
+        middleName: Ночвина
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: zhiganova@lunn.ru
+      fio:
+        firstName: Анна
+        secondName: Владимировна
+        middleName: Жиганова
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: tabutenko@lunn.ru
+      fio:
+        firstName: Татьяна
+        secondName: Анатольевна
+        middleName: Бутенко
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: agalushkina@lunn.ru
+      fio:
+        firstName: Анна
+        secondName: Ивановна
+        middleName: Галушкина
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: mrotanova@lunn.ru
+      fio:
+        firstName: Мира
+        secondName: Борисовна
+        middleName: Ротанова
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: ekomissarova@lunn.ru
+      fio:
+        firstName: Елена
+        secondName: Ананьевна
+        middleName: Комиссарова
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: vbshibaeva@lunn.ru
+      fio:
+        firstName: Наталья
+        secondName: Борисовна
+        middleName: Шибаева
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: ekuznetsova@lunn.ru
+      fio:
+        firstName: Елена
+        secondName: Игоревна
+        middleName: Кузнецова
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: kggolubeva@lunn.ru
+      fio:
+        firstName: Кристина
+        secondName: Григорьевна
+        middleName: Голубева
+      declination: Уважаемая
+
+- name: НГЛУ
+  employees:
+    - email: omtarasova@lunn.ru
+      fio:
+        firstName: Ольга
+        secondName: Михайловна
+        middleName: Тарасова
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: fdk4@chgaki.ru
+      fio:
+        firstName: Ольга
+        secondName: Николаевна
+        middleName: Зайкова
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: fdpt@chgaki.ru
+      fio:
+        firstName: Жанна
+        secondName: Юрьевна
+        middleName: Чернева
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: hf1@chgaki.ru
+      fio:
+        firstName: Виктор
+        secondName: Иванович
+        middleName: Панферов
+      declination: Уважаемый
+
+- name: ЧГИК
+  employees:
+    - email: kafteor@mail.ru
+      fio:
+        firstName: Ольга
+        secondName: Фёдоровна
+        middleName: Ширяева
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: fdk6@chgaki.ru
+      fio:
+        firstName: Елена
+        secondName: Владимировна
+        middleName: Тищенко
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: kaffrgn@chgaki.ru
+      fio:
+        firstName: Владимир
+        secondName: Борисович
+        middleName: Мещеряков
+      declination: Уважаемый
+
+- name: ЧГИК
+  employees:
+    - email: mpf6@chgaki.ru
+      fio:
+        firstName: Анна
+        secondName: Павловна
+        middleName: Хмелёва
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: mpf2@chgaki.ru
+      fio:
+        firstName: Игорь
+        secondName: Алексеевич
+        middleName: Игнатьев
+      declination: Уважаемый
+
+- name: ЧГИК
+  employees:
+    - email: if4@chgaki.ru
+      fio:
+        firstName: Виктор
+        secondName: Григорьевич
+        middleName: Лебедев
+      declination: Уважаемый
+
+- name: ЧГИК
+  employees:
+    - email: kaf-oi@yandex.ru
+      fio:
+        firstName: Адик
+        secondName: Аскарович
+        middleName: Абдурахманов
+      declination: Уважаемый
+
+- name: ЧГИК
+  employees:
+    - email: kf5@chgaki.ru
+      fio:
+        firstName: Юлия
+        secondName: Борисовна
+        middleName: Тарасова
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: hf1@chgaki.ru
+      fio:
+        firstName: Татьяна
+        secondName: Максимовна
+        middleName: Дубских
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: rkt@chgaki.ru
+      fio:
+        firstName: Николай
+        secondName: Валерьевич
+        middleName: Тележников
+      declination: Уважаемый
+
+- name: ЧГИК
+  employees:
+    - email: tf2@chgaki.ru
+      fio:
+        firstName: Александр
+        secondName: Алексеевич
+        middleName: Мордасов
+      declination: Уважаемый
+
+- name: ЧГИК
+  employees:
+    - email: kf2@chgaki.ru
+      fio:
+        firstName: Елена
+        secondName: Викторовна
+        middleName: Семёнова
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: kaf-tis@chgaki.ru
+      fio:
+        firstName: Игорь
+        secondName: Алексеевич
+        middleName: Мухин
+      declination: Уважаемый
+
+- name: ЧГИК
+  employees:
+    - email: kaf-fiz@chgaki.ru
+      fio:
+        firstName: Вероника
+        secondName: Борисовна
+        middleName: Бутузова
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: kf4@chgaki.ru
+      fio:
+        firstName: Людмила
+        secondName: Борисовна
+        middleName: Зубанова
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: kaf-hd@chgaki.ru
+      fio:
+        firstName: Екатерина
+        secondName: Анатольевна
+        middleName: Коробейникова
+      declination: Уважаемая
+
+- name: ЧГИК
+  employees:
+    - email: kaf-jazz@chgaki.ru
+      fio:
+        firstName: Татьяна
+        secondName: Степановна
+        middleName: Луценко
+      declination: Уважаемая
+
+- name: ЮУрГАУ
+  employees:
+    - email: t.knb@sursau.ru
+      fio:
+        firstName: Александр
+        secondName: Михайлович
+        middleName: Гертман
+      declination: Уважаемый
+
+- name: ЮУрГАУ
+  employees:
+    - email: t.kib@sursau.ru
+      fio:
+        firstName: Нина
+        secondName: Александровна
+        middleName: Журавель
+      declination: Уважаемая
+
+- name: ЮУрГАУ
+  employees:
+    - email: t.kmpt@sursau.ru
+      fio:
+        firstName: Алевтин
+        secondName: Викторович
+        middleName: Мифтахутдинов
+      declination: Уважаемый
+
+- name: ЮУрГАУ
+  employees:
+    - email: kfpp@sursau.ru
+      fio:
+        firstName: Нина
+        secondName: Павловна
+        middleName: Тропникова
+      declination: Уважаемая
+
+- name: ЮУрГАУ
+  employees:
+    - email: t.kgr@sursau.ru
+      fio:
+        firstName: Людмила
+        secondName: Юрьевна
+        middleName: Овчинникова
+      declination: Уважаемая
+
+- name: ЮУрГАУ
+  employees:
+    - email: kaf.himec@sursau.ru
+      fio:
+        firstName: Марина
+        secondName: Аркадьевна
+        middleName: Дерхо
+      declination: Уважаемая
+
+- name: ЮУрГАУ
+  employees:
+    - email: t.kkg@sursau.ru
+      fio:
+        firstName: Светлана
+        secondName: Анатольевна
+        middleName: Гриценко
+      declination: Уважаемая
+
+- name: ЮУрГАУ
+  employees:
+    - email: kea@sursau.ru
+      fio:
+        firstName: Виталий
+        secondName: Матвеевич
+        middleName: Попов
+      declination: Уважаемый
+
+- name: ЮУрГАУ
+  employees:
+    - email: kmed@sursau.ru
+      fio:
+        firstName: Елена
+        secondName: Михайловна
+        middleName: Басарыгина
+      declination: Уважаемая
+
+- name: ЮУрГАУ
+  employees:
+    - email: ksgdrki@sursau.ru
+      fio:
+        firstName: Светлана
+        secondName: Александровна
+        middleName: Нестерова
+      declination: Уважаемая
+
+- name: ЮУрГАУ
+  employees:
+    - email: ktot@sursau.ru
+      fio:
+        firstName: Александр
+        secondName: Владимирович
+        middleName: Старунов
+      declination: Уважаемый
+
+- name: ЮУрГАУ
+  employees:
+    - email: kmtp@sursau.ru
+      fio:
+        firstName: Рафкат
+        secondName: Мирхатович
+        middleName: Латыпов
+      declination: Уважаемый
+
+- name: ЮУрГАУ
+  employees:
+    - email: ass.iae@sursau.ru
+      fio:
+        firstName: Наталья
+        secondName: Васильевна
+        middleName: Киреева
+      declination: Уважаемая
+
+- name: ЮУрГАУ
+  employees:
+    - email: t.kptic@sursau.ru
+      fio:
+        firstName: Юлия
+        secondName: Васильевна
+        middleName: Матросова
+      declination: Уважаемая
+
+- name: ЮУрГИИ
+  employees:
+    - email: kaf.of@uyrgii.ru
+      fio:
+        firstName: Флюра
+        secondName: Хазиахметовна
+        middleName: Валеева
+      declination: Уважаемая
+
+- name: ЮУрГИИ
+  employees:
+    - email: mie@uyrgii.ru
+      fio:
+        firstName: Антон
+        secondName: Николаевич
+        middleName: Бугаев
+      declination: Уважаемый
+
+- name: ЮУрГИИ
+  employees:
+    - email: kaf.sfkki@uyrgii.ru
+      fio:
+        firstName: Олег
+        secondName: Павлович
+        middleName: Яновский
+      declination: Уважаемый
+
+- name: ЮУрГИИ
+  employees:
+    - email: kaf.itmk@uyrgii.ru
+      fio:
+        firstName: Наталья
+        secondName: Юрьевна
+        middleName: Кучер
+      declination: Уважаемая
+
+- name: ЮУрГИИ
+  employees:
+    - email: kaf.osi@uyrgii.ru
+      fio:
+        firstName: Александр
+        secondName: Юрьевич
+        middleName: Смирнов
+      declination: Уважаемый
+
+- name: ЮУрГИИ
+  employees:
+    - email: kaf.odi@uyrgii.ru
+      fio:
+        firstName: Александр
+        secondName: Александрович
+        middleName: Гейнеман
+      declination: Уважаемый
+
+- name: ЮУрГИИ
+  employees:
+    - email: kaf.oni@uyrgii.ru
+      fio:
+        firstName: Ольга
+        secondName: Валентиновна
+        middleName: Слуева
+      declination: Уважаемая
+
+- name: ЮУрГИИ
+  employees:
+    - email: kaf.hd@uyrgii.ru
+      fio:
+        firstName: Ольга
+        secondName: Геннадьевна
+        middleName: Сафронова
+      declination: Уважаемая
+
+- name: ЮУрГИИ
+  employees:
+    - email: kaf.sp@uyrgii.ru
+      fio:
+        firstName: Наталья
+        secondName: Александровна
+        middleName: Заварзина
+      declination: Уважаемая
+
+- name: ЮУрГИИ
+  employees:
+    - email: narod.pesni@uyrgii.ru
+      fio:
+        firstName: Надежда
+        secondName: Ивановна
+        middleName: Бухарина
+      declination: Уважаемая
+
+- name: СГУ
+  employees:
+    - email: biofac@info.sgu.ru
+      fio:
+        firstName: Ольга
+        secondName: Ивановна
+        middleName: Юдакова
+      declination: Уважаемая
+
+- name: СГУ
+  employees:
+    - email: monachsj@mail.ru
+      fio:
+        firstName: Сергей
+        secondName: Юрьевич
+        middleName: Монахов
+      declination: Уважаемый
+
+- name: СГУ
+  employees:
+    - email: inchem@info.sgu.ru
+      fio:
+        firstName: Ирина
+        secondName: Юрьевна
+        middleName: Горячева
+      declination: Уважаемая
+
+- name: СГУ
+  employees:
+    - email: medcentre@sgu.ru
+      fio:
+        firstName: Валерий
+        secondName: Викторович
+        middleName: Тучин
+      declination: Уважаемый
+
+- name: СГУ
+  employees:
+    - email: cpod@info.sgu.ru
+      fio:
+        firstName: Екатерина
+        secondName: Игоревна
+        middleName: Балакирева
+      declination: Уважаемая
+
